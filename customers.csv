@@ -1,0 +1,3021 @@
+customer_id,state,signup_date,plan,contract_type,payment_method,monthly_fee,cancel_date
+1,SC,2021-10-08,Premium 600MB,Mensal,Pix,149.9,
+2,PR,2022-12-16,Intermediário 300MB,Bienal,Débito automático,109.9,
+3,PR,2022-07-05,Intermediário 300MB,Mensal,Boleto,109.9,
+4,,2022-05-31,Básico 100MB,Mensal,Boleto,79.9,2025-10-23
+5,RS,2023-11-25,Básico 100MB,Anual,Cartão de crédito,79.9,
+6,SC,2025-05-09,Premium 600MB,Bienal,Débito automático,149.9,
+7,MG,2020-09-09,Básico 100MB,Anual,Boleto,79.9,
+8,PR,2022-10-21,Básico 100MB,Anual,Pix,79.9,2025-09-13
+9,SP,2020-04-26,Premium 600MB,Mensal,Débito automático,149.9,
+10,PR,2023-06-22,Básico 100MB,Mensal,Débito automático,79.9,
+11,PR,2025-04-05,Básico 100MB,Anual,Pix,79.9,
+12,SP,2019-10-09,Básico 100MB,Anual,Débito automático,79.9,
+13,PR,2024-01-11,Intermediário 300MB,Bienal,Boleto,109.9,
+14,PR,2021-07-09,Intermediário 300MB,Bienal,Débito automático,109.9,
+15,SC,2023-07-25,Premium 600MB,Anual,Cartão de crédito,149.9,
+16,SP,2022-09-28,Básico 100MB,Mensal,Pix,79.9,
+17,PR,2022-01-11,Intermediário 300MB,Anual,Pix,109.9,
+18,SC,2022-08-28,Intermediário 300MB,Anual,Débito automático,109.9,
+19,RS,2020-09-02,Intermediário 300MB,Mensal,Cartão de crédito,109.9,2025-03-02
+20,PR,2019-06-22,Básico 100MB,Anual,Débito automático,79.9,2025-09-17
+21,RS,2025-09-17,Premium 600MB,Bienal,Cartão de crédito,149.9,
+22,SC,2021-06-17,Básico 100MB,Mensal,CARTÃO DE CRÉDITO,79.9,2025-03-27
+23,SP,2020-09-17,Premium 600MB,Anual,Débito automático,149.9,
+24,PR,2022-05-18,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-11-29
+25,RJ,2025-01-07,Básico 100MB,Mensal,Débito automático,79.9,2025-03-23
+26,SP,2022-01-31,Básico 100MB,Mensal,Débito automático,79.9,
+27,PR,2024-05-11,Básico 100MB,Bienal,Cartão de crédito,79.9,2025-10-04
+28,PR,2019-12-07,Intermediário 300MB,Mensal,Boleto,109.9,2025-07-02
+29,,2020-12-14,Intermediário 300MB,Mensal,Pix,109.9,
+30,SC,2024-08-12,Intermediário 300MB,Mensal,Boleto,109.9,
+31,RS,2022-11-19,Básico 100MB,Mensal,Boleto ,79.9,
+32,RS,2023-08-07,Básico 100MB,Bienal,Pix,79.9,
+33,SP,2021-03-08,Básico 100MB,Anual,Cartão de crédito,79.9,
+34,RJ,2025-01-28,Básico 100MB,Bienal,Débito automático,79.9,2025-09-15
+35,SP,2025-06-23,Intermediário 300MB,Anual,Boleto,109.9,
+36,SC,2022-12-19,Premium 600MB,Anual,Débito automático,149.9,
+37,MG,2021-01-21,Básico 100MB,Anual,Cartão de crédito,79.9,
+38,SC,2025-01-21,Básico 100MB,Anual,Débito automático,79.9,
+39,MG,2020-01-28,Básico 100MB,Mensal,Débito automático,79.9,
+40,SC,2025-01-01,Básico 100MB,Mensal,Boleto,79.9,
+41,RS,2023-02-23,Intermediário 300MB,Mensal,Boleto,109.9,
+42,,2025-04-09,Intermediário 300MB,Bienal,Cartão de crédito,109.9,
+43,PR,2023-03-22,Básico 100MB,Bienal,Débito automático,79.9,
+44,PR,2023-06-18,Básico 100MB,Mensal,Boleto,79.9,2025-07-25
+45,PR,2021-07-15,Básico 100MB,Mensal,Boleto,79.9,2025-04-02
+46,,2019-07-05,Básico 100MB,Mensal,Cartão de crédito,79.9,
+47,PR,2025-08-01,Básico 100MB,Bienal,Boleto,79.9,
+48,PR,2024-10-07,Premium 600MB,Bienal,Boleto,149.9,2025-11-23
+49,SC,2023-10-03,Básico 100MB,Anual,Débito automático,79.9,
+50,SP,2022-03-18,Básico 100MB,Anual,Boleto,79.9,2025-08-27
+51,SP,2022-07-04,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+52,PR,2023-07-10,Intermediário 300MB,Anual,Boleto,109.9,
+53,PR,2021-05-03,Básico 100MB,Mensal,Débito automático,79.9,
+54,RJ,2023-09-27,Intermediário 300MB,Bienal,Pix,109.9,
+55,SC,2019-11-09,Básico 100MB,Mensal,Boleto,79.9,
+56,SC,2019-12-19,Premium 600MB,Bienal,Boleto,149.9,2025-09-04
+57,PR,2024-11-02,Básico 100MB,Mensal,Pix,79.9,2025-04-20
+58,RS,2022-02-20,Básico 100MB,Mensal,Boleto,79.9,
+59,PR,2021-08-24,Básico 100MB,Mensal,Débito automático,79.9,
+60,SP,2020-08-29,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+61,RJ,2022-11-27,Básico 100MB,Mensal,Débito automático,79.9,2025-02-22
+62,SC,2022-03-13,Básico 100MB,Anual,Débito automático,79.9,
+63,SC,2020-05-03,Básico 100MB,Anual,Boleto,79.9,
+64,SC,2021-10-26,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+65,MG,2022-05-12,Intermediário 300MB,Anual,Débito automático,109.9,
+66,RS,2021-07-31,Básico 100MB,Anual,Débito automático,79.9,
+67,PR,2025-08-12,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-11-10
+68,PR,2021-07-03,Intermediário 300MB,Mensal,Pix,109.9,2025-03-13
+69,SP,2025-07-14,Premium 600MB,Anual,Cartão de crédito,149.9,
+70,PR,2020-06-14,Intermediário 300MB,Anual,Boleto,109.9,
+71,PR,2020-10-05,Intermediário 300MB,Mensal,DÉBITO AUTOMÁTICO,109.9,
+72,RJ,2022-08-24,Premium 600MB,Mensal,Pix,149.9,
+73,MG,2025-01-22,Premium 600MB,Mensal,Pix,149.9,
+74,SP,2019-08-04,Básico 100MB,Mensal,Pix,79.9,2025-08-27
+75,SC,2023-02-27,Intermediário 300MB,Anual,Pix,109.9,
+76,SP,2022-07-27,Premium 600MB,Anual,Boleto,149.9,
+77,MG,2024-12-18,Intermediário 300MB,Anual,Débito automático,109.9,
+78,SP,2023-07-05,Premium 600MB,Bienal,Boleto,149.9,
+79,PR,2022-08-06,Intermediário 300MB,Mensal,Débito automático,109.9,
+80,PR,2023-08-01,Básico 100MB,Bienal,Boleto,79.9,
+81,SC,2020-06-26,Premium 600MB,Mensal,Boleto,149.9,2025-06-15
+82,PR,2024-01-24,Intermediário 300MB,Mensal,Cartão de crédito,109.9,2025-11-21
+83,SC,2020-07-23,Intermediário 300MB,Mensal,Boleto,109.9,2025-07-27
+84,MG,2020-06-13,Premium 600MB,Bienal,Cartão de crédito,149.9,
+85,SP,2024-05-01,Premium 600MB,Bienal,Cartão de crédito,149.9,2025-12-27
+86,PR,2025-08-26,Intermediário 300MB,Bienal,Boleto,109.9,
+87,RJ,2025-02-17,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+88,SP,2025-05-22,Básico 100MB,Mensal,Pix,79.9,
+89,PR,2019-12-18,Intermediário 300MB,Anual,Débito automático,109.9,
+90,PR,2024-07-07,Básico 100MB,Anual,Cartão de crédito,79.9,
+91,PR,2021-07-19,Premium 600MB,Mensal,Boleto,149.9,
+92,SC,2020-10-15,Premium 600MB,Anual,Pix,149.9,
+93,RS,2024-03-17,Premium 600MB,Mensal,Débito automático,149.9,
+94,SP,2021-08-13,Básico 100MB,Anual,Débito automático,79.9,
+95,PR,2025-04-16,Básico 100MB,Mensal,Débito automático,79.9,2025-11-04
+96,SP,2024-08-08,Premium 600MB,Mensal,Boleto,149.9,
+97,RJ,2023-09-18,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-05-20
+98,SP,2022-01-16,Premium 600MB,Mensal,Cartão de crédito,149.9,
+99,,2023-06-25,Intermediário 300MB,Bienal,Débito automático,109.9,
+100,,2022-03-25,Premium 600MB,Anual,Cartão de crédito,149.9,
+101,PR,2020-10-15,Básico 100MB,Bienal,Pix,79.9,2025-04-23
+102,RS,2020-07-02,Premium 600MB,Mensal,Cartão de crédito,149.9,2025-10-05
+103,SC,2021-10-18,Premium 600MB,Mensal,Boleto,149.9,2025-12-07
+104,SP,2020-06-27,Básico 100MB,Anual,Boleto,79.9,
+105,PR,2019-12-24,Básico 100MB,Anual,Boleto,79.9,
+106,SC,2022-04-04,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-11-15
+107,PR,2024-07-25,Básico 100MB,Anual,Pix,79.9,
+108,SP,2023-06-24,Básico 100MB,Mensal,Cartão de crédito,,
+109,SP,2021-10-11,Intermediário 300MB,Bienal,Boleto,109.9,
+110,RJ,2020-12-15,Premium 600MB,Mensal,Pix,149.9,
+111,,2022-03-17,Intermediário 300MB,Mensal,Cartão de crédito,,
+112,PR,2019-09-04,Intermediário 300MB,Mensal,Débito automático,109.9,2025-08-19
+113,SP,2024-09-05,Intermediário 300MB,Mensal,Cartão de crédito,109.9,2025-09-20
+114,PR,2024-03-23,Básico 100MB,Mensal,Cartão de crédito,79.9,
+115,MG,2025-08-26,Básico 100MB,Mensal,Cartão de crédito,79.9,
+116,MG,2024-01-04,Básico 100MB,Bienal,Boleto,79.9,
+117,PR,2020-11-22,Intermediário 300MB,Mensal,Débito automático,109.9,
+118,SC,2022-04-25,Intermediário 300MB,Mensal,Débito automático,109.9,2025-08-17
+119,SC,2022-08-27,Premium 600MB,Mensal,Pix,149.9,2022-07-28
+120,PR,2024-02-17,Premium 600MB,Anual,Boleto,149.9,
+121,RS,2024-05-24,Intermediário 300MB,Anual,Pix,109.9,
+122,SP,2023-10-15,Básico 100MB,Anual,Boleto,79.9,2025-08-26
+123,RS,2021-08-04,Básico 100MB,Mensal,Boleto,79.9,
+124,SP,2022-04-17,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+125,PR,2023-11-30,Básico 100MB,Mensal,Boleto,79.9,
+126,SP,2023-02-23,Básico 100MB,Mensal,Pix,79.9,
+127,,2024-11-02,Básico 100MB,Anual,Débito automático,79.9,2025-11-28
+128,RJ,2023-02-14,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+129,MG,2023-12-20,Intermediário 300MB,Bienal,Pix,109.9,
+130,MG,2023-08-08,Básico 100MB,Mensal,Boleto,79.9,
+131,SP,2024-12-29,Básico 100MB,Anual,Débito automático,79.9,
+132,PR,2023-07-06,Básico 100MB,Mensal,Boleto,79.9,
+133,MG,2025-07-16,Intermediário 300MB,Bienal,Débito automático,109.9,
+134,RJ,2023-04-09,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+135,PR,2023-04-01,Básico 100MB,Mensal,Débito automático,79.9,2025-11-30
+136,SP,2022-12-28,Premium 600MB,Bienal,Boleto,149.9,
+137,PR,2022-01-28,Básico 100MB,Mensal,Cartão de crédito,79.9,
+138,RS,2024-04-03,Básico 100MB,Anual,Cartão de crédito,79.9,2025-02-19
+139,RS,2022-12-04,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+140,PR,2021-05-10,Premium 600MB,Bienal,Pix,149.9,
+141,SP,2023-06-19,Premium 600MB,Mensal,Boleto,149.9,2025-03-01
+142,SP,2023-05-05,Básico 100MB,Mensal,Pix,79.9,
+143,PR,2021-03-10,Premium 600MB,Mensal,Cartão de crédito,,
+144,MG,2020-04-13,Básico 100MB,Anual,Pix,79.9,
+145,SP,2022-11-09,Básico 100MB,Mensal,Cartão de crédito,79.9,
+146,PR,2021-04-14,Intermediário 300MB,Mensal,Boleto,109.9,
+147,SP,2021-03-25,Intermediário 300MB,Mensal,Débito automático,109.9,
+148,RS,2024-11-19,Básico 100MB,Anual,Pix,79.9,
+149,PR,2023-11-18,Premium 600MB,Mensal,Boleto,149.9,2025-12-24
+150,SP,2023-07-05,Básico 100MB,Bienal,Pix,79.9,
+151,RJ,2022-07-11,Premium 600MB,Bienal,Pix,149.9,
+152,SC,2024-06-27,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-03-02
+153,SP,2023-07-30,Premium 600MB,Bienal,Débito automático,,
+154,SP,2020-12-15,Básico 100MB,Mensal,Débito automático,79.9,
+155,PR,2022-12-13,Básico 100MB,Anual,Pix,79.9,
+156,PR,2023-11-23,Intermediário 300MB,Bienal,Pix,109.9,
+157,SP,2021-04-29,Básico 100MB,Mensal,Cartão de crédito,79.9,
+158,SC,2025-04-30,Básico 100MB,Bienal,Boleto,79.9,
+159,PR,2019-06-02,Premium 600MB,Anual,Cartão de crédito,149.9,2025-07-31
+160,PR,2021-03-03,Intermediário 300MB,Mensal,Boleto,109.9,2025-12-05
+161,PR,2025-08-15,Intermediário 300MB,Anual,Débito automático,109.9,
+162,SC,2023-10-07,Premium 600MB,Anual,Boleto,149.9,
+163,PR,2021-10-02,Premium 600MB,Mensal,Débito automático,149.9,2025-06-12
+164,MG,2024-03-25,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+165,MG,2023-12-18,Básico 100MB,Anual,CARTÃO DE CRÉDITO,79.9,
+166,PR,2022-07-28,Básico 100MB,Mensal,Boleto,79.9,2025-03-05
+167,PR,2022-05-12,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+168,SC,2024-02-02,Básico 100MB,Anual,Débito automático,79.9,
+169,PR,2024-01-21,Premium 600MB,Mensal,Boleto,149.9,2025-01-26
+170,PR,2024-02-28,Premium 600MB,Mensal,Cartão de crédito,149.9,
+171,RJ,2023-05-10,Básico 100MB,Mensal,Débito automático,79.9,2025-07-14
+172,SC,2025-09-11,Básico 100MB,Anual,Boleto,,
+173,SP,2021-09-13,Premium 600MB,Mensal,Boleto,149.9,
+174,RS,2019-12-20,Premium 600MB,Mensal,Débito automático,149.9,2025-10-25
+175,RS,2019-10-01,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-06-07
+176,PR,2020-07-05,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+177,PR,2021-07-06,Premium 600MB,Mensal,Boleto,149.9,
+178,SP,2020-03-20,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+179,SP,2019-12-15,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-05-30
+180,SP,2024-09-12,Premium 600MB,Mensal,Débito automático,149.9,
+181,RS,2025-05-31,Intermediário 300MB,Anual,Débito automático,109.9,
+182,SC,2021-01-29,Intermediário 300MB,Bienal,Pix,109.9,
+183,RJ,2022-07-22,Básico 100MB,Mensal,Boleto,79.9,
+184,PR,2019-12-04,Básico 100MB,Anual,Débito automático,79.9,
+185,SP,2024-04-29,Básico 100MB,Mensal,Boleto,79.9,
+186,SP,2021-03-21,Intermediário 300MB,Anual,Débito automático,109.9,
+187,MG,2024-10-07,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-03-28
+188,PR,2023-03-01,Premium 600MB,Mensal,Débito automático,149.9,
+189,PR,2024-11-07,Intermediário 300MB,Anual,Pix,109.9,
+190,SP,2023-08-13,Básico 100MB,Anual,Pix,79.9,
+191,SP,2019-10-25,Básico 100MB,Anual,Cartão de crédito,79.9,
+192,PR,2024-02-29,Premium 600MB,Mensal,Cartão de crédito,149.9,
+193,,2024-06-17,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+194,RJ,2020-10-01,Intermediário 300MB,Mensal,Cartão de crédito,109.9,2025-11-06
+195,SP,2024-10-11,Básico 100MB,Mensal,Cartão de crédito,79.9,
+196,MG,2023-12-20,Básico 100MB,Mensal,Débito automático,79.9,2025-05-29
+197,SC,2021-03-02,Básico 100MB,Bienal,Boleto,79.9,
+198,PR,2024-05-07,Intermediário 300MB,Anual,Boleto,109.9,2025-02-22
+199,RJ,2024-10-21,Premium 600MB,Bienal,Cartão de crédito,149.9,2025-01-04
+200,MG,2025-06-07,Premium 600MB,Mensal,Boleto,149.9,2025-06-11
+201,RJ,2023-05-09,Intermediário 300MB,Mensal,Pix,109.9,2025-08-02
+202,RJ,2023-11-21,Intermediário 300MB,Bienal,Cartão de crédito,109.9,
+203,MG,2020-02-18,Básico 100MB,Mensal,Cartão de crédito ,79.9,2025-07-08
+204,PR,2024-04-22,Básico 100MB,Mensal,Débito automático,79.9,
+205,SP,2025-05-31,Básico 100MB,Mensal,Pix,79.9,
+206,,2021-02-13,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+207,SP,2022-03-13,Intermediário 300MB,Mensal,Boleto,109.9,
+208,PR,2021-10-28,Básico 100MB,Anual,Pix,79.9,
+209,SP,2025-01-09,Premium 600MB,Bienal,Débito automático,149.9,
+210,RJ,2023-01-18,Intermediário 300MB,Mensal,Débito automático,109.9,
+211,PR,2025-09-18,Intermediário 300MB,Anual,Débito automático,109.9,
+212,RS,2020-08-26,Básico 100MB,Mensal,Débito automático,79.9,
+213,SP,2022-08-27,Básico 100MB,Mensal,Boleto,79.9,
+214,SP,2025-01-16,Premium 600MB,Anual,Pix,149.9,
+215,RJ,2024-01-08,Básico 100MB,Mensal,Pix,79.9,2025-10-30
+216,RJ,2025-08-03,Premium 600MB,Mensal,Cartão de crédito,149.9,
+217,SC,2022-07-29,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+218,RS,2020-07-08,Básico 100MB,Anual,Débito automático,79.9,
+219,PR,2025-06-08,Básico 100MB,Anual,Débito automático,79.9,2025-10-23
+220,PR,2025-03-02,Básico 100MB,Anual,Boleto,79.9,
+221,RJ,2024-01-22,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-06-27
+222,SC,2021-02-17,Intermediário 300MB,Bienal,Pix,109.9,
+223,SP,2021-01-07,Intermediário 300MB,Anual,Boleto,109.9,
+224,RS,2023-12-05,Premium 600MB,Mensal,Boleto,149.9,2025-05-11
+225,PR,2023-05-14,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-12-29
+226,SC,2023-05-16,Básico 100MB,Bienal,Boleto,79.9,2025-06-24
+227,SP,2019-09-12,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+228,MG,2020-02-09,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+229,PR,2023-07-06,Premium 600MB,Bienal,Boleto,149.9,
+230,RJ,2019-09-07,Básico 100MB,Mensal,Cartão de crédito,79.9,
+231,PR,2025-06-09,Intermediário 300MB,Mensal,Boleto,,
+232,PR,2024-07-28,Intermediário 300MB,Mensal,Débito automático,109.9,2025-09-19
+233,SC,2024-09-01,Básico 100MB,Bienal,Débito automático,79.9,
+234,SC,2021-10-25,Básico 100MB,Mensal,Cartão de crédito,79.9,
+235,PR,2020-05-03,Básico 100MB,Anual,Débito automático,79.9,
+236,PR,2022-01-12,Premium 600MB,Mensal,Pix,149.9,2025-06-18
+237,MG,2024-01-30,Intermediário 300MB,Bienal,Pix,,
+238,PR,2019-11-08,Premium 600MB,Mensal,Boleto,149.9,
+239,SC,2023-10-21,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-05-03
+240,SC,2020-07-02,Intermediário 300MB,Mensal,Boleto,109.9,
+241,SP,2022-12-22,Premium 600MB,Mensal,Boleto,149.9,2025-07-14
+242,SC,2021-08-24,Básico 100MB,Mensal,Débito automático,79.9,2025-08-18
+243,SP,2023-08-06,Básico 100MB,Anual,Boleto,79.9,
+244,RJ,2024-09-01,Intermediário 300MB,Mensal,Débito automático,109.9,2025-02-17
+245,PR,2023-04-16,Premium 600MB,Anual,Débito automático,149.9,
+246,RS,2022-08-02,Premium 600MB,Anual,Cartão de crédito,149.9,
+247,PR,2022-10-01,Premium 600MB,Bienal,Boleto,149.9,2025-08-15
+248,SP,2020-07-05,Intermediário 300MB,Mensal,Débito automático,109.9,
+249,SC,2021-03-01,Intermediário 300MB,Mensal,Cartão de crédito,109.9,2025-10-11
+250,PR,2020-09-02,Intermediário 300MB,Mensal,Boleto,109.9,
+251,SP,2022-01-10,Intermediário 300MB,Mensal,BOLETO,109.9,
+252,RS,2020-09-12,Intermediário 300MB,Mensal,Cartão de crédito,109.9,2025-05-28
+253,PR,2022-04-11,Premium 600MB,Mensal,Débito automático,149.9,2025-12-04
+254,SP,2024-01-19,Básico 100MB,Bienal,Débito automático,79.9,
+255,RJ,2025-02-14,Básico 100MB,Anual,Pix,79.9,
+256,RJ,2025-08-25,Básico 100MB,Bienal,Cartão de crédito,79.9,
+257,PR,2020-12-14,Básico 100MB,Mensal,Débito automático,79.9,
+258,PR,2024-05-04,Intermediário 300MB,Anual,Débito automático,109.9,
+259,PR,2025-02-03,Intermediário 300MB,Anual,Boleto,109.9,
+260,RJ,2020-01-12,Básico 100MB,Bienal,Débito automático,79.9,
+261,MG,2021-08-06,Intermediário 300MB,Mensal,Boleto,109.9,
+262,MG,2022-01-15,Básico 100MB,Mensal,Pix,79.9,
+263,SP,2023-07-14,Intermediário 300MB,Anual,Débito automático,109.9,
+264,PR,2020-08-26,Intermediário 300MB,Bienal,Débito automático,109.9,
+265,MG,2021-08-24,Premium 600MB,Mensal,Pix,149.9,2025-08-24
+266,RS,2021-03-20,Intermediário 300MB,Anual,Boleto,109.9,
+267,SC,2020-11-28,Intermediário 300MB,Mensal,Pix,109.9,
+268,RJ,2022-09-28,Premium 600MB,Anual,Débito automático,149.9,
+269,SC,2019-06-17,Premium 600MB,Anual,Boleto,149.9,
+270,PR,2022-10-26,Premium 600MB,Mensal,Débito automático,149.9,
+271,RS,2025-06-14,Básico 100MB,Anual,Cartão de crédito,79.9,
+272,PR,2022-05-05,Básico 100MB,Mensal,Cartão de crédito,79.9,
+273,SC,2025-04-16,Básico 100MB,Mensal,Boleto,79.9,
+274,,2024-04-03,Básico 100MB,Mensal,Débito automático,79.9,2025-04-01
+275,PR,2022-04-26,Premium 600MB,Bienal,Cartão de crédito,149.9,
+276,PR,2020-03-28,Intermediário 300MB,Anual,Pix,109.9,
+277,PR,2019-11-28,Básico 100MB,Bienal,Débito automático,79.9,
+278,SC,2021-01-27,Intermediário 300MB,Anual,Débito automático,109.9,
+279,PR,2021-04-30,Básico 100MB,Mensal,Pix,79.9,
+280,SC,2022-02-17,Básico 100MB,Mensal,Boleto,79.9,
+281,RS,2022-07-14,Básico 100MB,Bienal,Pix,79.9,2025-04-13
+282,PR,2019-12-08,Intermediário 300MB,Mensal,Débito automático,109.9,
+283,,2025-09-17,Básico 100MB,Mensal,Boleto,79.9,
+284,PR,2022-02-05,Intermediário 300MB,Anual,Boleto,109.9,
+285,SP,2024-11-27,Básico 100MB,Mensal,Cartão de crédito,79.9,
+286,MG,2022-08-28,Básico 100MB,Bienal,Pix,79.9,
+287,MG,2019-10-06,Básico 100MB,Mensal,Pix,79.9,2025-05-05
+288,PR,2025-01-25,Premium 600MB,Mensal,Boleto,149.9,
+289,SP,2024-05-21,Intermediário 300MB,Mensal,Pix,109.9,
+290,PR,2024-03-24,Premium 600MB,Bienal,Débito automático,149.9,
+291,PR,2020-12-21,Intermediário 300MB,Mensal,Boleto,109.9,
+292,RS,2023-02-06,Premium 600MB,Mensal,Cartão de crédito,149.9,
+293,,2024-08-08,Básico 100MB,Anual,Pix,79.9,
+294,PR,2021-02-15,Premium 600MB,Anual,Boleto,149.9,
+295,RS,2024-01-12,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+296,SC,2019-11-02,Premium 600MB,Bienal,Pix,149.9,
+297,SP,2023-04-10,Básico 100MB,Mensal,Cartão de crédito,79.9,
+298,,2021-07-24,Básico 100MB,Anual,Boleto,79.9,
+299,PR,2020-02-01,Básico 100MB,Mensal,Débito automático,79.9,
+300,,2023-07-10,Premium 600MB,Mensal,Boleto,149.9,2025-10-08
+301,MG,2024-01-31,Básico 100MB,Anual,Cartão de crédito,79.9,
+302,,2020-11-19,Básico 100MB,Mensal,Boleto,79.9,2025-05-26
+303,MG,2024-08-03,Básico 100MB,Anual,Débito automático,79.9,
+304,SC,2024-06-15,Intermediário 300MB,Mensal,Débito automático,109.9,2025-05-28
+305,PR,2021-12-07,Premium 600MB,Mensal,Débito automático,149.9,
+306,PR,2020-11-06,Intermediário 300MB,Anual,Pix,109.9,
+307,SP,2023-08-08,Básico 100MB,Bienal,Boleto,79.9,
+308,MG,2019-07-06,Intermediário 300MB,Anual,Débito automático,109.9,
+309,RS,2021-04-15,Intermediário 300MB,Mensal,Pix,109.9,
+310,MG,2019-06-20,Intermediário 300MB,Bienal,Pix,109.9,
+311,MG,2020-07-04,Intermediário 300MB,Anual,Pix,109.9,
+312,PR,2022-01-27,Básico 100MB,Mensal,Boleto,79.9,
+313,PR,2024-08-19,Intermediário 300MB,Bienal,Cartão de crédito ,109.9,
+314,PR,2022-08-10,Básico 100MB,Anual,Pix,,
+315,RS,2022-06-20,Básico 100MB,Anual,Boleto,79.9,
+316,MG,2021-09-11,Intermediário 300MB,Anual,Boleto,109.9,
+317,SP,2024-05-28,Básico 100MB,Mensal,Débito automático,79.9,2025-12-13
+318,SC,2024-11-03,Intermediário 300MB,Anual,Boleto,109.9,
+319,PR,2021-10-01,Intermediário 300MB,Anual,Cartão de crédito,109.9,2025-02-24
+320,RJ,2019-07-21,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+321,MG,2020-12-26,Básico 100MB,Mensal,Débito automático,79.9,
+322,RJ,2022-07-23,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+323,RS,2025-06-06,Intermediário 300MB,Mensal,Cartão de crédito,109.9,2025-05-07
+324,MG,2024-02-10,Básico 100MB,Anual,Boleto,79.9,
+325,PR,2021-04-12,Premium 600MB,Mensal,Boleto,149.9,
+326,RS,2021-09-15,Básico 100MB,Mensal,Débito automático,79.9,
+327,SP,2022-05-13,Básico 100MB,Mensal,Boleto,79.9,
+328,RJ,2025-09-28,Básico 100MB,Bienal,Pix,79.9,2025-11-20
+329,RS,2023-10-13,Básico 100MB,Mensal,Cartão de crédito,79.9,
+330,MG,2019-06-05,Básico 100MB,Mensal,Cartão de crédito,79.9,
+331,RS,2022-07-01,Básico 100MB,Mensal,Débito automático,79.9,
+332,PR,2022-10-02,Premium 600MB,Bienal,Débito automático,149.9,
+333,RS,2021-07-13,Básico 100MB,Anual,Boleto,,
+334,PR,2021-10-24,Intermediário 300MB,Mensal,Boleto,109.9,
+335,MG,2022-02-16,Intermediário 300MB,Anual,Boleto,109.9,
+336,MG,2019-07-17,Básico 100MB,Mensal,Pix,79.9,2025-01-27
+337,PR,2020-02-24,Intermediário 300MB,Mensal,Pix,109.9,
+338,RS,2020-06-04,Básico 100MB,Mensal,Boleto,79.9,2025-07-03
+339,SP,2021-02-25,Básico 100MB,Mensal,Débito automático,,2025-10-06
+340,SP,2022-07-04,Básico 100MB,Bienal,Débito automático,79.9,
+341,RS,2024-01-19,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+342,PR,2024-01-08,Básico 100MB,Anual,Pix,79.9,
+343,PR,2021-03-18,Premium 600MB,Mensal,Cartão de crédito,149.9,
+344,PR,2019-09-28,Básico 100MB,Anual,Boleto,79.9,
+345,SP,2021-09-08,Básico 100MB,Mensal,Pix,79.9,
+346,MG,2024-05-15,Intermediário 300MB,Mensal,Débito automático,109.9,
+347,RJ,2022-05-17,Intermediário 300MB,Mensal,Boleto,109.9,
+348,PR,2024-10-26,Básico 100MB,Mensal,Boleto,79.9,
+349,SC,2023-03-01,Premium 600MB,Bienal,Boleto,149.9,2025-01-27
+350,SP,2021-06-10,Premium 600MB,Anual,Cartão de crédito,149.9,
+351,RJ,2019-09-25,Básico 100MB,Mensal,Boleto,79.9,2025-04-03
+352,,2024-06-27,Premium 600MB,Bienal,Débito automático,149.9,
+353,RJ,2022-07-25,Básico 100MB,Bienal,Boleto,79.9,
+354,PR,2024-09-13,Básico 100MB,Mensal,Boleto,79.9,2025-12-23
+355,RJ,2022-03-09,Premium 600MB,Mensal,Cartão de crédito,149.9,
+356,PR,2023-12-21,Premium 600MB,Bienal,Boleto,149.9,
+357,RJ,2022-05-17,Básico 100MB,Mensal,Pix,79.9,
+358,PR,2021-02-23,Básico 100MB,Anual,Débito automático,79.9,
+359,PR,2020-10-25,Intermediário 300MB,Bienal,Boleto,109.9,
+360,SP,2022-06-24,Básico 100MB,Bienal,Cartão de crédito,79.9,2025-07-18
+361,RS,2022-07-16,Intermediário 300MB,Mensal,Débito automático,109.9,
+362,SP,2020-12-11,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+363,SC,2020-09-30,Básico 100MB,Anual,Pix,79.9,
+364,SP,2021-11-13,Básico 100MB,Mensal,Boleto,79.9,
+365,SP,2022-09-25,Intermediário 300MB,Bienal,Pix,109.9,
+366,SC,2021-05-04,Básico 100MB,Anual,Cartão de crédito,79.9,2025-02-03
+367,PR,2023-06-10,Premium 600MB,Mensal,Cartão de crédito,149.9,
+368,RS,2021-01-01,Básico 100MB,Mensal,Cartão de crédito,79.9,
+369,PR,2025-09-11,Intermediário 300MB,Anual,Boleto,109.9,
+370,RJ,2019-11-01,Básico 100MB,Bienal,Boleto,79.9,
+371,SP,2024-01-05,Premium 600MB,Anual,Pix,149.9,
+372,RS,2022-02-21,Intermediário 300MB,Bienal,Débito automático,109.9,
+373,RS,2022-10-26,Intermediário 300MB,Bienal,Boleto,109.9,
+374,SC,2022-05-28,Básico 100MB,Bienal,Cartão de crédito,79.9,
+375,SP,2022-03-05,Intermediário 300MB,Mensal,Pix,109.9,2025-03-27
+376,PR,2025-04-11,Básico 100MB,Bienal,Débito automático,79.9,
+377,SC,2024-04-08,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-03-27
+378,SP,2022-01-13,Intermediário 300MB,Mensal,Débito automático,109.9,
+379,SP,2020-08-26,Intermediário 300MB,Bienal,Débito automático,109.9,
+380,MG,2022-10-10,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-02-16
+381,RS,2025-08-13,Intermediário 300MB,Anual,Débito automático,109.9,
+382,SP,2020-12-02,Intermediário 300MB,Mensal,Cartão de crédito,109.9,2025-08-05
+383,SP,2023-11-22,Básico 100MB,Anual,Pix,79.9,
+384,SP,2023-01-03,Intermediário 300MB,Mensal,Débito automático,109.9,2025-06-05
+385,SP,2024-03-23,Intermediário 300MB,Mensal,Pix,109.9,
+386,PR,2020-05-22,Básico 100MB,Mensal,Pix,79.9,
+387,PR,2025-01-30,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+388,SP,2024-04-20,Básico 100MB,Bienal,Pix,79.9,
+389,RJ,2024-04-16,Premium 600MB,Mensal,Cartão de crédito,149.9,2025-07-04
+390,SC,2023-11-18,Básico 100MB,Mensal,Pix,79.9,
+391,MG,2022-03-12,Intermediário 300MB,Anual,Boleto,109.9,
+392,SC,2023-02-08,Básico 100MB,Mensal,Boleto,79.9,2025-07-06
+393,SP,2020-10-28,Básico 100MB,Mensal,Boleto,79.9,
+394,,2020-05-01,Básico 100MB,Bienal,Cartão de crédito,79.9,
+395,,2024-04-17,Básico 100MB,Mensal,Pix,79.9,2025-05-24
+396,PR,2025-09-22,Básico 100MB,Mensal,Boleto,79.9,
+397,SP,2020-10-09,Básico 100MB,Anual,Débito automático,79.9,
+398,SC,2021-11-12,Intermediário 300MB,Bienal,Pix,109.9,
+399,SC,2025-06-16,Básico 100MB,Bienal,Débito automático,79.9,2025-09-21
+400,SP,2021-09-29,Intermediário 300MB,Bienal,Cartão de crédito,109.9,
+401,SP,2024-01-13,Básico 100MB,Mensal,Boleto,79.9,
+402,PR,2024-09-13,Básico 100MB,Anual,Boleto,79.9,2025-05-27
+403,SP,2023-09-16,Intermediário 300MB,Bienal,Cartão de crédito,109.9,
+404,MG,2022-01-12,Básico 100MB,Mensal,Débito automático,79.9,
+405,RS,2023-11-23,Premium 600MB,Bienal,Cartão de crédito,149.9,
+406,PR,2022-12-13,Básico 100MB,Anual,Boleto,79.9,
+407,PR,2023-05-11,Básico 100MB,Bienal,Pix,79.9,
+408,SP,2022-09-04,Intermediário 300MB,Anual,Cartão de crédito,109.9,2025-06-27
+409,SC,2022-05-02,Premium 600MB,Bienal,Débito automático,149.9,
+410,SP,2020-03-11,Premium 600MB,Anual,Boleto,149.9,
+411,RS,2019-06-12,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+412,RS,2023-11-17,Básico 100MB,Mensal,Boleto,79.9,
+413,SC,2021-06-23,Básico 100MB,Anual,Cartão de crédito,79.9,
+414,PR,2025-02-11,Intermediário 300MB,Mensal,Cartão de crédito,109.9,2025-04-06
+415,PR,2019-08-29,Intermediário 300MB,Bienal,DÉBITO AUTOMÁTICO,109.9,
+416,PR,2021-07-15,Básico 100MB,Mensal,Débito automático,79.9,
+417,PR,2023-11-12,Básico 100MB,Bienal,Pix,79.9,
+418,SP,2020-07-22,Básico 100MB,Mensal,Cartão de crédito,79.9,
+419,MG,2019-09-23,Premium 600MB,Bienal,Pix,149.9,
+420,PR,2021-02-06,Básico 100MB,Bienal,Cartão de crédito,79.9,
+421,SP,2021-09-03,Intermediário 300MB,Mensal,Boleto,109.9,
+422,SC,2023-12-06,Básico 100MB,Bienal,Boleto,79.9,
+423,PR,2023-07-26,Básico 100MB,Mensal,Pix,79.9,
+424,SC,2020-07-17,Básico 100MB,Bienal,Débito automático,79.9,
+425,SP,2021-05-29,Básico 100MB,Mensal,Débito automático,79.9,
+426,PR,2021-04-06,Premium 600MB,Mensal,Boleto,149.9,
+427,SC,2024-08-05,Básico 100MB,Bienal,Débito automático,79.9,
+428,PR,2025-07-18,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+429,RS,2022-06-27,Básico 100MB,Mensal,Débito automático,79.9,2025-03-16
+430,RS,2023-09-19,Intermediário 300MB,Bienal,Cartão de crédito,109.9,
+431,PR,2022-02-02,Básico 100MB,Bienal,Cartão de crédito,79.9,
+432,SP,2022-03-05,Premium 600MB,Anual,Boleto,149.9,
+433,,2025-04-13,Intermediário 300MB,Bienal,Débito automático,109.9,
+434,RJ,2024-01-13,Básico 100MB,Anual,Cartão de crédito,79.9,
+435,SP,2019-07-07,Básico 100MB,Mensal,Débito automático,79.9,
+436,PR,2023-08-27,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-03-16
+437,PR,2025-08-12,Intermediário 300MB,Bienal,Boleto,109.9,
+438,MG,2021-10-20,Premium 600MB,Bienal,Boleto,149.9,
+439,SP,2024-05-26,Básico 100MB,Bienal,Cartão de crédito,79.9,2025-11-07
+440,RS,2022-12-18,Premium 600MB,Mensal,Cartão de crédito,149.9,2025-03-14
+441,SC,2025-03-10,Básico 100MB,Mensal,Pix,79.9,
+442,RJ,2021-01-16,Básico 100MB,Bienal,Boleto,79.9,2025-05-09
+443,SC,2024-08-16,Premium 600MB,Anual,Pix,149.9,
+444,RJ,2021-05-29,Básico 100MB,Bienal,Débito automático,79.9,
+445,MG,2023-02-25,Básico 100MB,Bienal,Débito automático,79.9,
+446,SC,2020-07-01,Premium 600MB,Bienal,Débito automático ,149.9,
+447,RS,2021-04-29,Intermediário 300MB,Anual,Boleto,109.9,
+448,SP,2025-07-03,Intermediário 300MB,Anual,Débito automático,109.9,
+449,MG,2023-11-22,Intermediário 300MB,Mensal,Cartão de crédito,109.9,2025-01-30
+450,SP,2020-06-30,Básico 100MB,Anual,Débito automático,79.9,
+451,MG,2019-08-15,Intermediário 300MB,Bienal,Débito automático,109.9,
+452,RS,2020-02-20,Básico 100MB,Anual,Boleto,79.9,
+453,SP,2024-05-24,Premium 600MB,Mensal,Pix,149.9,2025-05-17
+454,PR,2021-05-18,Básico 100MB,Mensal,Boleto,79.9,
+455,PR,2021-09-28,Básico 100MB,Mensal,Boleto,79.9,2021-08-29
+456,SC,2023-03-22,Intermediário 300MB,Anual,Débito automático,109.9,
+457,RS,2019-10-22,Premium 600MB,Anual,Pix,149.9,
+458,SP,2021-11-01,Intermediário 300MB,Anual,Boleto,109.9,
+459,SC,2020-06-30,Básico 100MB,Mensal,Débito automático,79.9,2025-12-27
+460,PR,2023-07-02,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-04-07
+461,PR,2022-08-11,Básico 100MB,Anual,Pix,79.9,
+462,PR,2022-04-28,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-01-19
+463,PR,2025-04-26,Intermediário 300MB,Mensal,Pix,109.9,2025-05-24
+464,SP,2022-05-01,Premium 600MB,Mensal,Cartão de crédito,149.9,2025-01-02
+465,SP,2022-09-22,Premium 600MB,Anual,Pix,149.9,
+466,PR,2021-02-23,Básico 100MB,Bienal,Cartão de crédito,79.9,
+467,PR,2022-07-31,Premium 600MB,Bienal,Débito automático,149.9,
+468,SC,2022-10-21,Básico 100MB,Anual,Débito automático,79.9,
+469,RS,2021-06-02,Básico 100MB,Bienal,Boleto,79.9,2025-04-20
+470,PR,2020-01-21,Básico 100MB,Anual,Cartão de crédito,79.9,
+471,SP,2021-06-20,Básico 100MB,Anual,Pix,79.9,
+472,SP,2022-01-09,Básico 100MB,Mensal,Boleto,79.9,
+473,SP,2023-08-21,Intermediário 300MB,Mensal,Boleto,109.9,
+474,PR,2022-09-10,Intermediário 300MB,Anual,Boleto,109.9,
+475,SP,2024-01-02,Intermediário 300MB,Mensal,Boleto,109.9,
+476,MG,2022-09-04,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+477,SC,2025-06-26,Intermediário 300MB,Bienal,Pix,109.9,
+478,SC,2023-04-17,Premium 600MB,Anual,Cartão de crédito,149.9,
+479,MG,2022-09-30,Intermediário 300MB,Mensal,Boleto,109.9,
+480,RS,2023-08-19,Básico 100MB,Mensal,Boleto,79.9,
+481,SP,2025-02-05,Intermediário 300MB,Mensal,Débito automático,,2025-10-26
+482,PR,2023-05-16,Intermediário 300MB,Bienal,Cartão de crédito,109.9,
+483,SP,2023-07-29,Básico 100MB,Bienal,Débito automático,79.9,
+484,RS,2023-03-20,Intermediário 300MB,Bienal,Débito automático,109.9,
+485,MG,2024-06-30,Básico 100MB,Mensal,Débito automático,79.9,
+486,RJ,2023-02-25,Básico 100MB,Bienal,Débito automático,79.9,
+487,SP,2020-10-12,Intermediário 300MB,Bienal,Boleto,109.9,
+488,RS,2024-01-06,Básico 100MB,Anual,Débito automático,79.9,
+489,SP,2020-10-23,Premium 600MB,Anual,Boleto,149.9,
+490,SC,2020-01-03,Intermediário 300MB,Bienal,Débito automático,109.9,
+491,PR,2023-01-15,Premium 600MB,Bienal,Boleto,149.9,
+492,PR,2022-07-30,Básico 100MB,Mensal,Cartão de crédito,79.9,
+493,SP,2024-06-01,Intermediário 300MB,Anual,Pix,109.9,
+494,PR,2024-05-15,Básico 100MB,Mensal,Débito automático,79.9,
+495,SP,2022-09-18,Premium 600MB,Mensal,Boleto,149.9,
+496,SC,2025-06-23,Premium 600MB,Mensal,Boleto,149.9,
+497,SP,2019-08-30,Premium 600MB,Mensal,Boleto,149.9,
+498,PR,2021-05-14,Básico 100MB,Mensal,Cartão de crédito,79.9,
+499,SP,2024-07-25,Intermediário 300MB,Mensal,Boleto,109.9,2025-09-21
+500,PR,2019-07-09,Básico 100MB,Bienal,Débito automático,79.9,
+501,SC,2019-11-20,Premium 600MB,Mensal,Débito automático,149.9,
+502,PR,2021-03-14,Básico 100MB,Anual,Débito automático,79.9,
+503,SP,2021-06-23,Básico 100MB,Mensal,Débito automático,79.9,2025-04-20
+504,SC,2022-10-26,Intermediário 300MB,Bienal,Cartão de crédito,109.9,
+505,PR,2022-05-17,Básico 100MB,Mensal,Cartão de crédito,79.9,
+506,SC,2024-01-09,Básico 100MB,Anual,Boleto,79.9,2025-04-03
+507,PR,2020-08-29,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+508,SP,2021-09-06,Premium 600MB,Anual,Pix,149.9,
+509,PR,2021-11-11,Básico 100MB,Mensal,Pix,79.9,2025-12-26
+510,SP,2023-03-16,Premium 600MB,Bienal,Débito automático,149.9,
+511,PR,2024-10-10,Básico 100MB,Anual,Cartão de crédito,79.9,
+512,SP,2024-11-17,Básico 100MB,Mensal,Pix,79.9,
+513,RS,2019-12-07,Intermediário 300MB,Mensal,Boleto,109.9,2025-08-16
+514,SP,2020-10-17,Intermediário 300MB,Mensal,Boleto,109.9,2025-01-20
+515,RS,2022-09-27,Básico 100MB,Bienal,Boleto,79.9,
+516,MG,2023-08-10,Básico 100MB,Anual,Boleto,79.9,2025-07-06
+517,PR,2021-09-01,Intermediário 300MB,Bienal,Pix,109.9,
+518,PR,2021-12-15,Básico 100MB,Mensal,Débito automático,79.9,
+519,PR,2021-12-20,Básico 100MB,Anual,Pix,79.9,
+520,SP,2022-07-15,Intermediário 300MB,Mensal,Pix,109.9,
+521,RJ,2019-10-12,Intermediário 300MB,Mensal,Boleto,109.9,
+522,SP,2025-03-06,Básico 100MB,Mensal,Boleto,79.9,2025-08-31
+523,SC,2021-04-15,Intermediário 300MB,Mensal,Débito automático,109.9,
+524,RS,2025-06-29,Básico 100MB,Mensal,Boleto,79.9,2025-07-20
+525,SC,2024-06-26,Intermediário 300MB,Anual,Boleto,109.9,2025-12-20
+526,RS,2021-08-23,Premium 600MB,Bienal,Boleto,149.9,
+527,RJ,2022-08-16,Básico 100MB,Mensal,Débito automático,79.9,
+528,PR,2019-08-19,Básico 100MB,Anual,Boleto,79.9,
+529,PR,2019-12-20,Básico 100MB,Mensal,Boleto,79.9,2025-04-19
+530,PR,2022-11-04,Intermediário 300MB,Mensal,Boleto,109.9,
+531,PR,2024-01-25,Intermediário 300MB,Mensal,Pix,109.9,
+532,SC,2022-11-02,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+533,SC,2024-01-08,Intermediário 300MB,Anual,Débito automático,109.9,
+534,PR,2023-09-03,Intermediário 300MB,Anual,Débito automático,109.9,
+535,,2025-02-23,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+536,,2022-11-08,Básico 100MB,Anual,Cartão de crédito,79.9,
+537,PR,2023-08-28,Intermediário 300MB,Anual,Boleto,109.9,
+538,SC,2022-08-10,Básico 100MB,Mensal,Cartão de crédito,79.9,
+539,RS,2023-03-28,Básico 100MB,Mensal,Débito automático,79.9,
+540,PR,2020-09-13,Premium 600MB,Mensal,Boleto,149.9,2025-03-18
+541,,2022-04-01,Premium 600MB,Mensal,Cartão de crédito,149.9,
+542,RJ,2023-02-13,Básico 100MB,Mensal,Débito automático,79.9,
+543,PR,2022-01-23,Intermediário 300MB,Bienal,Débito automático,109.9,
+544,PR,2020-05-23,Intermediário 300MB,Bienal,Cartão de crédito,109.9,
+545,SP,2021-03-29,Básico 100MB,Bienal,Débito automático ,79.9,
+546,SC,2020-06-07,Básico 100MB,Bienal,Boleto,79.9,
+547,RJ,2022-03-28,Básico 100MB,Anual,Boleto,79.9,
+548,,2022-07-20,Intermediário 300MB,Anual,Boleto,109.9,
+549,RS,2023-03-03,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+550,PR,2019-08-29,Básico 100MB,Mensal,Débito automático ,,
+551,SC,2020-11-21,Intermediário 300MB,Anual,Pix,109.9,
+552,SC,2021-10-16,Básico 100MB,Mensal,Boleto,79.9,2025-06-30
+553,PR,2019-07-11,Premium 600MB,Mensal,Débito automático,149.9,
+554,RS,2021-06-09,Básico 100MB,Mensal,Pix,79.9,2025-05-26
+555,MG,2024-09-28,Intermediário 300MB,Bienal,Boleto,109.9,
+556,SC,2022-10-07,Intermediário 300MB,Anual,Débito automático,109.9,
+557,PR,2021-12-15,Intermediário 300MB,Anual,Boleto,109.9,2025-10-20
+558,RJ,2024-12-27,Básico 100MB,Mensal,Boleto,,2025-02-25
+559,RS,2021-12-11,Básico 100MB,Anual,Pix,79.9,2025-05-14
+560,SP,2023-09-29,Premium 600MB,Bienal,Cartão de crédito,149.9,
+561,,2020-06-24,Premium 600MB,Bienal,Boleto,149.9,
+562,SP,2023-11-04,Intermediário 300MB,Mensal,Débito automático,109.9,
+563,SP,2020-02-11,Intermediário 300MB,Mensal,Boleto,109.9,2025-09-15
+564,,2021-05-09,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+565,MG,2024-06-12,Intermediário 300MB,Mensal,Boleto,109.9,2025-05-14
+566,MG,2024-09-26,Premium 600MB,Mensal,Cartão de crédito,149.9,2025-02-08
+567,PR,2019-06-10,Básico 100MB,Mensal,Cartão de crédito,79.9,
+568,RJ,2021-08-06,Intermediário 300MB,Mensal,Boleto,109.9,2025-02-14
+569,SC,2021-10-24,Intermediário 300MB,Bienal,Boleto,109.9,
+570,MG,2022-03-25,Básico 100MB,Bienal,Boleto,79.9,2025-10-12
+571,RS,2022-03-12,Premium 600MB,Anual,Pix,149.9,
+572,SP,2024-05-29,Premium 600MB,Bienal,Pix,149.9,
+573,RS,2020-06-08,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+574,RJ,2025-06-02,Intermediário 300MB,Bienal,Boleto,109.9,
+575,PR,2020-01-10,Premium 600MB,Anual,Cartão de crédito,149.9,2025-03-05
+576,RS,2022-11-14,Básico 100MB,Anual,Pix,79.9,
+577,SP,2025-07-03,Intermediário 300MB,Mensal,Cartão de crédito,109.9,2025-12-02
+578,,2024-05-07,Intermediário 300MB,Mensal,Cartão de crédito,109.9,2025-08-23
+579,SP,2021-09-30,Básico 100MB,Bienal,Cartão de crédito,79.9,
+580,RS,2019-08-02,Básico 100MB,Mensal,Pix,79.9,
+581,PR,2022-10-23,Intermediário 300MB,Bienal,Pix,109.9,
+582,MG,2021-04-19,Premium 600MB,Anual,Débito automático,149.9,
+583,MG,2023-06-24,Intermediário 300MB,Mensal,Boleto,109.9,
+584,PR,2023-11-20,Básico 100MB,Bienal,Boleto,79.9,
+585,MG,2025-04-22,Premium 600MB,Anual,Boleto,149.9,
+586,PR,2020-10-23,Premium 600MB,Anual,Boleto,149.9,
+587,SP,2020-06-19,Intermediário 300MB,Mensal,BOLETO,109.9,2025-08-09
+588,SC,2020-07-09,Básico 100MB,Mensal,Boleto,79.9,
+589,SP,2020-10-30,Premium 600MB,Mensal,Boleto,149.9,
+590,PR,2020-09-18,Premium 600MB,Mensal,Pix,149.9,
+591,MG,2024-11-21,Intermediário 300MB,Mensal,Pix,109.9,
+592,PR,2023-12-25,Básico 100MB,Anual,Cartão de crédito,79.9,
+593,PR,2024-08-06,Básico 100MB,Mensal,Boleto,79.9,2025-03-05
+594,RS,2023-05-31,Intermediário 300MB,Bienal,Pix,109.9,
+595,SP,2021-05-14,Intermediário 300MB,Bienal,Débito automático,109.9,
+596,MG,2019-08-22,Básico 100MB,Mensal,Boleto,,2025-05-26
+597,RS,2022-08-12,Intermediário 300MB,Mensal,Boleto,109.9,2025-07-20
+598,PR,2024-08-14,Premium 600MB,Anual,Débito automático,149.9,
+599,PR,2025-01-08,Intermediário 300MB,Mensal,Cartão de crédito,109.9,2025-09-01
+600,RJ,2019-07-21,Premium 600MB,Mensal,Boleto,149.9,
+601,PR,2021-04-15,Intermediário 300MB,Bienal,Pix,109.9,
+602,RS,2021-05-17,Básico 100MB,Bienal,Pix,79.9,
+603,SP,2023-06-09,Intermediário 300MB,Mensal,Boleto,109.9,
+604,RS,2020-08-22,Básico 100MB,Mensal,CARTÃO DE CRÉDITO,79.9,
+605,SC,2021-10-28,Básico 100MB,Bienal,Pix,79.9,2025-12-21
+606,SC,2020-09-30,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+607,SP,2024-05-28,Premium 600MB,Mensal,Cartão de crédito,149.9,2025-07-02
+608,,2025-02-10,Intermediário 300MB,Anual,Débito automático,109.9,
+609,PR,2025-04-12,Premium 600MB,Mensal,Boleto,149.9,
+610,PR,2023-09-22,Intermediário 300MB,Bienal,Cartão de crédito,109.9,
+611,SC,2025-06-10,Intermediário 300MB,Anual,Boleto,109.9,
+612,SP,2020-02-05,Básico 100MB,Anual,Boleto,79.9,
+613,SC,2021-04-04,Básico 100MB,Bienal,Débito automático,79.9,2025-12-04
+614,,2020-08-11,Básico 100MB,Anual,Boleto,79.9,
+615,SP,2025-05-05,Intermediário 300MB,Anual,Boleto,109.9,
+616,SP,2021-07-10,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+617,RS,2020-02-23,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+618,SP,2024-11-05,Básico 100MB,Anual,Boleto,79.9,
+619,RS,2022-05-13,Intermediário 300MB,Anual,Boleto,109.9,
+620,PR,2020-01-22,Premium 600MB,Bienal,Boleto,149.9,
+621,,2020-06-23,Básico 100MB,Mensal,Pix,79.9,
+622,PR,2021-07-02,Premium 600MB,Anual,Débito automático,149.9,
+623,PR,2024-06-22,Premium 600MB,Anual,Pix,149.9,2025-07-24
+624,PR,2021-02-13,Intermediário 300MB,Mensal,Débito automático,109.9,
+625,SP,2022-11-04,Básico 100MB,Anual,Pix,79.9,
+626,RS,2020-12-29,Básico 100MB,Bienal,Cartão de crédito,79.9,
+627,PR,2025-03-23,Intermediário 300MB,Bienal,Boleto,109.9,2025-02-21
+628,PR,2020-08-08,Básico 100MB,Mensal,Boleto,79.9,
+629,SP,2025-04-20,Intermediário 300MB,Mensal,Débito automático,109.9,
+630,RS,2021-07-03,Básico 100MB,Bienal,Pix,79.9,
+631,RJ,2023-01-20,Básico 100MB,Anual,Débito automático,79.9,
+632,SP,2025-04-15,Básico 100MB,Mensal,Débito automático,,2025-05-22
+633,PR,2023-02-18,Premium 600MB,Bienal,CARTÃO DE CRÉDITO,149.9,
+634,PR,2020-08-20,Intermediário 300MB,Anual,Boleto,109.9,
+635,PR,2024-12-08,Básico 100MB,Mensal,Boleto,79.9,
+636,PR,2023-01-22,Intermediário 300MB,Bienal,Boleto,109.9,
+637,,2020-02-04,Básico 100MB,Anual,Cartão de crédito,79.9,2025-11-17
+638,PR,2019-11-13,Premium 600MB,Bienal,Pix,149.9,
+639,SP,2023-02-18,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-01-31
+640,PR,2022-03-16,Premium 600MB,Anual,Pix,149.9,
+641,RJ,2020-11-23,Intermediário 300MB,Anual,Débito automático,109.9,
+642,SC,2021-06-28,Premium 600MB,Bienal,Boleto,149.9,
+643,SC,2025-03-29,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+644,PR,2025-05-20,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+645,MG,2021-08-05,Básico 100MB,Mensal,Boleto,79.9,2025-10-11
+646,SP,2019-10-16,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+647,MG,2025-07-10,Intermediário 300MB,Mensal,Pix,109.9,2025-09-25
+648,SC,2023-02-13,Básico 100MB,Mensal,Débito automático,79.9,
+649,SP,2024-07-19,Intermediário 300MB,Mensal,Débito automático,109.9,2025-05-14
+650,SP,2019-08-08,Premium 600MB,Bienal,Débito automático,,
+651,PR,2025-03-01,Básico 100MB,Mensal,Débito automático,79.9,
+652,PR,2023-06-13,Premium 600MB,Mensal,Pix,149.9,
+653,RJ,2019-12-22,Premium 600MB,Mensal,Boleto,149.9,
+654,SP,2025-05-13,Básico 100MB,Bienal,Pix,79.9,
+655,MG,2019-07-13,Intermediário 300MB,Bienal,PIX,109.9,2025-04-09
+656,SP,2024-08-19,Básico 100MB,Mensal,Boleto,79.9,2025-04-12
+657,PR,2025-04-28,Básico 100MB,Bienal,Débito automático,79.9,
+658,SC,2021-06-30,Intermediário 300MB,Mensal,Débito automático,109.9,
+659,PR,2025-04-12,Intermediário 300MB,Anual,Pix,109.9,2025-09-10
+660,PR,2024-11-15,Premium 600MB,Mensal,Boleto,149.9,
+661,SC,2024-09-17,Premium 600MB,Anual,Cartão de crédito,149.9,
+662,SP,2021-11-16,Premium 600MB,Anual,Boleto,149.9,
+663,RJ,2020-05-25,Intermediário 300MB,Mensal,Pix,109.9,2025-07-05
+664,PR,2024-02-14,Intermediário 300MB,Mensal,Débito automático,109.9,
+665,RS,2020-03-07,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+666,SC,2024-07-31,Intermediário 300MB,Bienal,Pix,109.9,
+667,RS,2021-03-28,Intermediário 300MB,Mensal,Boleto,109.9,
+668,PR,2019-09-01,Intermediário 300MB,Anual,Débito automático,109.9,
+669,SP,2021-04-02,Premium 600MB,Mensal,Pix,149.9,
+670,SP,2024-10-21,Básico 100MB,Anual,Débito automático,79.9,2025-06-19
+671,SP,2019-07-31,Básico 100MB,Bienal,Débito automático,79.9,
+672,MG,2022-03-25,Intermediário 300MB,Anual,Pix,,
+673,RJ,2023-06-29,Básico 100MB,Mensal,Débito automático,79.9,
+674,SP,2021-01-24,Básico 100MB,Bienal,Cartão de crédito,79.9,
+675,SC,2021-04-12,Intermediário 300MB,Mensal,Débito automático,109.9,2025-07-05
+676,SC,2023-04-29,Básico 100MB,Anual,Cartão de crédito,79.9,
+677,RS,2025-08-28,Básico 100MB,Mensal,Boleto,79.9,
+678,RJ,2020-11-05,Intermediário 300MB,Anual,Pix,109.9,
+679,,2024-10-20,Básico 100MB,Bienal,Débito automático,79.9,
+680,PR,2022-06-06,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+681,SC,2024-03-19,Básico 100MB,Mensal,Cartão de crédito,79.9,
+682,,2024-06-10,Básico 100MB,Mensal,Débito automático,79.9,
+683,PR,2025-09-13,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+684,PR,2025-02-23,Básico 100MB,Mensal,Boleto,79.9,
+685,PR,2022-07-19,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-10-28
+686,SP,2025-08-09,Básico 100MB,Mensal,Cartão de crédito,79.9,
+687,SC,2025-09-03,Básico 100MB,Anual,Pix,79.9,
+688,PR,2022-05-15,Premium 600MB,Mensal,Cartão de crédito,149.9,
+689,PR,2019-09-15,Intermediário 300MB,Mensal,Cartão de crédito,109.9,2025-12-23
+690,RS,2019-07-18,Intermediário 300MB,Anual,Débito automático,109.9,
+691,RS,2020-05-02,Intermediário 300MB,Anual,Débito automático,109.9,
+692,SP,2022-04-15,Intermediário 300MB,Mensal,Boleto,109.9,2025-01-03
+693,SC,2022-12-02,Básico 100MB,Mensal,Débito automático,79.9,
+694,RJ,2025-01-15,Intermediário 300MB,Bienal,Cartão de crédito,109.9,
+695,RS,2021-02-14,Básico 100MB,Mensal,Pix,79.9,
+696,SC,2024-08-03,Básico 100MB,Mensal,Cartão de crédito ,79.9,2025-12-02
+697,SC,2022-11-28,Básico 100MB,Mensal,Boleto,79.9,2025-12-19
+698,RJ,2024-02-10,Básico 100MB,Bienal,Débito automático,79.9,
+699,SP,2020-03-29,Intermediário 300MB,Bienal,Pix,109.9,
+700,SP,2021-02-28,Básico 100MB,Anual,Pix,79.9,
+701,SC,2019-07-26,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+702,MG,2021-05-26,Básico 100MB,Mensal,Boleto,79.9,
+703,MG,2020-11-07,Básico 100MB,Mensal,Débito automático,79.9,2025-06-19
+704,PR,2020-09-16,Básico 100MB,Mensal,Boleto,79.9,
+705,PR,2019-06-28,Básico 100MB,Mensal,Boleto,79.9,2025-06-21
+706,,2025-03-26,Básico 100MB,Mensal,Boleto,79.9,
+707,RS,2020-05-30,Básico 100MB,Mensal,Pix,79.9,
+708,SC,2020-11-07,Intermediário 300MB,Anual,Boleto,109.9,
+709,PR,2023-01-26,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+710,PR,2021-10-30,Premium 600MB,Mensal,Cartão de crédito,149.9,2025-07-03
+711,SC,2022-03-27,Premium 600MB,Mensal,Pix,149.9,
+712,SC,2022-03-23,Premium 600MB,Mensal,Boleto,149.9,2025-08-30
+713,RJ,2023-12-03,Básico 100MB,Anual,Boleto,79.9,
+714,SP,2021-12-05,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+715,SP,2024-04-09,Básico 100MB,Anual,Boleto,79.9,
+716,PR,2023-08-10,Premium 600MB,Mensal,Débito automático,149.9,
+717,PR,2024-08-19,Intermediário 300MB,Mensal,Pix,109.9,
+718,SP,2022-09-28,Intermediário 300MB,Mensal,Débito automático,109.9,
+719,SP,2023-12-11,Premium 600MB,Mensal,Boleto,149.9,2025-10-29
+720,PR,2020-09-27,Intermediário 300MB,Bienal,Boleto,109.9,
+721,PR,2025-02-04,Básico 100MB,Mensal,Boleto,79.9,
+722,RJ,2021-05-14,Premium 600MB,Anual,Débito automático,149.9,
+723,MG,2022-04-28,Premium 600MB,Mensal,Boleto,149.9,
+724,SC,2024-10-28,Básico 100MB,Anual,Pix,79.9,2025-01-11
+725,RJ,2022-12-18,Intermediário 300MB,Anual,Boleto,109.9,
+726,RJ,2022-11-06,Básico 100MB,Mensal,Boleto,79.9,2025-06-17
+727,SC,2025-04-03,Premium 600MB,Bienal,Cartão de crédito,149.9,
+728,PR,2019-10-04,Premium 600MB,Bienal,Cartão de crédito,149.9,
+729,PR,2020-11-18,Básico 100MB,Mensal,Débito automático,79.9,
+730,RS,2025-06-01,Premium 600MB,Mensal,Pix,,2025-07-30
+731,SP,2025-02-01,Básico 100MB,Anual,Cartão de crédito,79.9,
+732,SC,2023-10-21,Básico 100MB,Anual,Débito automático,79.9,
+733,MG,2019-08-06,Premium 600MB,Bienal,Boleto,149.9,
+734,PR,2020-01-19,Básico 100MB,Mensal,Boleto,79.9,
+735,SC,2025-04-26,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+736,SC,2022-08-13,Premium 600MB,Mensal,Cartão de crédito,149.9,
+737,SP,2025-04-28,Básico 100MB,Mensal,Pix,79.9,
+738,PR,2025-08-23,Premium 600MB,Mensal,Pix,149.9,
+739,SP,2019-09-19,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+740,SP,2023-07-03,Básico 100MB,Anual,Pix,79.9,
+741,SC,2025-02-10,Básico 100MB,Bienal,Pix,79.9,
+742,MG,2021-02-12,Intermediário 300MB,Bienal,Boleto,109.9,2025-09-07
+743,SP,2023-08-20,Intermediário 300MB,Anual,Boleto,109.9,2025-11-18
+744,SC,2022-12-27,Premium 600MB,Mensal,Pix,149.9,
+745,PR,2024-03-27,Básico 100MB,Anual,Cartão de crédito,79.9,
+746,RJ,2024-10-27,Básico 100MB,Bienal,Boleto,79.9,
+747,RS,2021-10-24,Intermediário 300MB,Mensal,Pix,109.9,
+748,SC,2024-11-10,Intermediário 300MB,Anual,Pix,109.9,
+749,,2023-01-03,Premium 600MB,Anual,Cartão de crédito,149.9,
+750,SP,2023-05-31,Intermediário 300MB,Mensal,Cartão de crédito,109.9,2025-07-06
+751,SP,2024-02-28,Intermediário 300MB,Mensal,Débito automático,109.9,2025-12-09
+752,RJ,2023-10-23,Premium 600MB,Mensal,Cartão de crédito,149.9,
+753,SP,2023-08-05,Intermediário 300MB,Mensal,Boleto,109.9,2025-05-09
+754,SP,2023-11-17,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-11-08
+755,RJ,2022-08-04,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+756,SC,2021-06-28,Básico 100MB,Bienal,Débito automático,79.9,
+757,SP,2020-01-29,Básico 100MB,Bienal,Pix,79.9,
+758,SP,2022-04-29,Básico 100MB,Mensal,Cartão de crédito,79.9,
+759,PR,2020-01-15,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+760,SP,2021-12-06,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+761,RS,2022-10-29,Intermediário 300MB,Mensal,Cartão de crédito,109.9,2025-07-03
+762,SC,2019-06-06,Básico 100MB,Anual,Boleto,79.9,
+763,RS,2020-09-10,Básico 100MB,Anual,Pix,79.9,
+764,PR,2024-03-21,Básico 100MB,Mensal,Débito automático,79.9,
+765,SP,2019-08-14,Intermediário 300MB,Mensal,Cartão de crédito,109.9,2025-04-06
+766,RJ,2019-06-04,Básico 100MB,Mensal,Débito automático,79.9,
+767,SP,2024-07-14,Básico 100MB,Mensal,Pix,79.9,
+768,SC,2021-03-07,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+769,PR,2019-09-26,Intermediário 300MB,Mensal,Boleto,109.9,
+770,RJ,2023-11-16,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+771,SC,2024-12-12,Intermediário 300MB,Anual,Boleto,109.9,
+772,PR,2022-01-02,Intermediário 300MB,Bienal,Cartão de crédito,109.9,
+773,PR,2023-06-04,Intermediário 300MB,Mensal,Pix,109.9,
+774,SC,2019-12-11,Intermediário 300MB,Bienal,Boleto,109.9,
+775,SC,2021-09-24,Básico 100MB,Anual,Débito automático,79.9,
+776,PR,2023-04-16,Premium 600MB,Mensal,Cartão de crédito,149.9,
+777,RJ,2023-05-29,Básico 100MB,Anual,Cartão de crédito,79.9,
+778,MG,2025-06-29,Intermediário 300MB,Bienal,Boleto,109.9,
+779,SP,2023-12-25,Básico 100MB,Mensal,Débito automático,79.9,
+780,PR,2023-05-04,Básico 100MB,Mensal,Débito automático,79.9,
+781,MG,2022-07-16,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+782,SP,2024-05-15,Básico 100MB,Anual,Boleto,79.9,
+783,RS,2021-05-24,Básico 100MB,Bienal,Boleto,79.9,
+784,SP,2020-01-11,Intermediário 300MB,Bienal,Débito automático,109.9,
+785,PR,2020-11-13,Intermediário 300MB,Anual,Pix,109.9,
+786,MG,2019-09-21,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+787,RJ,2025-05-27,Básico 100MB,Anual,Boleto,79.9,
+788,PR,2020-12-10,Básico 100MB,Mensal,Boleto,79.9,
+789,,2025-01-08,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+790,SP,2025-04-07,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+791,RJ,2021-03-15,Premium 600MB,Anual,Boleto,149.9,2025-07-20
+792,SP,2020-04-15,Básico 100MB,Anual,Pix,79.9,
+793,MG,2023-09-21,Intermediário 300MB,Anual,Pix,109.9,
+794,MG,2024-06-02,Premium 600MB,Bienal,Pix,149.9,
+795,PR,2024-08-30,Intermediário 300MB,Mensal,Boleto,109.9,2025-04-27
+796,RS,2019-10-17,Intermediário 300MB,Anual,Boleto,109.9,
+797,SP,2024-12-17,Básico 100MB,Anual,Boleto,79.9,2025-03-11
+798,RJ,2025-09-23,Premium 600MB,Mensal,Pix,149.9,
+799,SP,2021-11-18,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+800,MG,2021-04-20,Intermediário 300MB,Mensal,Boleto,109.9,
+801,PR,2024-12-30,Básico 100MB,Bienal,Pix,79.9,
+802,PR,2019-06-10,Básico 100MB,Mensal,Débito automático,79.9,2025-04-07
+803,SC,2020-02-16,Intermediário 300MB,Mensal,Cartão de crédito,109.9,2025-09-07
+804,RJ,2024-09-24,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+805,SP,2023-12-30,Premium 600MB,Bienal,Débito automático,149.9,
+806,PR,2025-06-28,Básico 100MB,Mensal,Boleto,79.9,2025-11-25
+807,SP,2025-01-20,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+808,SP,2022-09-04,Premium 600MB,Mensal,Pix,149.9,
+809,SC,2023-11-06,Básico 100MB,Mensal,Boleto,79.9,
+810,SP,2020-04-16,Básico 100MB,Mensal,Boleto,79.9,
+811,SP,2023-02-02,Intermediário 300MB,Mensal,Pix,109.9,2023-01-03
+812,SP,2023-11-23,Intermediário 300MB,Mensal,Boleto,109.9,2025-08-28
+813,PR,2024-11-15,Básico 100MB,Mensal,Boleto,79.9,
+814,SC,2024-09-25,Básico 100MB,Bienal,Boleto,79.9,
+815,SC,2024-12-29,Premium 600MB,Mensal,Cartão de crédito,149.9,
+816,PR,2022-06-23,Básico 100MB,Anual,Débito automático,79.9,
+817,RS,2023-10-22,Básico 100MB,Bienal,Cartão de crédito,79.9,
+818,PR,2020-01-22,Intermediário 300MB,Anual,Boleto,109.9,
+819,RS,2024-10-21,Premium 600MB,Mensal,Boleto,149.9,
+820,RS,2020-04-29,Premium 600MB,Mensal,Cartão de crédito,149.9,
+821,RS,2024-08-21,Premium 600MB,Anual,Débito automático,149.9,
+822,SP,2020-06-10,Premium 600MB,Bienal,Débito automático,149.9,
+823,SC,2022-08-04,Intermediário 300MB,Bienal,Débito automático,109.9,
+824,MG,2023-09-18,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+825,RJ,2023-01-10,Básico 100MB,Anual,Débito automático,79.9,
+826,SP,2024-06-29,Básico 100MB,Anual,Pix,79.9,
+827,PR,2023-03-04,Básico 100MB,Anual,Débito automático,79.9,
+828,SP,2021-10-20,Intermediário 300MB,Bienal,Pix,109.9,
+829,SC,2022-11-04,Intermediário 300MB,Anual,Cartão de crédito,109.9,2025-05-20
+830,MG,2024-06-25,Básico 100MB,Mensal,Pix,79.9,2025-06-04
+831,MG,2023-01-05,Básico 100MB,Anual,Boleto,79.9,
+832,SP,2021-05-25,Intermediário 300MB,Anual,Débito automático,109.9,
+833,SP,2025-01-12,Básico 100MB,Mensal,Pix,79.9,
+834,SP,2019-08-17,Intermediário 300MB,Mensal,Boleto,109.9,
+835,RS,2019-10-10,Premium 600MB,Anual,Pix,149.9,
+836,SP,2021-01-21,Básico 100MB,Mensal,Cartão de crédito,79.9,
+837,SC,2024-04-07,Intermediário 300MB,Mensal,Cartão de crédito,109.9,2025-02-17
+838,PR,2022-05-01,Intermediário 300MB,Bienal,Boleto,109.9,
+839,SP,2025-04-06,Básico 100MB,Mensal,Pix,79.9,
+840,RJ,2024-07-07,Intermediário 300MB,Mensal,Débito automático,109.9,2025-03-22
+841,SP,2023-01-09,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+842,SC,2021-02-05,Básico 100MB,Mensal,Pix,79.9,2025-03-15
+843,SC,2024-08-01,Básico 100MB,Bienal,Cartão de crédito,79.9,
+844,MG,2022-04-12,Básico 100MB,Mensal,Pix,79.9,
+845,MG,2020-12-26,Básico 100MB,Mensal,Boleto,79.9,2025-01-04
+846,MG,2025-05-30,Básico 100MB,Bienal,Cartão de crédito,79.9,
+847,SP,2022-02-17,Básico 100MB,Bienal,Cartão de crédito,79.9,
+848,SP,2025-06-01,Intermediário 300MB,Mensal,Boleto,109.9,
+849,RS,2022-10-31,Básico 100MB,Mensal,Cartão de crédito,79.9,
+850,RS,2020-10-15,Premium 600MB,Mensal,Pix,149.9,
+851,MG,2024-11-18,Básico 100MB,Anual,Boleto,79.9,2025-09-06
+852,PR,2021-08-29,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+853,PR,2025-04-21,Premium 600MB,Mensal,Pix,149.9,2025-11-05
+854,SC,2024-10-22,Intermediário 300MB,Mensal,Débito automático,109.9,
+855,RJ,2019-12-15,Básico 100MB,Mensal,Pix,79.9,
+856,RJ,2023-12-26,Básico 100MB,Mensal,Boleto,79.9,
+857,RS,2022-09-15,Intermediário 300MB,Mensal,Débito automático,109.9,
+858,SP,2023-06-11,Básico 100MB,Bienal,Débito automático,79.9,2025-11-04
+859,PR,2023-12-03,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+860,SC,2024-01-18,Premium 600MB,Mensal,Pix,149.9,2025-12-23
+861,MG,2023-01-03,Premium 600MB,Anual,Boleto,149.9,
+862,SP,2024-12-26,Básico 100MB,Anual,Débito automático,79.9,2025-03-24
+863,SC,2020-09-20,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+864,MG,2022-11-06,Básico 100MB,Anual,Débito automático,79.9,
+865,PR,2021-12-09,Premium 600MB,Bienal,Cartão de crédito,149.9,
+866,RS,2020-07-24,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-01-25
+867,PR,2025-06-13,Básico 100MB,Mensal,Pix,79.9,2025-12-30
+868,SP,2022-06-25,Básico 100MB,Bienal,Cartão de crédito,79.9,
+869,PR,2022-01-06,Intermediário 300MB,Mensal,Boleto,109.9,
+870,SP,2022-11-29,Básico 100MB,Mensal,Pix,79.9,
+871,SC,2025-07-22,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+872,RS,2024-07-01,Básico 100MB,Anual,Pix,79.9,
+873,PR,2020-10-29,Intermediário 300MB,Bienal,Cartão de crédito,109.9,
+874,PR,2023-12-15,Premium 600MB,Bienal,Pix,149.9,
+875,MG,2024-07-09,Intermediário 300MB,Mensal,Débito automático,109.9,2025-01-04
+876,SC,2022-07-16,Intermediário 300MB,Mensal,Boleto,109.9,2025-01-28
+877,PR,2024-09-14,Premium 600MB,Anual,Débito automático,149.9,2025-04-02
+878,MG,2021-08-23,Intermediário 300MB,Bienal,Cartão de crédito,109.9,
+879,PR,2025-08-23,Intermediário 300MB,Bienal,Cartão de crédito,109.9,
+880,SP,2024-08-13,Básico 100MB,Mensal,Débito automático,79.9,
+881,PR,2025-08-11,Básico 100MB,Mensal,Pix ,79.9,2025-11-05
+882,PR,2025-01-22,Intermediário 300MB,Mensal,Cartão de crédito,109.9,2025-03-27
+883,PR,2025-02-23,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+884,RS,2019-10-08,Básico 100MB,Anual,Pix,79.9,
+885,MG,2019-09-03,Intermediário 300MB,Mensal,Pix,109.9,
+886,SC,2024-10-07,Intermediário 300MB,Anual,Débito automático,109.9,
+887,PR,2021-08-02,Básico 100MB,Mensal,Débito automático,79.9,2025-02-01
+888,SP,2024-06-08,Intermediário 300MB,Mensal,Cartão de crédito,109.9,2025-07-23
+889,SP,2025-03-17,Intermediário 300MB,Bienal,Boleto,109.9,
+890,SC,2024-01-09,Premium 600MB,Mensal,Cartão de crédito,149.9,2025-02-22
+891,SC,2019-06-11,Premium 600MB,Mensal,Débito automático,149.9,
+892,SP,2024-07-09,Intermediário 300MB,Anual,Cartão de crédito ,109.9,
+893,PR,2021-05-12,Básico 100MB,Mensal,Pix,79.9,2025-07-09
+894,MG,2025-01-30,Intermediário 300MB,Bienal,Cartão de crédito,109.9,
+895,PR,2021-08-23,Básico 100MB,Mensal,Boleto ,79.9,
+896,SP,2020-05-11,Básico 100MB,Anual,Débito automático,79.9,
+897,SP,2020-05-28,Premium 600MB,Mensal,Boleto,149.9,
+898,PR,2025-08-13,Intermediário 300MB,Mensal,Boleto,109.9,2025-10-03
+899,SC,2025-05-28,Premium 600MB,Anual,Boleto,149.9,
+900,SC,2022-02-09,Intermediário 300MB,Mensal,Débito automático,109.9,2025-10-02
+901,RJ,2023-11-26,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+902,PR,2021-09-05,Básico 100MB,Mensal,Débito automático,79.9,2025-03-29
+903,RJ,2020-05-21,Básico 100MB,Anual,Débito automático,79.9,
+904,SC,2023-02-07,Intermediário 300MB,Mensal,DÉBITO AUTOMÁTICO,109.9,2025-03-08
+905,PR,2024-07-07,Básico 100MB,Mensal,Pix,79.9,2025-07-30
+906,SC,2019-10-05,Básico 100MB,Bienal,Boleto,79.9,
+907,SC,2021-01-24,Básico 100MB,Mensal,Débito automático,79.9,
+908,RS,2024-09-10,Básico 100MB,Mensal,Boleto,79.9,
+909,PR,2022-03-10,Premium 600MB,Mensal,Débito automático,149.9,
+910,SC,2019-07-21,Básico 100MB,Bienal,Débito automático,79.9,
+911,SP,2023-05-01,Intermediário 300MB,Anual,Cartão de crédito ,109.9,
+912,MG,2024-04-27,Intermediário 300MB,Mensal,Boleto,109.9,2025-07-24
+913,PR,2023-11-23,Básico 100MB,Mensal,Pix,79.9,
+914,RS,2023-12-02,Premium 600MB,Mensal,Boleto,149.9,
+915,SC,2022-09-18,Básico 100MB,Mensal,Débito automático,79.9,
+916,SP,2024-06-28,Intermediário 300MB,Bienal,Boleto,109.9,
+917,SC,2020-12-18,Intermediário 300MB,Bienal,Débito automático,109.9,
+918,SC,2021-12-22,Premium 600MB,Mensal,Pix,149.9,2025-12-01
+919,SC,2024-09-16,Premium 600MB,Mensal,Débito automático,149.9,
+920,RS,2023-01-23,Básico 100MB,Bienal,Débito automático,79.9,
+921,SC,2019-12-19,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+922,MG,2019-09-25,Básico 100MB,Mensal,Pix,79.9,
+923,SC,2021-12-23,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+924,MG,2020-12-26,Básico 100MB,Anual,Débito automático,79.9,
+925,SC,2025-09-08,Intermediário 300MB,Anual,Pix,109.9,
+926,SP,2020-11-18,Premium 600MB,Bienal,Boleto,149.9,
+927,SP,2023-11-12,Intermediário 300MB,Mensal,Boleto,109.9,
+928,,2025-03-23,Básico 100MB,Anual,Cartão de crédito,79.9,
+929,RS,2020-06-20,Premium 600MB,Anual,Boleto,149.9,
+930,PR,2020-09-17,Intermediário 300MB,Anual,Boleto,109.9,2025-03-11
+931,PR,2020-07-22,Básico 100MB,Anual,Boleto,79.9,
+932,RS,2021-12-25,Premium 600MB,Mensal,Débito automático,149.9,
+933,PR,2022-01-10,Intermediário 300MB,Mensal,Débito automático,109.9,2025-04-20
+934,PR,2021-10-23,Intermediário 300MB,Anual,Boleto,109.9,
+935,SP,2021-07-02,Intermediário 300MB,Anual,Pix,109.9,
+936,RJ,2022-09-15,Intermediário 300MB,Mensal,Pix,109.9,
+937,SP,2022-09-18,Básico 100MB,Anual,Pix,79.9,
+938,MG,2021-03-25,Básico 100MB,Bienal,Boleto,79.9,
+939,MG,2019-06-25,Básico 100MB,Mensal,Débito automático,79.9,
+940,PR,2024-11-11,Intermediário 300MB,Mensal,Débito automático,109.9,
+941,MG,2022-09-16,Básico 100MB,Anual,Cartão de crédito,79.9,
+942,SP,2021-05-10,Básico 100MB,Bienal,Cartão de crédito,79.9,
+943,RS,2024-07-23,Básico 100MB,Anual,Cartão de crédito,79.9,
+944,RS,2022-08-28,Intermediário 300MB,Mensal,Boleto,109.9,2025-05-14
+945,SP,2025-07-03,Básico 100MB,Mensal,Boleto,79.9,2025-06-03
+946,PR,2020-03-11,Básico 100MB,Anual,Pix,79.9,
+947,RJ,2019-08-02,Premium 600MB,Anual,Débito automático,149.9,
+948,PR,2022-02-27,Intermediário 300MB,Anual,Pix,109.9,
+949,RJ,2021-03-23,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+950,MG,2025-06-12,Intermediário 300MB,Bienal,Débito automático,109.9,
+951,RS,2023-07-02,Básico 100MB,Anual,Pix,79.9,
+952,RJ,2022-01-22,Básico 100MB,Mensal,Cartão de crédito,79.9,
+953,RJ,2021-09-26,Premium 600MB,Mensal,Cartão de crédito,149.9,2025-10-06
+954,RS,2022-06-12,Básico 100MB,Mensal,Pix,79.9,
+955,SP,2021-04-19,Básico 100MB,Mensal,Pix,79.9,
+956,,2019-10-26,Intermediário 300MB,Mensal,Boleto,109.9,
+957,PR,2020-05-07,Básico 100MB,Anual,Boleto,79.9,2025-09-23
+958,SP,2022-05-22,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+959,SP,2024-02-19,Básico 100MB,Mensal,Cartão de crédito,79.9,
+960,SC,2023-03-15,Intermediário 300MB,Bienal,Boleto,109.9,
+961,SC,2020-04-22,Básico 100MB,Mensal,Boleto,79.9,2025-09-22
+962,SC,2024-04-27,Básico 100MB,Mensal,Débito automático,79.9,
+963,MG,2024-03-25,Básico 100MB,Anual,Boleto,79.9,2025-05-28
+964,RJ,2022-02-14,Premium 600MB,Anual,Boleto,149.9,
+965,PR,2025-08-10,Intermediário 300MB,Anual,Boleto,109.9,
+966,PR,2022-01-07,Intermediário 300MB,Mensal,Pix,109.9,2025-10-25
+967,PR,2021-05-23,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-03-04
+968,MG,2025-02-08,Intermediário 300MB,Anual,Boleto,109.9,2025-10-29
+969,SC,2020-08-02,Intermediário 300MB,Anual,Débito automático,109.9,
+970,MG,2023-07-10,Básico 100MB,Mensal,Débito automático,79.9,
+971,PR,2020-03-12,Básico 100MB,Anual,Boleto,79.9,
+972,PR,2025-01-25,Básico 100MB,Anual,Pix,79.9,
+973,MG,2021-07-08,Premium 600MB,Bienal,Boleto,149.9,
+974,MG,2023-03-26,Premium 600MB,Mensal,Débito automático,149.9,
+975,SP,2019-12-11,Básico 100MB,Mensal,Débito automático,79.9,
+976,SP,2022-02-12,Premium 600MB,Mensal,Boleto,149.9,2025-08-21
+977,PR,2022-07-11,Intermediário 300MB,Anual,Pix,109.9,
+978,RJ,2025-05-01,Intermediário 300MB,Mensal,Débito automático,109.9,
+979,SP,2024-01-27,Premium 600MB,Mensal,Débito automático,149.9,2025-08-02
+980,SP,2022-01-02,Básico 100MB,Anual,Cartão de crédito,79.9,
+981,PR,2021-09-08,Intermediário 300MB,Mensal,Cartão de crédito,109.9,2025-06-13
+982,MG,2024-09-02,Básico 100MB,Mensal,Boleto,,2025-10-03
+983,PR,2019-07-25,Intermediário 300MB,Anual,Pix,109.9,
+984,SP,2021-08-08,Básico 100MB,Mensal,Boleto,79.9,
+985,SC,2021-07-17,Intermediário 300MB,Bienal,Cartão de crédito,109.9,
+986,RS,2023-06-21,Intermediário 300MB,Bienal,Débito automático,109.9,
+987,RJ,2024-08-14,Básico 100MB,Bienal,Boleto,79.9,2025-05-30
+988,SP,2025-06-18,Básico 100MB,Anual,Boleto,79.9,
+989,RS,2025-04-04,Básico 100MB,Bienal,Cartão de crédito,79.9,
+990,PR,2019-07-25,Básico 100MB,Anual,Boleto,79.9,
+991,SP,2024-05-28,Premium 600MB,Anual,Cartão de crédito,149.9,
+992,PR,2022-09-14,Intermediário 300MB,Anual,Débito automático,109.9,
+993,SP,2021-09-10,Básico 100MB,Mensal,Boleto,79.9,
+994,SP,2020-04-08,Básico 100MB,Mensal,Cartão de crédito,79.9,
+995,RJ,2024-07-02,Básico 100MB,Anual,Pix,79.9,2025-03-06
+996,PR,2024-11-28,Intermediário 300MB,Anual,Débito automático,109.9,2025-03-29
+997,SP,2024-11-27,Intermediário 300MB,Anual,Pix,109.9,
+998,SP,2024-04-25,Básico 100MB,Anual,Débito automático,79.9,
+999,RJ,2020-04-23,Intermediário 300MB,Anual,Boleto,109.9,
+1000,MG,2022-12-09,Intermediário 300MB,Mensal,Boleto,109.9,
+1001,PR,2025-04-13,Básico 100MB,Mensal,Débito automático,79.9,
+1002,SC,2022-06-16,Intermediário 300MB,Anual,Débito automático,109.9,
+1003,SP,2023-01-02,Básico 100MB,Bienal,Pix,79.9,
+1004,RJ,2020-08-25,Intermediário 300MB,Mensal,Débito automático,109.9,2025-05-07
+1005,SP,2023-08-02,Premium 600MB,Mensal,Boleto,149.9,2025-09-29
+1006,SP,2019-11-12,Premium 600MB,Anual,Débito automático,149.9,
+1007,PR,2019-11-29,Intermediário 300MB,Bienal,Débito automático,109.9,
+1008,PR,2021-11-26,Intermediário 300MB,Mensal,PIX,109.9,
+1009,MG,2021-08-31,Intermediário 300MB,Mensal,Pix,109.9,2025-09-28
+1010,SP,2021-12-30,Básico 100MB,Bienal,Boleto,79.9,2025-02-25
+1011,SC,2024-11-22,Básico 100MB,Mensal,Pix,79.9,
+1012,SC,2025-01-14,Intermediário 300MB,Mensal,Débito automático,,2025-05-15
+1013,SC,2020-04-25,Básico 100MB,Mensal,Boleto,79.9,2025-10-22
+1014,PR,2021-07-14,Premium 600MB,Anual,Boleto,149.9,
+1015,RS,2025-06-07,Intermediário 300MB,Anual,Boleto,109.9,2025-06-20
+1016,PR,2019-10-25,Básico 100MB,Anual,Cartão de crédito,79.9,
+1017,PR,2021-12-01,Intermediário 300MB,Mensal,Pix,109.9,
+1018,SC,2023-09-19,Intermediário 300MB,Mensal,Cartão de crédito,109.9,2025-08-19
+1019,PR,2022-12-30,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+1020,RS,2019-08-21,Intermediário 300MB,Mensal,Débito automático,109.9,
+1021,PR,2020-10-26,Básico 100MB,Mensal,Débito automático,79.9,
+1022,PR,2024-09-02,Básico 100MB,Bienal,Boleto,79.9,
+1023,MG,2024-09-21,Intermediário 300MB,Mensal,Boleto,109.9,2025-03-26
+1024,SP,2021-06-15,Básico 100MB,Bienal,Débito automático,79.9,
+1025,PR,2023-04-10,Premium 600MB,Bienal,Débito automático,149.9,
+1026,MG,2021-05-07,Básico 100MB,Mensal,Cartão de crédito,79.9,
+1027,PR,2020-09-13,Premium 600MB,Mensal,Débito automático,149.9,
+1028,MG,2020-06-30,Básico 100MB,Anual,Pix,79.9,
+1029,PR,2023-09-03,Básico 100MB,Mensal,Pix,,
+1030,PR,2025-09-25,Intermediário 300MB,Anual,Pix,109.9,2025-11-16
+1031,PR,2021-08-13,Intermediário 300MB,Bienal,Boleto,109.9,2025-01-27
+1032,PR,2021-12-20,Intermediário 300MB,Mensal,Débito automático,109.9,
+1033,SC,2022-12-01,Básico 100MB,Mensal,Pix,79.9,
+1034,PR,2024-03-23,Básico 100MB,Mensal,Cartão de crédito,79.9,
+1035,PR,2021-11-21,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+1036,RS,2022-05-12,Intermediário 300MB,Bienal,Boleto,109.9,
+1037,PR,2024-08-03,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-09-27
+1038,SP,2023-08-02,Básico 100MB,Bienal,Débito automático,79.9,
+1039,PR,2023-03-19,Básico 100MB,Anual,Débito automático,79.9,
+1040,PR,2022-12-25,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+1041,RS,2021-01-13,Básico 100MB,Mensal,Boleto,79.9,2025-04-18
+1042,SP,2025-03-07,Premium 600MB,Anual,Cartão de crédito ,149.9,
+1043,RS,2019-10-06,Básico 100MB,Mensal,Boleto,79.9,
+1044,SP,2021-06-05,Básico 100MB,Mensal,Boleto,79.9,2025-05-18
+1045,RS,2020-11-02,Básico 100MB,Mensal,Pix,79.9,
+1046,SP,2020-01-23,Intermediário 300MB,Bienal,Boleto,109.9,
+1047,PR,2022-12-26,Intermediário 300MB,Mensal,Pix,109.9,
+1048,SP,2024-04-16,Básico 100MB,Mensal,Débito automático,79.9,
+1049,RJ,2022-12-23,Intermediário 300MB,Anual,Débito automático,109.9,
+1050,PR,2025-01-11,Intermediário 300MB,Mensal,Pix,109.9,2025-09-02
+1051,RS,2020-08-15,Básico 100MB,Anual,Débito automático,79.9,
+1052,MG,2025-02-05,Intermediário 300MB,Mensal,Boleto,109.9,2025-03-09
+1053,SP,2021-08-13,Básico 100MB,Bienal,Pix,79.9,
+1054,SP,2019-08-14,Básico 100MB,Bienal,Débito automático,79.9,
+1055,RJ,2025-05-15,Básico 100MB,Mensal,Boleto,79.9,
+1056,PR,2025-02-18,Intermediário 300MB,Bienal,Boleto,109.9,
+1057,SP,2023-03-11,Intermediário 300MB,Mensal,Boleto,109.9,
+1058,SP,2019-07-11,Premium 600MB,Mensal,Boleto,149.9,
+1059,SC,2025-02-10,Intermediário 300MB,Mensal,Cartão de crédito,109.9,2025-07-01
+1060,SP,2024-01-26,Intermediário 300MB,Bienal,Pix,109.9,
+1061,MG,2023-04-02,Básico 100MB,Mensal,Boleto,79.9,2025-04-16
+1062,PR,2021-01-08,Intermediário 300MB,Anual,Boleto,109.9,
+1063,PR,2023-11-09,Básico 100MB,Anual,Pix,79.9,
+1064,SC,2020-05-07,Básico 100MB,Bienal,Cartão de crédito,79.9,
+1065,PR,2025-02-03,Básico 100MB,Anual,Boleto,79.9,2025-01-04
+1066,,2021-03-07,Básico 100MB,Mensal,Boleto,79.9,
+1067,SC,2021-05-31,Intermediário 300MB,Anual,Boleto,109.9,
+1068,SP,2019-11-15,Intermediário 300MB,Anual,Cartão de crédito,109.9,2025-05-03
+1069,SP,2021-01-30,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+1070,RJ,2024-04-07,Básico 100MB,Anual,Pix,79.9,2025-12-17
+1071,SP,2024-12-31,Premium 600MB,Mensal,Cartão de crédito,149.9,
+1072,SP,2020-08-28,Básico 100MB,Mensal,Débito automático,79.9,2025-06-17
+1073,SC,2024-02-03,Básico 100MB,Mensal,Boleto,79.9,
+1074,PR,2021-05-02,Básico 100MB,Bienal,Pix,79.9,
+1075,RS,2023-10-17,Premium 600MB,Mensal,Débito automático,149.9,
+1076,MG,2019-10-08,Básico 100MB,Anual,Débito automático,79.9,
+1077,SC,2024-06-19,Básico 100MB,Anual,Boleto,79.9,
+1078,RS,2023-03-18,Básico 100MB,Mensal,Pix,,
+1079,RS,2021-04-23,Básico 100MB,Mensal,Cartão de crédito,79.9,
+1080,PR,2023-03-26,Básico 100MB,Mensal,Boleto,79.9,
+1081,SP,2021-08-02,Básico 100MB,Anual,Pix,,
+1082,PR,2019-06-29,Premium 600MB,Bienal,Cartão de crédito,149.9,
+1083,SP,2019-10-27,Intermediário 300MB,Bienal,Boleto,109.9,
+1084,SP,2023-01-10,Intermediário 300MB,Anual,Débito automático,109.9,
+1085,SP,2025-01-18,Intermediário 300MB,Anual,Pix,109.9,2025-11-13
+1086,PR,2022-07-11,Intermediário 300MB,Bienal,Pix,109.9,2025-06-23
+1087,SP,2019-12-04,Premium 600MB,Anual,Boleto,149.9,
+1088,SC,2022-11-02,Premium 600MB,Anual,Boleto,149.9,
+1089,SP,2023-01-24,Intermediário 300MB,Anual,Boleto,109.9,
+1090,PR,2019-09-06,Básico 100MB,Anual,Débito automático,79.9,
+1091,RJ,2019-07-25,Básico 100MB,Anual,Boleto,79.9,
+1092,PR,2021-06-27,Intermediário 300MB,Mensal,Pix,109.9,
+1093,MG,2020-07-10,Premium 600MB,Anual,Boleto,149.9,
+1094,PR,2025-03-17,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-06-12
+1095,PR,2023-01-03,Básico 100MB,Anual,Débito automático,79.9,
+1096,RS,2024-04-20,Intermediário 300MB,Anual,Boleto,109.9,
+1097,RS,2021-06-20,Intermediário 300MB,Mensal,Débito automático,109.9,2025-06-13
+1098,SC,2024-03-28,Básico 100MB,Anual,Pix,79.9,2025-11-01
+1099,,2020-05-30,Básico 100MB,Mensal,Pix,79.9,
+1100,SC,2024-12-17,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-12-30
+1101,,2020-09-24,Básico 100MB,Bienal,Boleto,79.9,
+1102,PR,2025-07-27,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-09-09
+1103,SP,2019-11-01,Básico 100MB,Bienal,Boleto,,
+1104,SC,2023-08-03,Premium 600MB,Mensal,Boleto,149.9,
+1105,RS,2025-03-21,Intermediário 300MB,Mensal,Cartão de crédito,109.9,2025-06-10
+1106,MG,2022-04-06,Básico 100MB,Anual,Débito automático,79.9,
+1107,RS,2023-12-21,Básico 100MB,Mensal,Boleto,79.9,2025-11-26
+1108,RJ,2022-10-23,Intermediário 300MB,Anual,Boleto,109.9,
+1109,SC,2019-07-31,Intermediário 300MB,Bienal,Pix,109.9,
+1110,SP,2021-12-25,Intermediário 300MB,Mensal,Cartão de crédito,109.9,2025-11-17
+1111,SC,2023-11-26,Básico 100MB,Bienal,Débito automático,79.9,
+1112,PR,2025-02-18,Básico 100MB,Anual,Cartão de crédito,79.9,
+1113,SC,2019-06-25,Básico 100MB,Mensal,Boleto,79.9,
+1114,PR,2022-04-28,Premium 600MB,Mensal,Boleto,149.9,
+1115,PR,2019-10-09,Premium 600MB,Bienal,Boleto,149.9,
+1116,MG,2022-11-04,Básico 100MB,Mensal,Cartão de crédito,79.9,
+1117,SP,2019-09-16,Premium 600MB,Mensal,Boleto,149.9,
+1118,RS,2019-11-19,Básico 100MB,Mensal,Cartão de crédito,79.9,
+1119,SC,2023-05-29,Intermediário 300MB,Bienal,Cartão de crédito,109.9,
+1120,RS,2019-09-10,Básico 100MB,Mensal,Cartão de crédito,79.9,
+1121,MG,2023-11-23,Premium 600MB,Mensal,Boleto,149.9,
+1122,RJ,2022-04-06,Intermediário 300MB,Mensal,Pix,109.9,
+1123,RS,2020-04-25,Básico 100MB,Mensal,Débito automático,79.9,
+1124,SC,2023-07-30,Básico 100MB,Mensal,Débito automático,79.9,2025-07-03
+1125,SC,2019-06-12,Básico 100MB,Mensal,Débito automático,79.9,
+1126,PR,2023-02-01,Básico 100MB,Mensal,Débito automático,79.9,
+1127,RJ,2020-01-02,Básico 100MB,Mensal,Pix,79.9,2025-11-15
+1128,MG,2020-05-04,Premium 600MB,Mensal,Débito automático,149.9,
+1129,PR,2024-05-04,Premium 600MB,Mensal,Cartão de crédito,149.9,
+1130,PR,2024-03-16,Premium 600MB,Mensal,Débito automático,149.9,2025-11-06
+1131,RS,2023-07-18,Premium 600MB,Anual,Cartão de crédito,149.9,
+1132,SP,2021-05-10,Premium 600MB,Mensal,Cartão de crédito,149.9,2025-10-28
+1133,SP,2022-10-06,Intermediário 300MB,Mensal,Pix,109.9,2025-04-21
+1134,PR,2022-06-17,Intermediário 300MB,Mensal,Pix,109.9,
+1135,MG,2022-12-13,Premium 600MB,Mensal,Boleto,149.9,
+1136,,2020-10-01,Intermediário 300MB,Mensal,Boleto,109.9,2025-06-20
+1137,SP,2023-09-09,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+1138,PR,2019-07-17,Intermediário 300MB,Mensal,Pix,109.9,
+1139,SC,2021-07-17,Premium 600MB,Mensal,Pix,149.9,2025-04-24
+1140,PR,2022-04-05,Intermediário 300MB,Bienal,Débito automático,109.9,
+1141,RS,2021-05-11,Intermediário 300MB,Mensal,Débito automático,109.9,
+1142,PR,2020-07-05,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+1143,SP,2024-05-22,Básico 100MB,Anual,Pix,79.9,
+1144,SP,2020-02-05,Básico 100MB,Anual,Pix,79.9,
+1145,,2020-06-25,Básico 100MB,Mensal,Cartão de crédito,79.9,
+1146,RS,2020-04-30,Intermediário 300MB,Anual,Boleto,109.9,
+1147,RS,2021-02-18,Premium 600MB,Mensal,Cartão de crédito,149.9,
+1148,SC,2019-10-15,Intermediário 300MB,Mensal,Pix,109.9,
+1149,PR,2023-07-31,Básico 100MB,Mensal,Débito automático,79.9,
+1150,PR,2021-09-04,Básico 100MB,Mensal,Boleto,79.9,2025-05-02
+1151,PR,2021-05-27,Premium 600MB,Mensal,Boleto,149.9,2025-04-26
+1152,SC,2023-07-10,Intermediário 300MB,Mensal,Débito automático,109.9,
+1153,SC,2022-02-14,Básico 100MB,Mensal,Débito automático,79.9,
+1154,PR,2021-12-21,Premium 600MB,Mensal,Boleto,149.9,2025-01-05
+1155,SC,2020-07-06,Básico 100MB,Bienal,Boleto,79.9,
+1156,SP,2023-06-06,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-06-23
+1157,SP,2021-02-04,Intermediário 300MB,Bienal,Cartão de crédito,109.9,
+1158,PR,2022-12-18,Premium 600MB,Anual,Cartão de crédito,,
+1159,RS,2022-08-26,Básico 100MB,Mensal,Pix,79.9,
+1160,PR,2025-07-14,Premium 600MB,Anual,Cartão de crédito,149.9,
+1161,SP,2022-06-26,Intermediário 300MB,Anual,Pix,109.9,
+1162,PR,2019-10-09,Básico 100MB,Mensal,Débito automático,79.9,
+1163,SC,2022-09-07,Premium 600MB,Mensal,Débito automático,149.9,
+1164,SP,2019-11-30,Básico 100MB,Mensal,Pix,79.9,
+1165,SC,2020-05-29,Premium 600MB,Anual,Boleto,149.9,
+1166,PR,2019-07-09,Intermediário 300MB,Mensal,Pix,109.9,2025-03-20
+1167,SP,2023-03-04,Premium 600MB,Bienal,Cartão de crédito,149.9,
+1168,SC,2021-12-07,Intermediário 300MB,Mensal,Boleto,109.9,
+1169,PR,2019-06-16,Básico 100MB,Bienal,Boleto,79.9,
+1170,SP,2020-10-05,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+1171,PR,2023-05-20,Premium 600MB,Anual,Cartão de crédito,149.9,
+1172,PR,2022-07-06,Básico 100MB,Mensal,Cartão de crédito,79.9,
+1173,PR,2020-04-06,Básico 100MB,Bienal,Débito automático,79.9,
+1174,SP,2021-06-08,Básico 100MB,Mensal,Cartão de crédito,79.9,
+1175,PR,2020-11-27,Intermediário 300MB,Mensal,Débito automático,109.9,
+1176,RS,2020-02-06,Básico 100MB,Mensal,Boleto,79.9,
+1177,PR,2021-06-28,Básico 100MB,Bienal,Boleto,79.9,
+1178,SP,2024-05-09,Premium 600MB,Mensal,Débito automático,149.9,
+1179,RS,2022-12-19,Intermediário 300MB,Bienal,Boleto,109.9,
+1180,SP,2023-11-18,Intermediário 300MB,Mensal,Pix,109.9,
+1181,MG,2024-08-27,Intermediário 300MB,Bienal,Cartão de crédito,109.9,
+1182,RS,2021-08-22,Intermediário 300MB,Mensal,Boleto,109.9,
+1183,PR,2019-06-29,Intermediário 300MB,Anual,Boleto,109.9,2025-03-02
+1184,MG,2022-01-13,Básico 100MB,Bienal,Débito automático,79.9,
+1185,PR,2024-12-23,Intermediário 300MB,Mensal,Boleto,109.9,2025-02-01
+1186,PR,2020-09-19,Intermediário 300MB,Mensal,Débito automático,109.9,2025-11-28
+1187,RJ,2020-04-13,Intermediário 300MB,Anual,Boleto,109.9,
+1188,MG,2020-01-31,Premium 600MB,Anual,Pix,149.9,
+1189,SC,2021-06-17,Premium 600MB,Anual,Boleto,149.9,
+1190,SC,2021-04-27,Premium 600MB,Mensal,Pix,149.9,
+1191,RS,2020-02-27,Intermediário 300MB,Anual,Boleto,,2025-01-27
+1192,SP,2024-04-06,Premium 600MB,Anual,Boleto,149.9,
+1193,PR,2022-11-14,Premium 600MB,Mensal,Boleto,149.9,2025-12-06
+1194,PR,2020-02-21,Básico 100MB,Mensal,Pix,79.9,
+1195,SP,2021-12-07,Básico 100MB,Mensal,Débito automático,79.9,
+1196,RS,2020-05-05,Intermediário 300MB,Mensal,Pix,109.9,
+1197,SC,2020-06-23,Básico 100MB,Anual,Boleto,79.9,2025-04-30
+1198,MG,2025-01-10,Intermediário 300MB,Mensal,Pix,109.9,2025-08-20
+1199,MG,2022-08-09,Intermediário 300MB,Mensal,Boleto,109.9,
+1200,PR,2020-06-10,Intermediário 300MB,Anual,Pix,109.9,
+1201,MG,2024-12-24,Intermediário 300MB,Bienal,Boleto,109.9,
+1202,,2019-10-24,Básico 100MB,Mensal,Boleto,79.9,
+1203,SC,2024-11-02,Intermediário 300MB,Anual,Pix,109.9,
+1204,SP,2020-03-19,Básico 100MB,Mensal,Débito automático,79.9,
+1205,SP,2020-08-05,Premium 600MB,Mensal,Cartão de crédito,149.9,
+1206,SP,2021-05-05,Intermediário 300MB,Anual,Pix,109.9,
+1207,SP,2024-11-19,Intermediário 300MB,Mensal,Pix,109.9,2025-04-21
+1208,SP,2020-07-03,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+1209,PR,2022-01-19,Básico 100MB,Bienal,Boleto,79.9,
+1210,SP,2025-07-13,Básico 100MB,Mensal,Cartão de crédito,79.9,
+1211,PR,2025-01-01,Intermediário 300MB,Mensal,Cartão de crédito,109.9,2025-12-15
+1212,SP,2024-06-02,Básico 100MB,Anual,Boleto,79.9,
+1213,MG,2025-03-09,Intermediário 300MB,Mensal,Cartão de crédito,109.9,2025-04-02
+1214,SP,2021-12-25,Básico 100MB,Anual,Cartão de crédito,79.9,
+1215,RS,2021-05-10,Intermediário 300MB,Anual,Débito automático,109.9,
+1216,RS,2021-08-15,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-11-08
+1217,RS,2023-06-03,Intermediário 300MB,Mensal,Pix,109.9,
+1218,PR,2023-01-16,Intermediário 300MB,Bienal,Débito automático,109.9,
+1219,PR,2019-06-11,Básico 100MB,Anual,Boleto,79.9,
+1220,PR,2022-05-21,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+1221,SC,2024-07-12,Básico 100MB,Bienal,Débito automático,79.9,
+1222,RS,2025-08-21,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+1223,SC,2021-07-11,Básico 100MB,Anual,Cartão de crédito,79.9,
+1224,PR,2023-10-12,Premium 600MB,Anual,Pix,149.9,
+1225,RS,2023-10-25,Básico 100MB,Anual,Cartão de crédito,79.9,
+1226,,2023-01-24,Básico 100MB,Anual,Débito automático,79.9,
+1227,RS,2021-11-01,Básico 100MB,Mensal,Pix,,
+1228,RS,2023-03-21,Intermediário 300MB,Mensal,Boleto,109.9,
+1229,,2020-01-12,Básico 100MB,Bienal,BOLETO,79.9,
+1230,RJ,2021-09-02,Básico 100MB,Anual,Débito automático,79.9,
+1231,SC,2025-08-13,Básico 100MB,Anual,Débito automático,79.9,
+1232,SC,2021-12-23,Básico 100MB,Mensal,Boleto,79.9,
+1233,SC,2025-09-23,Básico 100MB,Bienal,Pix,79.9,
+1234,MG,2024-08-24,Básico 100MB,Bienal,Débito automático,79.9,
+1235,SC,2024-05-01,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-05-20
+1236,PR,2019-07-24,Premium 600MB,Mensal,Débito automático,149.9,
+1237,PR,2021-05-27,Básico 100MB,Anual,Cartão de crédito,79.9,
+1238,SP,2023-08-23,Premium 600MB,Anual,Pix,149.9,
+1239,SP,2022-04-09,Básico 100MB,Mensal,Cartão de crédito,79.9,
+1240,PR,2024-08-26,Intermediário 300MB,Mensal,Boleto,109.9,
+1241,PR,2024-04-11,Premium 600MB,Bienal,Débito automático,149.9,
+1242,SP,2023-10-14,Premium 600MB,Mensal,Boleto,149.9,
+1243,SP,2024-08-27,Intermediário 300MB,Mensal,Pix,109.9,
+1244,SP,2021-09-27,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+1245,PR,2025-03-10,Intermediário 300MB,Mensal,Débito automático,109.9,2025-09-16
+1246,MG,2025-08-11,Básico 100MB,Bienal,Boleto,79.9,
+1247,PR,2019-06-03,Intermediário 300MB,Mensal,Boleto,109.9,
+1248,MG,2019-11-07,Intermediário 300MB,Mensal,Débito automático,109.9,
+1249,MG,2021-07-20,Básico 100MB,Anual,Boleto,79.9,
+1250,SC,2021-11-09,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+1251,SP,2024-12-21,Básico 100MB,Anual,Pix,79.9,
+1252,SP,2020-12-31,Premium 600MB,Mensal,Cartão de crédito,149.9,2025-06-01
+1253,SC,2024-09-15,Intermediário 300MB,Mensal,Cartão de crédito,109.9,2025-12-22
+1254,RS,2023-03-12,Intermediário 300MB,Mensal,Pix,109.9,2025-03-15
+1255,MG,2022-12-12,Básico 100MB,Mensal,Débito automático,79.9,
+1256,SP,2023-11-27,Básico 100MB,Bienal,Cartão de crédito,79.9,
+1257,RS,2022-01-07,Básico 100MB,Anual,Boleto,79.9,
+1258,SC,2022-02-12,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+1259,SP,2022-10-01,Premium 600MB,Mensal,Cartão de crédito,149.9,
+1260,SP,2021-12-07,Básico 100MB,Bienal,Cartão de crédito,79.9,
+1261,PR,2023-02-15,Básico 100MB,Mensal,Boleto,79.9,
+1262,PR,2019-11-17,Básico 100MB,Bienal,Débito automático,79.9,
+1263,PR,2020-11-02,Premium 600MB,Anual,Boleto,149.9,
+1264,MG,2023-06-26,Premium 600MB,Mensal,Boleto,149.9,
+1265,SP,2019-07-10,Básico 100MB,Anual,Boleto,79.9,
+1266,,2023-09-08,Intermediário 300MB,Anual,Débito automático,109.9,
+1267,SP,2023-04-19,Intermediário 300MB,Anual,Cartão de crédito,109.9,2025-01-15
+1268,PR,2022-01-10,Básico 100MB,Anual,Cartão de crédito,79.9,
+1269,PR,2022-02-08,Intermediário 300MB,Anual,Pix,109.9,
+1270,SP,2022-01-30,Básico 100MB,Mensal,Boleto,79.9,
+1271,,2019-07-08,Intermediário 300MB,Mensal,Boleto,109.9,2025-08-21
+1272,SP,2022-11-26,Intermediário 300MB,Mensal,Pix,109.9,
+1273,PR,2022-09-12,Intermediário 300MB,Mensal,Débito automático,109.9,2025-02-04
+1274,SP,2023-11-12,Premium 600MB,Anual,Cartão de crédito,149.9,
+1275,PR,2021-11-30,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-02-16
+1276,SP,2020-08-27,Básico 100MB,Anual,Cartão de crédito,79.9,
+1277,SP,2019-07-07,Intermediário 300MB,Anual,Débito automático,109.9,
+1278,SC,2024-02-06,Básico 100MB,Mensal,Pix,79.9,2025-04-26
+1279,RS,2021-08-04,Básico 100MB,Anual,Pix,79.9,
+1280,SC,2022-01-28,Premium 600MB,Bienal,Cartão de crédito,149.9,
+1281,PR,2021-01-13,Básico 100MB,Anual,Cartão de crédito,79.9,
+1282,PR,2022-07-12,Intermediário 300MB,Anual,Pix,109.9,
+1283,SC,2023-01-15,Intermediário 300MB,Mensal,Débito automático,109.9,
+1284,PR,2025-08-19,Premium 600MB,Anual,BOLETO,149.9,2025-11-17
+1285,RS,2020-04-13,Básico 100MB,Mensal,Cartão de crédito,79.9,
+1286,SC,2025-05-02,Básico 100MB,Bienal,Débito automático,79.9,2025-09-16
+1287,MG,2023-02-06,Básico 100MB,Anual,Cartão de crédito,79.9,2025-10-05
+1288,MG,2023-10-09,Básico 100MB,Bienal,Pix,79.9,
+1289,SP,2024-08-02,Básico 100MB,Mensal,Boleto,79.9,
+1290,SC,2025-02-16,Básico 100MB,Bienal,Boleto,79.9,2025-11-23
+1291,PR,2024-11-17,Intermediário 300MB,Mensal,Boleto,,2025-01-08
+1292,SP,2024-04-07,Básico 100MB,Bienal,Cartão de crédito,,2025-10-01
+1293,RJ,2023-01-03,Básico 100MB,Mensal,Boleto,79.9,
+1294,SC,2022-12-07,Premium 600MB,Anual,Cartão de crédito,149.9,
+1295,SP,2020-01-02,Básico 100MB,Mensal,Débito automático,79.9,2025-01-03
+1296,SC,2025-04-09,Intermediário 300MB,Mensal,Pix,109.9,2025-11-12
+1297,RJ,2024-01-30,Premium 600MB,Anual,Pix,149.9,
+1298,SP,2020-05-28,Básico 100MB,Bienal,Débito automático,79.9,
+1299,SP,2024-02-11,Básico 100MB,Mensal,Débito automático,79.9,2025-09-04
+1300,RS,2022-09-06,Básico 100MB,Mensal,Débito automático,79.9,2025-09-13
+1301,RS,2020-05-21,Intermediário 300MB,Mensal,Boleto,109.9,2025-12-14
+1302,SC,2019-12-08,Intermediário 300MB,Mensal,Boleto,109.9,
+1303,MG,2021-04-30,Premium 600MB,Mensal,Boleto,149.9,
+1304,RS,2025-01-14,Intermediário 300MB,Mensal,Pix,109.9,2025-12-14
+1305,SC,2025-05-20,Básico 100MB,Mensal,Débito automático,79.9,
+1306,SP,2020-12-08,Básico 100MB,Anual,Pix,79.9,2025-04-19
+1307,SC,2021-09-03,Básico 100MB,Mensal,Boleto,79.9,
+1308,SP,2022-04-20,Básico 100MB,Anual,Boleto,79.9,
+1309,SP,2020-07-30,Premium 600MB,Bienal,Cartão de crédito,149.9,
+1310,SP,2023-09-22,Intermediário 300MB,Mensal,Pix,109.9,
+1311,PR,2025-03-30,Básico 100MB,Mensal,Débito automático,79.9,2025-08-06
+1312,PR,2021-01-09,Básico 100MB,Mensal,Boleto,79.9,
+1313,RJ,2024-12-03,Intermediário 300MB,Mensal,Débito automático,109.9,
+1314,SP,2023-08-26,Básico 100MB,Mensal,Débito automático,79.9,2025-01-23
+1315,PR,2020-03-21,Básico 100MB,Anual,Débito automático,79.9,
+1316,PR,2024-11-06,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-07-18
+1317,PR,2022-10-30,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+1318,MG,2023-08-27,Premium 600MB,Bienal,Pix,149.9,
+1319,PR,2024-01-16,Básico 100MB,Anual,Pix,79.9,
+1320,RS,2022-07-11,Básico 100MB,Anual,Boleto,79.9,2025-10-08
+1321,MG,2022-11-08,Básico 100MB,Mensal,Débito automático,79.9,
+1322,MG,2025-01-24,Intermediário 300MB,Mensal,Débito automático,109.9,
+1323,PR,2020-05-25,Básico 100MB,Mensal,Pix,79.9,
+1324,SP,2021-04-30,Premium 600MB,Mensal,Pix,149.9,2025-12-07
+1325,RS,2020-08-21,Básico 100MB,Mensal,Débito automático,79.9,2025-10-31
+1326,PR,2021-04-05,Intermediário 300MB,Mensal,Boleto,109.9,
+1327,SP,2022-03-04,Premium 600MB,Mensal,Pix ,149.9,
+1328,PR,2023-02-09,Básico 100MB,Anual,Cartão de crédito,79.9,2025-06-06
+1329,MG,2021-01-06,Intermediário 300MB,Bienal,Cartão de crédito,109.9,
+1330,RS,2022-11-08,Premium 600MB,Anual,Cartão de crédito,149.9,
+1331,RS,2022-10-30,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+1332,PR,2022-02-18,Básico 100MB,Anual,Débito automático,79.9,2025-12-11
+1333,SP,2023-05-06,Básico 100MB,Anual,Boleto,79.9,
+1334,SP,2020-12-23,Premium 600MB,Anual,Cartão de crédito,149.9,
+1335,SC,2022-10-28,Intermediário 300MB,Mensal,Boleto,109.9,2025-01-31
+1336,PR,2025-02-13,Básico 100MB,Mensal,Boleto,79.9,
+1337,SP,2022-02-13,Intermediário 300MB,Mensal,Débito automático,109.9,
+1338,PR,2020-03-04,Intermediário 300MB,Mensal,Débito automático,109.9,
+1339,RS,2022-10-02,Intermediário 300MB,Bienal,Débito automático,109.9,
+1340,SP,2024-07-31,Intermediário 300MB,Mensal,Boleto,109.9,
+1341,SP,2020-09-26,Intermediário 300MB,Mensal,Débito automático,109.9,2025-08-15
+1342,SP,2022-11-17,Intermediário 300MB,Bienal,Pix,109.9,
+1343,RS,2021-05-31,Básico 100MB,Mensal,Cartão de crédito,79.9,
+1344,SP,2025-07-18,Básico 100MB,Mensal,Pix,79.9,
+1345,MG,2022-04-06,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+1346,SP,2021-12-04,Premium 600MB,Mensal,Cartão de crédito,149.9,2025-05-08
+1347,RJ,2021-11-02,Básico 100MB,Anual,Cartão de crédito,79.9,
+1348,RJ,2019-06-22,Básico 100MB,Anual,Pix,79.9,
+1349,SP,2020-09-16,Básico 100MB,Mensal,Débito automático,79.9,
+1350,PR,2025-08-05,Básico 100MB,Mensal,Boleto,79.9,
+1351,SP,2021-05-04,Básico 100MB,Mensal,Boleto,79.9,2025-03-17
+1352,SP,2021-04-17,Premium 600MB,Anual,Cartão de crédito,149.9,2025-04-02
+1353,,2020-03-11,Premium 600MB,Mensal,Pix,149.9,
+1354,RS,2021-05-16,Básico 100MB,Anual,Débito automático,79.9,
+1355,RS,2021-07-02,Intermediário 300MB,Anual,Pix,109.9,
+1356,PR,2022-11-02,Básico 100MB,Mensal,Débito automático,79.9,
+1357,PR,2022-01-03,Premium 600MB,Mensal,Cartão de crédito,149.9,
+1358,SC,2022-03-27,Premium 600MB,Anual,Cartão de crédito,149.9,
+1359,MG,2019-06-29,Intermediário 300MB,Bienal,Cartão de crédito,109.9,
+1360,SC,2021-11-23,Básico 100MB,Anual,Boleto,79.9,
+1361,PR,2025-03-27,Básico 100MB,Mensal,Boleto,79.9,2025-10-21
+1362,MG,2020-12-21,Básico 100MB,Bienal,Débito automático,79.9,
+1363,MG,2024-11-27,Básico 100MB,Anual,Pix,79.9,2025-10-25
+1364,PR,2023-05-24,Básico 100MB,Mensal,Débito automático,79.9,
+1365,RS,2021-06-07,Básico 100MB,Mensal,Boleto,79.9,
+1366,PR,2020-10-28,Básico 100MB,Mensal,Cartão de crédito,79.9,
+1367,MG,2024-11-21,Intermediário 300MB,Mensal,Pix,109.9,
+1368,PR,2019-07-09,Básico 100MB,Anual,Pix,79.9,
+1369,SP,2021-11-03,Básico 100MB,Mensal,Boleto,79.9,2025-12-25
+1370,RJ,2025-06-13,Intermediário 300MB,Anual,Boleto,109.9,
+1371,PR,2022-06-03,Básico 100MB,Mensal,Boleto,79.9,
+1372,SP,2024-05-28,Básico 100MB,Anual,Boleto,79.9,
+1373,SP,2024-02-05,Básico 100MB,Anual,Cartão de crédito,79.9,
+1374,PR,2022-01-29,Básico 100MB,Mensal,Débito automático,79.9,2025-08-02
+1375,PR,2023-09-10,Básico 100MB,Mensal,Boleto,79.9,
+1376,SP,2022-02-13,Intermediário 300MB,Anual,Débito automático,109.9,
+1377,PR,2019-06-21,Premium 600MB,Mensal,Débito automático,149.9,
+1378,RJ,2021-10-16,Premium 600MB,Mensal,Débito automático,149.9,
+1379,SP,2019-08-23,Intermediário 300MB,Anual,Débito automático,109.9,
+1380,PR,2024-01-08,Básico 100MB,Mensal,Pix,79.9,
+1381,RJ,2024-10-28,Intermediário 300MB,Mensal,Boleto,109.9,
+1382,MG,2023-04-11,Premium 600MB,Mensal,Boleto,149.9,
+1383,SC,2023-08-09,Básico 100MB,Bienal,Débito automático,79.9,
+1384,RS,2020-12-21,Premium 600MB,Anual,Débito automático,149.9,
+1385,PR,2021-12-20,Básico 100MB,Mensal,Boleto,79.9,
+1386,PR,2024-11-01,Básico 100MB,Bienal,Débito automático,79.9,
+1387,MG,2024-06-29,Intermediário 300MB,Anual,Débito automático,109.9,
+1388,SC,2021-08-01,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+1389,PR,2021-07-31,Básico 100MB,Mensal,Débito automático,79.9,
+1390,RS,2024-05-14,Intermediário 300MB,Mensal,Boleto,109.9,
+1391,SP,2022-12-16,Básico 100MB,Mensal,Débito automático,79.9,2025-06-27
+1392,PR,2025-08-03,Básico 100MB,Mensal,Boleto,79.9,
+1393,PR,2023-10-25,Básico 100MB,Anual,Boleto,79.9,
+1394,PR,2022-05-19,Intermediário 300MB,Anual,Débito automático,109.9,
+1395,,2022-02-09,Básico 100MB,Mensal,Pix,79.9,
+1396,SP,2024-01-06,Básico 100MB,Anual,Pix,,
+1397,RS,2020-11-01,Básico 100MB,Bienal,Cartão de crédito,79.9,2025-02-13
+1398,SP,2021-01-11,Intermediário 300MB,Bienal,Débito automático,109.9,
+1399,PR,2022-04-16,Intermediário 300MB,Mensal,Boleto,109.9,2025-03-31
+1400,PR,2024-02-04,Básico 100MB,Mensal,Boleto,,
+1401,SP,2024-12-26,Básico 100MB,Mensal,Pix,79.9,
+1402,PR,2025-07-25,Intermediário 300MB,Bienal,Débito automático,109.9,
+1403,SP,2020-05-14,Básico 100MB,Anual,Cartão de crédito,79.9,
+1404,RS,2022-01-15,Básico 100MB,Mensal,Cartão de crédito,79.9,
+1405,SP,2024-10-15,Intermediário 300MB,Anual,Boleto,109.9,
+1406,PR,2021-04-23,Premium 600MB,Anual,Débito automático,149.9,
+1407,MG,2023-09-07,Intermediário 300MB,Bienal,Débito automático,109.9,
+1408,SC,2020-06-12,Intermediário 300MB,Anual,Pix,109.9,
+1409,PR,2020-11-08,Básico 100MB,Mensal,Boleto,79.9,
+1410,SP,2025-08-01,Premium 600MB,Anual,Cartão de crédito,,
+1411,PR,2022-11-11,Premium 600MB,Bienal,Boleto,149.9,
+1412,PR,2024-07-19,Básico 100MB,Anual,Débito automático,79.9,
+1413,SP,2024-03-29,Intermediário 300MB,Mensal,Pix,109.9,
+1414,SC,2020-11-02,Básico 100MB,Mensal,Cartão de crédito,79.9,
+1415,PR,2024-01-27,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+1416,SP,2022-03-13,Básico 100MB,Anual,Boleto,79.9,
+1417,SC,2022-03-10,Premium 600MB,Mensal,Pix,149.9,
+1418,PR,2019-09-25,Premium 600MB,Mensal,Cartão de crédito,149.9,
+1419,RJ,2023-02-27,Premium 600MB,Mensal,Débito automático,149.9,
+1420,PR,2021-01-04,Básico 100MB,Mensal,Pix,79.9,
+1421,SP,2020-06-29,Intermediário 300MB,Mensal,Cartão de crédito,109.9,2025-09-26
+1422,SP,2022-05-23,Básico 100MB,Anual,Débito automático,79.9,
+1423,RJ,2019-08-11,Intermediário 300MB,Mensal,Cartão de crédito,109.9,2025-10-06
+1424,SC,2020-02-29,Básico 100MB,Anual,Débito automático,79.9,
+1425,SP,2024-12-04,Intermediário 300MB,Bienal,Débito automático,109.9,
+1426,SP,2023-02-03,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-08-24
+1427,SC,2020-05-03,Intermediário 300MB,Anual,Débito automático,109.9,2025-01-07
+1428,RJ,2023-03-21,Intermediário 300MB,Mensal,Pix,109.9,2025-08-27
+1429,PR,2021-01-27,Intermediário 300MB,Mensal,Débito automático,109.9,
+1430,PR,2019-11-13,Premium 600MB,Bienal,Boleto,149.9,
+1431,RS,2023-09-15,Intermediário 300MB,Mensal,Pix,109.9,2025-02-01
+1432,SP,2025-01-18,Intermediário 300MB,Mensal,Boleto,109.9,
+1433,RS,2023-01-15,Básico 100MB,Mensal,Boleto,79.9,2025-12-03
+1434,SC,2021-05-29,Básico 100MB,Mensal,Cartão de crédito,79.9,
+1435,RS,2025-01-03,Intermediário 300MB,Mensal,Débito automático,109.9,
+1436,RS,2019-09-10,Básico 100MB,Mensal,Pix,,
+1437,,2023-04-16,Premium 600MB,Anual,Boleto,149.9,
+1438,PR,2021-07-18,Intermediário 300MB,Anual,Boleto,109.9,2025-11-01
+1439,SP,2019-12-31,Básico 100MB,Mensal,Débito automático,79.9,2025-01-16
+1440,RS,2022-06-16,Intermediário 300MB,Mensal,Pix ,109.9,
+1441,PR,2023-09-24,Básico 100MB,Mensal,Boleto,79.9,2025-11-20
+1442,RS,2024-01-21,Premium 600MB,Mensal,Boleto,149.9,
+1443,SP,2021-01-12,Premium 600MB,Bienal,Débito automático,149.9,
+1444,SC,2023-01-24,Básico 100MB,Anual,Débito automático,79.9,
+1445,SC,2022-06-14,Básico 100MB,Mensal,Débito automático,79.9,2025-08-12
+1446,RS,2025-04-09,Intermediário 300MB,Anual,Pix,109.9,
+1447,PR,2021-05-14,Básico 100MB,Mensal,Boleto,79.9,
+1448,RS,2021-12-22,Básico 100MB,Mensal,Boleto,79.9,
+1449,SP,2024-10-03,Básico 100MB,Bienal,Pix,79.9,2025-03-31
+1450,PR,2020-01-28,Básico 100MB,Bienal,Boleto,79.9,
+1451,PR,2025-01-03,Intermediário 300MB,Mensal,Boleto,109.9,
+1452,PR,2019-06-02,Básico 100MB,Anual,Cartão de crédito,79.9,
+1453,PR,2025-08-20,Básico 100MB,Mensal,Boleto,79.9,
+1454,RJ,2024-04-03,Intermediário 300MB,Anual,Cartão de crédito,109.9,2025-05-29
+1455,SP,2024-10-01,Intermediário 300MB,Mensal,Pix,109.9,2025-03-11
+1456,RJ,2025-05-03,Intermediário 300MB,Bienal,Pix,109.9,
+1457,SP,2021-12-04,Básico 100MB,Mensal,Cartão de crédito,79.9,
+1458,PR,2025-07-20,Básico 100MB,Mensal,Pix,79.9,
+1459,RS,2019-08-29,Básico 100MB,Bienal,Boleto,79.9,
+1460,PR,2024-02-04,Básico 100MB,Anual,Cartão de crédito,79.9,2025-09-10
+1461,SP,2025-05-09,Intermediário 300MB,Bienal,Boleto,109.9,
+1462,RS,2019-10-21,Premium 600MB,Bienal,Boleto,149.9,
+1463,MG,2019-09-14,Premium 600MB,Bienal,Cartão de crédito,149.9,
+1464,SP,2021-11-03,Intermediário 300MB,Bienal,Débito automático,109.9,
+1465,PR,2020-08-01,Básico 100MB,Bienal,Cartão de crédito,79.9,
+1466,SP,2023-01-19,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+1467,MG,2024-08-08,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+1468,RS,2024-11-15,Intermediário 300MB,Bienal,Boleto,,
+1469,MG,2020-04-12,Básico 100MB,Anual,Boleto,79.9,
+1470,SP,2024-11-07,Básico 100MB,Mensal,Débito automático,79.9,2025-04-29
+1471,RJ,2021-02-24,Premium 600MB,Mensal,Débito automático,149.9,2025-12-11
+1472,SP,2024-09-07,Intermediário 300MB,Mensal,Boleto,109.9,2025-04-13
+1473,SP,2025-01-16,Intermediário 300MB,Anual,Débito automático,109.9,
+1474,RJ,2025-08-18,Premium 600MB,Bienal,Cartão de crédito,149.9,
+1475,SP,2023-05-10,Básico 100MB,Mensal,Pix,79.9,
+1476,RS,2020-12-04,Básico 100MB,Mensal,Boleto,79.9,
+1477,RS,2021-05-16,Intermediário 300MB,Anual,Cartão de crédito,109.9,2025-09-26
+1478,PR,2022-12-09,Básico 100MB,Mensal,Cartão de crédito,79.9,
+1479,SC,2024-02-08,Básico 100MB,Anual,Boleto,79.9,
+1480,MG,2024-07-27,Premium 600MB,Anual,Pix,149.9,
+1481,SP,2022-06-12,Intermediário 300MB,Mensal,Pix,109.9,
+1482,SP,2023-02-01,Básico 100MB,Mensal,Débito automático,79.9,
+1483,PR,2019-09-19,Básico 100MB,Anual,Cartão de crédito,79.9,2025-02-18
+1484,SC,2020-02-06,Intermediário 300MB,Bienal,Débito automático,109.9,
+1485,SP,2025-01-14,Básico 100MB,Bienal,Cartão de crédito,79.9,
+1486,SC,2020-09-01,Básico 100MB,Bienal,Cartão de crédito,79.9,
+1487,SP,2022-06-12,Básico 100MB,Bienal,Boleto,79.9,
+1488,SC,2019-12-25,Intermediário 300MB,Mensal,Boleto,109.9,2025-10-02
+1489,SP,2021-11-16,Básico 100MB,Mensal,Cartão de crédito,79.9,
+1490,PR,2019-06-22,Premium 600MB,Mensal,Débito automático,149.9,
+1491,,2020-07-14,Premium 600MB,Anual,Débito automático,149.9,
+1492,SP,2021-11-11,Intermediário 300MB,Mensal,Boleto,109.9,2025-10-08
+1493,RJ,2020-10-27,Básico 100MB,Anual,DÉBITO AUTOMÁTICO,79.9,2025-02-07
+1494,PR,2021-08-17,Básico 100MB,Anual,Boleto,79.9,
+1495,RJ,2021-10-21,Básico 100MB,Anual,Cartão de crédito,79.9,
+1496,RJ,2019-06-14,Básico 100MB,Anual,Cartão de crédito,79.9,
+1497,PR,2022-01-26,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-10-27
+1498,SC,2025-04-04,Básico 100MB,Mensal,Cartão de crédito,79.9,
+1499,SP,2023-09-08,Intermediário 300MB,Mensal,Débito automático,109.9,
+1500,RS,2023-01-15,Básico 100MB,Mensal,Boleto,79.9,
+1501,SC,2022-11-18,Básico 100MB,Anual,Pix,79.9,
+1502,RJ,2025-05-09,Básico 100MB,Anual,Cartão de crédito,79.9,
+1503,PR,2021-06-19,Premium 600MB,Mensal,Débito automático,149.9,2025-05-30
+1504,SC,2021-04-15,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+1505,RS,2024-09-09,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-09-12
+1506,PR,2021-04-25,Intermediário 300MB,Bienal,Pix,109.9,
+1507,PR,2020-04-02,Intermediário 300MB,Anual,Boleto,109.9,
+1508,RS,2024-11-10,Intermediário 300MB,Mensal,Boleto,109.9,2025-11-09
+1509,,2021-03-23,Básico 100MB,Mensal,Pix,79.9,2025-06-16
+1510,SP,2020-11-30,Intermediário 300MB,Mensal,Débito automático,109.9,
+1511,SC,2020-04-07,Intermediário 300MB,Bienal,Pix,109.9,
+1512,SC,2022-05-18,Intermediário 300MB,Mensal,Cartão de crédito,109.9,2025-06-25
+1513,SC,2024-03-03,Intermediário 300MB,Mensal,Pix,109.9,
+1514,RJ,2021-06-24,Básico 100MB,Bienal,Boleto,79.9,
+1515,SP,2019-07-05,Intermediário 300MB,Anual,Pix,109.9,
+1516,RS,2020-08-18,Básico 100MB,Bienal,Débito automático,79.9,
+1517,SC,2025-04-10,Intermediário 300MB,Mensal,Boleto,109.9,
+1518,SP,2024-11-03,Básico 100MB,Anual,Pix,79.9,
+1519,SP,2022-10-13,Premium 600MB,Mensal,Débito automático,149.9,
+1520,SC,2020-05-18,Básico 100MB,Mensal,Débito automático,79.9,
+1521,,2021-11-19,Premium 600MB,Mensal,Pix,149.9,
+1522,PR,2023-02-15,Básico 100MB,Mensal,Pix,79.9,
+1523,RS,2024-03-14,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+1524,SP,2019-11-06,Básico 100MB,Mensal,Cartão de crédito,79.9,
+1525,SP,2024-10-29,Intermediário 300MB,Anual,Boleto,109.9,
+1526,SC,2022-01-12,Premium 600MB,Mensal,Boleto,149.9,2025-03-25
+1527,PR,2025-01-31,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+1528,PR,2020-07-08,Intermediário 300MB,Mensal,Débito automático,109.9,2025-08-04
+1529,SP,2020-10-28,Intermediário 300MB,Bienal,Boleto,109.9,
+1530,RJ,2023-03-19,Básico 100MB,Mensal,Débito automático,79.9,
+1531,PR,2022-01-11,Básico 100MB,Mensal,Débito automático,79.9,
+1532,MG,2025-06-08,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+1533,SP,2024-02-07,Básico 100MB,Mensal,Boleto,79.9,
+1534,PR,2021-01-28,Premium 600MB,Anual,Pix,149.9,
+1535,MG,2022-11-25,Básico 100MB,Mensal,Débito automático,79.9,
+1536,SP,2023-08-14,Intermediário 300MB,Mensal,Boleto,109.9,
+1537,MG,2023-05-12,Premium 600MB,Bienal,Boleto,149.9,
+1538,SP,2024-05-02,Básico 100MB,Anual,Débito automático,79.9,2025-02-17
+1539,PR,2020-03-21,Premium 600MB,Anual,Boleto,149.9,
+1540,SC,2021-06-24,Básico 100MB,Anual,Cartão de crédito,79.9,
+1541,MG,2023-03-26,Intermediário 300MB,Bienal,Cartão de crédito,109.9,
+1542,SP,2019-12-03,Premium 600MB,Mensal,Boleto,149.9,
+1543,SP,2022-11-21,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-02-19
+1544,PR,2021-02-26,Básico 100MB,Mensal,Boleto,79.9,2025-07-08
+1545,SP,2022-12-13,Intermediário 300MB,Mensal,Débito automático,109.9,
+1546,MG,2020-11-11,Premium 600MB,Mensal,Boleto,149.9,2025-12-06
+1547,MG,2025-01-28,Básico 100MB,Mensal,Boleto,79.9,2025-03-30
+1548,RS,2021-08-02,Básico 100MB,Mensal,Boleto,79.9,
+1549,RJ,2025-04-17,Básico 100MB,Bienal,Débito automático,79.9,
+1550,SC,2020-09-20,Básico 100MB,Anual,Pix,79.9,2025-05-20
+1551,RS,2023-11-09,Premium 600MB,Mensal,Boleto,149.9,2025-10-17
+1552,SP,2021-12-26,Premium 600MB,Anual,Pix,149.9,
+1553,PR,2020-11-07,Básico 100MB,Bienal,Boleto,79.9,
+1554,PR,2019-06-02,Intermediário 300MB,Bienal,Boleto,109.9,
+1555,PR,2020-06-09,Intermediário 300MB,Anual,Boleto,109.9,
+1556,RS,2020-12-04,Básico 100MB,Anual,Pix,79.9,
+1557,PR,2023-08-04,Intermediário 300MB,Bienal,Débito automático,109.9,
+1558,SC,2024-06-25,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-07-25
+1559,SP,2020-06-15,Intermediário 300MB,Mensal,Boleto,109.9,
+1560,,2023-12-03,Básico 100MB,Bienal,Débito automático,79.9,
+1561,SC,2019-06-14,Intermediário 300MB,Anual,Pix,109.9,
+1562,SC,2020-10-16,Básico 100MB,Mensal,Boleto,79.9,2025-12-11
+1563,PR,2025-08-26,Básico 100MB,Mensal,Pix,79.9,
+1564,SP,2024-11-29,Intermediário 300MB,Anual,Débito automático,109.9,
+1565,RJ,2019-10-08,Básico 100MB,Anual,Boleto,79.9,
+1566,RS,2021-09-15,Intermediário 300MB,Mensal,Pix,109.9,
+1567,SP,2024-12-31,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+1568,RS,2019-06-28,Premium 600MB,Anual,Cartão de crédito,149.9,
+1569,MG,2025-03-14,Básico 100MB,Mensal,Cartão de crédito,79.9,
+1570,PR,2022-11-04,Básico 100MB,Mensal,Boleto,79.9,
+1571,RJ,2020-02-16,Básico 100MB,Mensal,Boleto,79.9,2025-06-04
+1572,SC,2025-01-06,Básico 100MB,Anual,Boleto,79.9,
+1573,SP,2023-06-12,Básico 100MB,Mensal,Boleto ,79.9,
+1574,SC,2023-05-18,Premium 600MB,Anual,Pix,149.9,
+1575,SP,2020-09-02,Básico 100MB,Anual,Cartão de crédito,79.9,
+1576,MG,2020-03-27,Básico 100MB,Anual,Boleto,79.9,2025-05-04
+1577,RS,2021-02-19,Básico 100MB,Anual,Boleto,79.9,
+1578,SC,2020-02-25,Premium 600MB,Mensal,Débito automático,149.9,2020-01-26
+1579,PR,2024-11-14,Básico 100MB,Anual,Pix,79.9,
+1580,RJ,2023-11-15,Básico 100MB,Mensal,Cartão de crédito,79.9,
+1581,SP,2024-05-06,Intermediário 300MB,Mensal,Débito automático,109.9,2025-06-07
+1582,MG,2021-10-09,Básico 100MB,Anual,Cartão de crédito,79.9,
+1583,PR,2022-12-02,Intermediário 300MB,Anual,Boleto,109.9,
+1584,PR,2025-05-20,Intermediário 300MB,Mensal,Boleto,109.9,
+1585,PR,2024-05-04,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+1586,PR,2024-02-01,Básico 100MB,Anual,Cartão de crédito,79.9,
+1587,SP,2020-12-27,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+1588,RS,2024-11-24,Premium 600MB,Anual,Cartão de crédito,149.9,
+1589,SP,2022-12-29,Básico 100MB,Mensal,Boleto,79.9,2025-11-11
+1590,RJ,2024-10-08,Premium 600MB,Bienal,Boleto,149.9,
+1591,MG,2024-12-11,Básico 100MB,Mensal,Débito automático,79.9,
+1592,MG,2025-06-21,Básico 100MB,Bienal,Cartão de crédito,79.9,
+1593,PR,2023-12-12,Intermediário 300MB,Bienal,Boleto,109.9,2025-11-29
+1594,SC,2023-09-27,Premium 600MB,Mensal,Cartão de crédito,149.9,
+1595,SC,2024-06-21,Intermediário 300MB,Mensal,Pix,109.9,
+1596,PR,2025-06-12,Intermediário 300MB,Anual,Pix,109.9,2025-08-15
+1597,,2023-03-22,Premium 600MB,Mensal,Cartão de crédito,,
+1598,,2024-03-08,Básico 100MB,Anual,Débito automático,79.9,
+1599,SP,2024-09-07,Básico 100MB,Anual,Débito automático,79.9,
+1600,PR,2021-02-09,Básico 100MB,Mensal,Boleto,79.9,2025-09-20
+1601,RJ,2022-11-26,Premium 600MB,Mensal,Boleto,149.9,
+1602,PR,2022-01-12,Básico 100MB,Anual,Débito automático,79.9,2025-04-04
+1603,SC,2024-09-21,Premium 600MB,Bienal,Cartão de crédito,149.9,
+1604,RS,2022-01-24,Intermediário 300MB,Mensal,Boleto,109.9,
+1605,SC,2023-01-07,Básico 100MB,Bienal,Boleto,79.9,
+1606,MG,2022-04-09,Intermediário 300MB,Mensal,Pix,109.9,
+1607,SC,2020-03-08,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+1608,,2025-05-06,Premium 600MB,Anual,Pix,149.9,
+1609,PR,2022-04-24,Básico 100MB,Anual,Pix,79.9,2025-05-21
+1610,PR,2019-12-15,Básico 100MB,Bienal,Boleto,79.9,
+1611,SC,2022-05-18,Básico 100MB,Bienal,Débito automático,79.9,
+1612,SC,2022-08-28,Básico 100MB,Mensal,Boleto,79.9,
+1613,SC,2022-03-05,Básico 100MB,Mensal,Cartão de crédito,79.9,
+1614,RS,2022-10-12,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+1615,SP,2022-04-01,Básico 100MB,Mensal,Boleto,79.9,
+1616,SC,2020-10-02,Premium 600MB,Mensal,Cartão de crédito,149.9,
+1617,SP,2020-03-02,Básico 100MB,Anual,Pix,79.9,
+1618,SC,2025-09-06,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-10-10
+1619,PR,2022-10-22,Premium 600MB,Bienal,Boleto,149.9,
+1620,RJ,2022-11-26,Intermediário 300MB,Mensal,Pix,109.9,2025-10-04
+1621,SP,2019-10-04,Intermediário 300MB,Mensal,Débito automático,109.9,
+1622,RS,2020-01-03,Intermediário 300MB,Anual,Débito automático,109.9,
+1623,SC,2022-09-21,Básico 100MB,Mensal,Cartão de crédito,79.9,
+1624,PR,2022-10-29,Premium 600MB,Anual,Cartão de crédito,149.9,
+1625,PR,2021-12-05,Intermediário 300MB,Mensal,Pix,109.9,2025-08-15
+1626,PR,2023-01-08,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+1627,SP,2025-06-07,Premium 600MB,Mensal,Pix,149.9,
+1628,SP,2023-12-18,Intermediário 300MB,Bienal,Cartão de crédito,109.9,
+1629,PR,2020-04-03,Básico 100MB,Mensal,Débito automático,79.9,
+1630,SC,2023-02-19,Intermediário 300MB,Mensal,Débito automático,109.9,
+1631,SP,2024-10-21,Intermediário 300MB,Anual,Boleto,109.9,
+1632,RS,2021-11-08,Básico 100MB,Mensal,Boleto,79.9,
+1633,RS,2020-06-09,Básico 100MB,Mensal,Pix,79.9,2025-01-29
+1634,MG,2024-12-24,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+1635,RJ,2023-02-24,Básico 100MB,Mensal,Débito automático,79.9,
+1636,PR,2019-10-07,Premium 600MB,Bienal,Boleto,149.9,
+1637,SP,2022-03-11,Básico 100MB,Mensal,PIX,79.9,2025-12-23
+1638,SC,2024-05-04,Premium 600MB,Mensal,Boleto,149.9,2025-02-27
+1639,SP,2023-03-13,Premium 600MB,Mensal,Cartão de crédito,149.9,2025-06-27
+1640,SP,2020-10-29,Básico 100MB,Anual,Débito automático,79.9,
+1641,PR,2023-07-28,Intermediário 300MB,Mensal,Boleto,109.9,
+1642,PR,2019-08-25,Intermediário 300MB,Mensal,Cartão de crédito,109.9,2025-02-16
+1643,PR,2022-09-11,Básico 100MB,Bienal,Boleto,79.9,
+1644,PR,2022-07-17,Intermediário 300MB,Bienal,Débito automático,109.9,
+1645,SP,2024-11-14,Básico 100MB,Mensal,Cartão de crédito,79.9,
+1646,SC,2025-05-01,Básico 100MB,Mensal,Pix,79.9,
+1647,PR,2020-03-29,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-11-29
+1648,MG,2021-01-08,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+1649,PR,2022-02-11,Básico 100MB,Mensal,Boleto,79.9,
+1650,SP,2024-07-07,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+1651,SC,2020-05-10,Básico 100MB,Bienal,Boleto,79.9,
+1652,SP,2021-08-22,Básico 100MB,Anual,Débito automático,79.9,
+1653,RS,2024-11-08,Intermediário 300MB,Anual,Pix,109.9,
+1654,SP,2023-01-01,Básico 100MB,Anual,Cartão de crédito,79.9,2025-04-21
+1655,SP,2024-11-20,Básico 100MB,Mensal,Pix,79.9,
+1656,SP,2024-01-03,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+1657,SP,2023-01-18,Intermediário 300MB,Mensal,Pix,109.9,2025-12-27
+1658,PR,2022-05-28,Básico 100MB,Mensal,Boleto,79.9,
+1659,RJ,2022-03-06,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-08-27
+1660,SP,2021-05-04,Básico 100MB,Bienal,Boleto,79.9,
+1661,,2020-12-26,Básico 100MB,Anual,Pix,79.9,
+1662,PR,2023-10-26,Básico 100MB,Bienal,Pix,79.9,
+1663,SP,2022-06-17,Intermediário 300MB,Bienal,Cartão de crédito,109.9,
+1664,PR,2021-04-18,Básico 100MB,Mensal,Boleto,79.9,
+1665,SP,2020-10-01,Básico 100MB,Anual,Cartão de crédito,79.9,
+1666,MG,2023-02-07,Básico 100MB,Anual,Débito automático,79.9,
+1667,SC,2020-10-06,Intermediário 300MB,Mensal,Débito automático,109.9,
+1668,SP,2023-12-24,Intermediário 300MB,Bienal,Pix,109.9,2025-03-20
+1669,SP,2023-11-24,Básico 100MB,Mensal,Débito automático,79.9,
+1670,MG,2019-06-19,Básico 100MB,Anual,Boleto,79.9,2025-03-10
+1671,SP,2022-02-25,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+1672,MG,2021-09-28,Intermediário 300MB,Mensal,Débito automático,109.9,
+1673,RS,2023-03-20,Intermediário 300MB,Anual,Boleto,109.9,
+1674,RS,2023-02-14,Básico 100MB,Bienal,Cartão de crédito,79.9,
+1675,SP,2023-02-27,Intermediário 300MB,Mensal,Boleto,109.9,
+1676,SP,2021-08-30,Intermediário 300MB,Mensal,Boleto,109.9,
+1677,SC,2020-08-28,Básico 100MB,Bienal,Débito automático,79.9,2025-03-27
+1678,PR,2023-11-11,Básico 100MB,Anual,Cartão de crédito,79.9,
+1679,SC,2021-05-11,Intermediário 300MB,Mensal,Boleto,109.9,
+1680,PR,2025-05-30,Básico 100MB,Bienal,Pix,79.9,
+1681,SP,2021-12-03,Premium 600MB,Mensal,Cartão de crédito,149.9,2025-07-14
+1682,RS,2023-07-06,Básico 100MB,Anual,Cartão de crédito,79.9,
+1683,PR,2023-05-11,Intermediário 300MB,Mensal,Boleto,109.9,2025-05-25
+1684,RJ,2020-03-31,Básico 100MB,Bienal,Cartão de crédito,79.9,
+1685,SC,2021-06-05,Básico 100MB,Mensal,Boleto,79.9,
+1686,PR,2024-10-15,Básico 100MB,Bienal,Cartão de crédito,79.9,
+1687,RJ,2025-04-19,Intermediário 300MB,Mensal,Pix,109.9,2025-06-26
+1688,SP,2024-11-30,Básico 100MB,Anual,Boleto,79.9,
+1689,RS,2022-01-17,Básico 100MB,Mensal,Pix,79.9,
+1690,SP,2022-03-23,Premium 600MB,Bienal,Débito automático,149.9,
+1691,RJ,2025-04-02,Intermediário 300MB,Anual,Boleto,109.9,
+1692,RS,2023-06-13,Premium 600MB,Anual,Débito automático,149.9,
+1693,PR,2024-09-29,Básico 100MB,Mensal,Débito automático,79.9,
+1694,SP,2022-08-21,Básico 100MB,Mensal,Pix,79.9,
+1695,SP,2021-03-26,Básico 100MB,Bienal,Cartão de crédito,79.9,
+1696,PR,2019-06-12,Premium 600MB,Anual,Pix,149.9,
+1697,PR,2022-07-31,Básico 100MB,Bienal,Cartão de crédito,79.9,
+1698,SP,2020-03-30,Básico 100MB,Mensal,Boleto,79.9,2025-12-25
+1699,SP,2024-03-29,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+1700,SP,2019-07-13,Premium 600MB,Anual,Pix,149.9,
+1701,SC,2021-12-30,Básico 100MB,Mensal,Boleto,79.9,2025-11-15
+1702,SP,2023-02-09,Básico 100MB,Mensal,Boleto,79.9,2025-09-14
+1703,SP,2021-11-07,Premium 600MB,Mensal,Pix,149.9,
+1704,SC,2022-03-01,Premium 600MB,Anual,Boleto,149.9,
+1705,PR,2019-06-21,Premium 600MB,Mensal,Boleto,149.9,
+1706,RJ,2020-07-11,Premium 600MB,Mensal,Boleto,149.9,2025-06-24
+1707,RS,2022-03-11,Básico 100MB,Anual,Débito automático,79.9,
+1708,PR,2020-05-01,Intermediário 300MB,Anual,Pix,109.9,
+1709,SP,2024-06-12,Básico 100MB,Mensal,Débito automático,79.9,
+1710,MG,2022-07-22,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+1711,SP,2024-06-01,Básico 100MB,Bienal,Débito automático,79.9,2025-11-24
+1712,RS,2021-05-15,Básico 100MB,Mensal,Pix,79.9,2025-09-03
+1713,PR,2019-07-21,Intermediário 300MB,Mensal,Boleto,109.9,
+1714,RS,2020-04-19,Básico 100MB,Mensal,Débito automático,79.9,2025-02-06
+1715,SP,2021-07-28,Intermediário 300MB,Bienal,Débito automático,109.9,
+1716,SC,2019-10-19,Básico 100MB,Mensal,Pix,79.9,
+1717,RJ,2020-09-12,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+1718,SC,2021-07-26,Intermediário 300MB,Mensal,Boleto,109.9,
+1719,RS,2024-05-30,Básico 100MB,Mensal,Débito automático,79.9,
+1720,RS,2023-02-17,Intermediário 300MB,Anual,Débito automático,109.9,
+1721,SC,2024-08-29,Básico 100MB,Mensal,Boleto,79.9,
+1722,PR,2022-01-19,Intermediário 300MB,Bienal,Débito automático,109.9,
+1723,SP,2020-06-07,Intermediário 300MB,Mensal,Boleto,109.9,2025-03-05
+1724,RJ,2024-01-18,Básico 100MB,Bienal,Boleto,79.9,
+1725,RS,2022-08-23,Básico 100MB,Bienal,Débito automático,79.9,
+1726,RS,2023-12-28,Básico 100MB,Mensal,Cartão de crédito,79.9,
+1727,SC,2019-09-14,Intermediário 300MB,Mensal,Débito automático,109.9,
+1728,RS,2023-05-14,Intermediário 300MB,Mensal,BOLETO,109.9,
+1729,SC,2024-01-07,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-12-22
+1730,PR,2019-06-02,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+1731,SC,2025-04-07,Básico 100MB,Mensal,Pix,79.9,2025-07-29
+1732,SC,2020-05-15,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-08-25
+1733,MG,2022-12-08,Básico 100MB,Anual,CARTÃO DE CRÉDITO,79.9,
+1734,PR,2022-04-28,Premium 600MB,Anual,Boleto,149.9,
+1735,SC,2025-06-15,Intermediário 300MB,Mensal,Pix,109.9,2025-09-29
+1736,PR,2020-08-18,Premium 600MB,Mensal,Cartão de crédito,149.9,
+1737,RJ,2022-01-07,Básico 100MB,Mensal,Cartão de crédito,79.9,
+1738,PR,2019-07-06,Premium 600MB,Mensal,Cartão de crédito,149.9,
+1739,PR,2022-06-12,Intermediário 300MB,Anual,Cartão de crédito,109.9,2025-11-22
+1740,SP,2023-06-15,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-09-07
+1741,PR,2024-05-03,Básico 100MB,Anual,Cartão de crédito,79.9,2025-04-01
+1742,SC,2024-06-19,Premium 600MB,Bienal,Débito automático,149.9,2025-01-24
+1743,SP,2023-04-09,Básico 100MB,Bienal,Débito automático,79.9,
+1744,RS,2022-09-08,Básico 100MB,Anual,Débito automático,79.9,
+1745,RJ,2023-03-31,Premium 600MB,Anual,Débito automático,149.9,
+1746,MG,2024-02-03,Intermediário 300MB,Bienal,Débito automático,109.9,
+1747,RS,2023-03-17,Básico 100MB,Mensal,Pix,79.9,
+1748,PR,2025-05-28,Intermediário 300MB,Mensal,Débito automático,109.9,
+1749,PR,2022-12-22,Intermediário 300MB,Mensal,Pix,109.9,2025-12-20
+1750,PR,2022-10-26,Premium 600MB,Mensal,Cartão de crédito,149.9,
+1751,SP,2020-11-02,Básico 100MB,Anual,Débito automático,79.9,
+1752,SC,2024-05-11,Básico 100MB,Anual,Pix,79.9,2025-06-04
+1753,SP,2019-06-10,Intermediário 300MB,Bienal,Pix,109.9,2025-06-12
+1754,SP,2022-02-08,Básico 100MB,Mensal,Cartão de crédito,79.9,
+1755,PR,2023-12-13,Básico 100MB,Mensal,Cartão de crédito,79.9,
+1756,MG,2023-12-17,Básico 100MB,Mensal,Boleto,79.9,
+1757,SP,2025-06-08,Básico 100MB,Mensal,Cartão de crédito,79.9,
+1758,SP,2021-05-20,Básico 100MB,Bienal,Cartão de crédito,79.9,
+1759,RS,2022-05-08,Intermediário 300MB,Mensal,Pix,109.9,2025-03-08
+1760,RS,2021-10-06,Básico 100MB,Mensal,Pix,79.9,
+1761,SC,2023-01-07,Premium 600MB,Anual,Boleto,149.9,
+1762,SC,2023-10-21,Intermediário 300MB,Mensal,Pix,109.9,2025-03-13
+1763,SC,2019-07-20,Premium 600MB,Bienal,Débito automático,149.9,
+1764,PR,2019-10-24,Intermediário 300MB,Anual,Débito automático,,
+1765,PR,2021-12-01,Premium 600MB,Bienal,Cartão de crédito,149.9,
+1766,SC,2023-06-02,Premium 600MB,Mensal,Boleto,149.9,
+1767,PR,2025-09-06,Premium 600MB,Mensal,Pix,149.9,
+1768,RJ,2021-01-01,Básico 100MB,Mensal,Boleto,79.9,2025-02-06
+1769,PR,2023-10-02,Intermediário 300MB,Mensal,Cartão de crédito,109.9,2025-04-23
+1770,PR,2020-09-25,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-08-30
+1771,PR,2022-11-01,Básico 100MB,Anual,Boleto,79.9,
+1772,RS,2021-04-03,Premium 600MB,Mensal,Cartão de crédito,149.9,
+1773,SP,2021-02-20,Intermediário 300MB,Mensal,Boleto,109.9,
+1774,SP,2021-03-23,Básico 100MB,Anual,Cartão de crédito,79.9,
+1775,RJ,2022-02-12,Básico 100MB,Bienal,Boleto,79.9,
+1776,RS,2023-08-25,Premium 600MB,Mensal,Débito automático,149.9,2025-01-09
+1777,PR,2021-03-11,Intermediário 300MB,Mensal,Pix,109.9,
+1778,PR,2022-01-24,Intermediário 300MB,Mensal,Boleto,109.9,
+1779,SC,2022-06-05,Básico 100MB,Mensal,Boleto,79.9,
+1780,SP,2020-08-14,Básico 100MB,Mensal,Cartão de crédito,79.9,
+1781,RJ,2021-12-07,Básico 100MB,Mensal,Boleto,79.9,2025-02-16
+1782,RS,2021-07-09,Premium 600MB,Mensal,Pix,149.9,
+1783,RJ,2023-02-03,Premium 600MB,Mensal,Boleto,149.9,
+1784,RS,2024-05-31,Básico 100MB,Mensal,Pix,79.9,2025-02-18
+1785,PR,2020-02-18,Intermediário 300MB,Bienal,Débito automático,109.9,
+1786,,2023-09-25,Básico 100MB,Anual,Débito automático,79.9,
+1787,RS,2022-02-23,Básico 100MB,Mensal,Débito automático,79.9,
+1788,SP,2021-04-30,Intermediário 300MB,Mensal,Débito automático,109.9,2025-07-22
+1789,SP,2023-10-21,Premium 600MB,Mensal,Débito automático,149.9,
+1790,PR,2022-10-24,Premium 600MB,Mensal,Pix,149.9,
+1791,SP,2022-06-30,Básico 100MB,Anual,Cartão de crédito,79.9,
+1792,PR,2022-09-03,Intermediário 300MB,Bienal,Cartão de crédito,109.9,
+1793,SP,2022-03-02,Intermediário 300MB,Mensal,Débito automático,109.9,
+1794,RJ,2019-07-06,Básico 100MB,Anual,Débito automático,79.9,
+1795,SC,2021-06-13,Premium 600MB,Bienal,Débito automático,149.9,
+1796,PR,2024-03-30,Premium 600MB,Bienal,Boleto,149.9,
+1797,SC,2020-05-18,Básico 100MB,Mensal,Boleto,79.9,2025-12-30
+1798,SC,2024-09-04,Premium 600MB,Bienal,Débito automático,149.9,
+1799,PR,2019-08-12,Premium 600MB,Anual,Boleto,149.9,
+1800,SC,2023-03-08,Básico 100MB,Bienal,Pix,79.9,
+1801,SP,2024-08-27,Intermediário 300MB,Anual,Débito automático,109.9,
+1802,SC,2022-05-29,Premium 600MB,Anual,Boleto,,
+1803,PR,2021-05-08,Básico 100MB,Bienal,Cartão de crédito,79.9,
+1804,SP,2024-05-09,Básico 100MB,Anual,Débito automático,79.9,
+1805,RS,2022-01-11,Premium 600MB,Mensal,Boleto,149.9,2025-05-15
+1806,PR,2019-11-07,Intermediário 300MB,Anual,Pix,109.9,
+1807,RS,2025-06-05,Intermediário 300MB,Bienal,Boleto,109.9,
+1808,PR,2024-03-01,Premium 600MB,Mensal,Boleto,149.9,2025-11-01
+1809,SC,2023-10-03,Básico 100MB,Bienal,Cartão de crédito,79.9,
+1810,RJ,2019-08-06,Básico 100MB,Mensal,Débito automático,79.9,
+1811,SP,2019-07-28,Básico 100MB,Mensal,Boleto,79.9,
+1812,RJ,2020-05-07,Premium 600MB,Anual,Pix,149.9,
+1813,MG,2022-07-28,Premium 600MB,Anual,Boleto,149.9,
+1814,SP,2022-09-08,Premium 600MB,Mensal,Débito automático,149.9,2025-11-13
+1815,PR,2022-10-15,Básico 100MB,Anual,Débito automático,79.9,
+1816,RJ,2023-07-04,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+1817,SP,2024-05-26,Básico 100MB,Anual,Pix,79.9,
+1818,SC,2019-09-24,Básico 100MB,Bienal,Débito automático,79.9,
+1819,MG,2021-03-23,Intermediário 300MB,Mensal,Pix,109.9,
+1820,,2023-06-05,Intermediário 300MB,Anual,Débito automático,109.9,
+1821,SC,2024-07-12,Básico 100MB,Bienal,Cartão de crédito,79.9,
+1822,SP,2022-03-13,Intermediário 300MB,Mensal,Débito automático,109.9,2025-05-05
+1823,RS,2020-04-06,Básico 100MB,Anual,Cartão de crédito,79.9,
+1824,RJ,2019-12-25,Básico 100MB,Anual,Débito automático,79.9,
+1825,MG,2021-02-22,Intermediário 300MB,Anual,Pix,109.9,
+1826,PR,2025-03-03,Básico 100MB,Mensal,Boleto,79.9,2025-07-03
+1827,MG,2021-03-18,Intermediário 300MB,Mensal,Débito automático,109.9,
+1828,PR,2023-04-24,Intermediário 300MB,Mensal,Cartão de crédito,109.9,2025-06-03
+1829,MG,2024-09-13,Intermediário 300MB,Mensal,Pix,109.9,2025-12-16
+1830,RJ,2024-01-05,Intermediário 300MB,Mensal,Boleto,109.9,
+1831,SP,2020-01-23,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+1832,SP,2020-05-13,Básico 100MB,Bienal,Boleto,79.9,
+1833,RJ,2021-02-19,Premium 600MB,Anual,Boleto,149.9,
+1834,RJ,2023-08-19,Intermediário 300MB,Bienal,Cartão de crédito,109.9,
+1835,RJ,2024-11-24,Básico 100MB,Anual,Boleto,79.9,
+1836,MG,2022-11-23,Básico 100MB,Mensal,Pix,79.9,
+1837,PR,2020-05-29,Básico 100MB,Mensal,Débito automático,79.9,
+1838,SC,2020-03-12,Intermediário 300MB,Anual,Boleto,109.9,
+1839,PR,2019-10-27,Básico 100MB,Anual,Boleto,79.9,2025-11-06
+1840,RJ,2022-06-12,Básico 100MB,Anual,Cartão de crédito,79.9,
+1841,PR,2020-08-29,Básico 100MB,Bienal,Cartão de crédito,79.9,
+1842,RJ,2024-04-01,Intermediário 300MB,Anual,Pix,109.9,
+1843,SP,2021-08-08,Premium 600MB,Mensal,Pix,149.9,
+1844,SP,2022-08-28,Intermediário 300MB,Mensal,Pix,109.9,
+1845,RJ,2022-03-09,Básico 100MB,Bienal,Cartão de crédito,79.9,2025-02-17
+1846,MG,2023-08-02,Premium 600MB,Mensal,Boleto,149.9,
+1847,SP,2020-09-23,Premium 600MB,Mensal,Boleto,149.9,2025-12-11
+1848,PR,2024-01-12,Premium 600MB,Anual,Pix,149.9,
+1849,PR,2025-05-01,Intermediário 300MB,Bienal,Boleto,109.9,2025-07-19
+1850,PR,2023-10-19,Básico 100MB,Anual,Pix ,79.9,
+1851,SP,2020-05-06,Intermediário 300MB,Mensal,Débito automático,109.9,
+1852,PR,2024-12-01,Básico 100MB,Anual,Débito automático,79.9,2025-11-01
+1853,PR,2024-07-10,Básico 100MB,Anual,Débito automático,79.9,
+1854,RS,2021-09-12,Básico 100MB,Anual,Boleto,79.9,2025-01-09
+1855,RS,2022-09-16,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+1856,SC,2024-02-20,Básico 100MB,Mensal,Boleto,79.9,
+1857,RS,2024-01-15,Básico 100MB,Mensal,Pix,79.9,2025-10-26
+1858,PR,2020-04-06,Intermediário 300MB,Mensal,Boleto,109.9,
+1859,MG,2020-02-17,Intermediário 300MB,Bienal,Débito automático,109.9,
+1860,MG,2023-05-13,Intermediário 300MB,Mensal,Pix,109.9,2025-10-14
+1861,MG,2020-07-10,Intermediário 300MB,Mensal,Débito automático,109.9,2025-01-21
+1862,SP,2025-05-30,Premium 600MB,Anual,Boleto,149.9,
+1863,PR,2020-05-07,Intermediário 300MB,Mensal,Débito automático,109.9,
+1864,SC,2023-01-30,Intermediário 300MB,Mensal,Boleto,109.9,
+1865,PR,2020-01-30,Intermediário 300MB,Mensal,Boleto,109.9,
+1866,PR,2020-10-02,Premium 600MB,Anual,Pix,149.9,
+1867,SP,2019-06-12,Básico 100MB,Bienal,Boleto,79.9,
+1868,PR,2020-12-12,Premium 600MB,Bienal,Boleto,149.9,
+1869,PR,2019-07-12,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+1870,PR,2021-01-14,Básico 100MB,Mensal,Boleto,79.9,
+1871,RS,2023-05-23,Intermediário 300MB,Anual,Boleto,109.9,
+1872,RJ,2024-05-31,Intermediário 300MB,Mensal,Débito automático,,2025-01-31
+1873,SP,2024-01-19,Intermediário 300MB,Anual,Boleto,109.9,2025-02-13
+1874,RS,2019-10-12,Intermediário 300MB,Mensal,Boleto,109.9,2025-03-23
+1875,PR,2022-01-03,Básico 100MB,Mensal,Pix,79.9,2025-07-02
+1876,SC,2019-08-12,Básico 100MB,Mensal,Boleto,79.9,
+1877,SC,2020-07-03,Básico 100MB,Mensal,Cartão de crédito,79.9,
+1878,PR,2023-04-29,Básico 100MB,Mensal,Pix,79.9,
+1879,PR,2019-10-08,Premium 600MB,Anual,Cartão de crédito,149.9,
+1880,SP,2024-05-16,Intermediário 300MB,Mensal,Pix,109.9,2025-05-28
+1881,SP,2024-11-22,Básico 100MB,Anual,Cartão de crédito,79.9,2025-05-24
+1882,SP,2020-02-21,Intermediário 300MB,Mensal,Pix,109.9,2025-03-11
+1883,MG,2023-09-08,Básico 100MB,Bienal,Débito automático,79.9,
+1884,RS,2024-11-06,Intermediário 300MB,Mensal,Boleto,109.9,2025-08-04
+1885,SP,2021-08-01,Básico 100MB,Mensal,Débito automático,79.9,2025-12-27
+1886,PR,2025-09-17,Premium 600MB,Mensal,Cartão de crédito,149.9,
+1887,MG,2023-01-03,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+1888,PR,2019-11-11,Intermediário 300MB,Anual,Boleto,109.9,2025-10-11
+1889,SC,2019-09-03,Básico 100MB,Anual,Pix,79.9,
+1890,PR,2024-05-10,Intermediário 300MB,Bienal,Cartão de crédito,109.9,
+1891,PR,2022-07-08,Premium 600MB,Anual,Débito automático,149.9,
+1892,PR,2021-08-30,Intermediário 300MB,Mensal,Débito automático,109.9,
+1893,RS,2020-01-24,Básico 100MB,Mensal,Boleto,79.9,2025-05-29
+1894,SC,2024-10-12,Básico 100MB,Bienal,Pix,79.9,2025-08-29
+1895,SP,2022-04-14,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+1896,SP,2024-01-02,Básico 100MB,Bienal,Débito automático,79.9,
+1897,SP,2022-01-19,Intermediário 300MB,Anual,Débito automático,109.9,
+1898,SP,2020-11-18,Intermediário 300MB,Mensal,Boleto,109.9,
+1899,SC,2023-10-21,Básico 100MB,Anual,Débito automático,79.9,
+1900,PR,2024-10-31,Intermediário 300MB,Mensal,Boleto,109.9,
+1901,PR,2019-10-06,Básico 100MB,Mensal,Cartão de crédito,79.9,
+1902,RS,2019-08-31,Intermediário 300MB,Mensal,Boleto,109.9,
+1903,MG,2020-11-24,Premium 600MB,Mensal,Boleto,149.9,2025-08-30
+1904,PR,2021-09-23,Intermediário 300MB,Anual,Pix,109.9,
+1905,SP,2024-01-07,Intermediário 300MB,Mensal,Boleto,109.9,2025-09-20
+1906,RS,2024-06-25,Básico 100MB,Mensal,Boleto,79.9,2025-07-02
+1907,PR,2020-06-24,Básico 100MB,Mensal,Pix,79.9,
+1908,SC,2024-07-28,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-12-01
+1909,PR,2019-07-13,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-01-21
+1910,SP,2020-02-09,Intermediário 300MB,Mensal,Pix,109.9,2025-10-26
+1911,SP,2022-05-19,Básico 100MB,Anual,Boleto,79.9,
+1912,SC,2023-08-19,Intermediário 300MB,Anual,Pix,109.9,
+1913,PR,2024-10-05,Intermediário 300MB,Mensal,Pix,109.9,
+1914,SP,2021-03-03,Premium 600MB,Bienal,Débito automático,149.9,
+1915,SP,2021-04-20,Básico 100MB,Bienal,Boleto,79.9,
+1916,PR,2022-11-28,Básico 100MB,Bienal,Cartão de crédito,79.9,
+1917,PR,2024-10-02,Intermediário 300MB,Mensal,Cartão de crédito,109.9,2025-03-03
+1918,SC,2022-05-15,Premium 600MB,Mensal,Pix ,149.9,
+1919,PR,2023-06-26,Intermediário 300MB,Anual,Boleto,109.9,
+1920,SP,2020-08-30,Intermediário 300MB,Anual,Débito automático,109.9,
+1921,RS,2022-02-07,Básico 100MB,Mensal,Cartão de crédito,79.9,
+1922,SP,2025-03-31,Premium 600MB,Mensal,Cartão de crédito,149.9,
+1923,,2022-06-27,Básico 100MB,Bienal,Boleto,79.9,
+1924,SP,2019-10-27,Intermediário 300MB,Mensal,Boleto,109.9,
+1925,PR,2023-02-12,Básico 100MB,Anual,Débito automático,79.9,
+1926,SP,2022-08-23,Básico 100MB,Mensal,Cartão de crédito,79.9,
+1927,RS,2019-12-07,Intermediário 300MB,Mensal,Pix,109.9,
+1928,RS,2021-10-30,Básico 100MB,Mensal,Cartão de crédito,79.9,
+1929,SP,2025-09-27,Intermediário 300MB,Bienal,Cartão de crédito,109.9,2025-12-05
+1930,RS,2020-07-04,Básico 100MB,Anual,Débito automático,79.9,
+1931,RS,2021-01-29,Básico 100MB,Anual,Boleto,79.9,
+1932,SC,2024-04-30,Básico 100MB,Mensal,Cartão de crédito,79.9,
+1933,PR,2023-11-25,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+1934,SP,2023-09-23,Básico 100MB,Anual,Pix,79.9,
+1935,PR,2025-04-18,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+1936,RJ,2023-03-14,Premium 600MB,Bienal,Débito automático,149.9,
+1937,RJ,2023-04-04,Intermediário 300MB,Anual,Débito automático,109.9,
+1938,PR,2021-08-28,Básico 100MB,Mensal,Débito automático,79.9,
+1939,RJ,2021-08-28,Premium 600MB,Mensal,Débito automático,149.9,2025-01-05
+1940,PR,2020-07-24,Básico 100MB,Bienal,Cartão de crédito,79.9,
+1941,SP,2019-10-02,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+1942,RS,2020-07-26,Intermediário 300MB,Anual,Débito automático,109.9,
+1943,RS,2023-07-18,Básico 100MB,Anual,Débito automático,79.9,
+1944,RJ,2023-10-15,Básico 100MB,Anual,Cartão de crédito,79.9,
+1945,SC,2021-07-07,Intermediário 300MB,Mensal,Boleto,109.9,
+1946,SP,2025-01-04,Básico 100MB,Mensal,Cartão de crédito,79.9,
+1947,RJ,2025-06-11,Intermediário 300MB,Anual,Débito automático,109.9,
+1948,SP,2025-04-09,Intermediário 300MB,Mensal,Débito automático,109.9,
+1949,MG,2023-08-28,Intermediário 300MB,Anual,Débito automático,109.9,
+1950,MG,2024-03-30,Premium 600MB,Bienal,Débito automático,149.9,
+1951,,2025-01-04,Básico 100MB,Bienal,Boleto,79.9,
+1952,SC,2020-10-22,Básico 100MB,Mensal,Débito automático,79.9,
+1953,SC,2022-09-19,Intermediário 300MB,Anual,Débito automático,109.9,2025-03-07
+1954,SP,2020-06-20,Básico 100MB,Anual,Boleto,79.9,
+1955,SC,2023-10-15,Premium 600MB,Bienal,Cartão de crédito,149.9,
+1956,SP,2025-09-10,Intermediário 300MB,Mensal,Débito automático,109.9,2025-10-07
+1957,PR,2021-06-11,Premium 600MB,Anual,Débito automático,149.9,
+1958,,2024-08-24,Básico 100MB,Bienal,Cartão de crédito ,79.9,
+1959,SP,2023-05-17,Premium 600MB,Anual,Débito automático,149.9,
+1960,RS,2021-11-17,Básico 100MB,Mensal,Débito automático,79.9,2025-12-20
+1961,PR,2025-03-13,Básico 100MB,Mensal,Cartão de crédito,79.9,
+1962,PR,2025-08-08,Básico 100MB,Bienal,Boleto,79.9,
+1963,PR,2024-11-30,Intermediário 300MB,Mensal,Boleto,109.9,
+1964,PR,2020-01-28,Intermediário 300MB,Mensal,Boleto,109.9,2025-02-27
+1965,SC,2024-12-11,Intermediário 300MB,Bienal,Débito automático,109.9,
+1966,SP,2019-11-20,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+1967,SP,2021-04-02,Intermediário 300MB,Mensal,Boleto,109.9,
+1968,MG,2019-11-11,Básico 100MB,Mensal,Boleto,79.9,2025-11-20
+1969,PR,2020-09-07,Intermediário 300MB,Mensal,Boleto,109.9,
+1970,SP,2020-10-09,Intermediário 300MB,Bienal,Boleto,109.9,
+1971,PR,2021-04-30,Premium 600MB,Anual,Boleto,149.9,
+1972,RJ,2021-05-03,Básico 100MB,Mensal,Pix,79.9,2025-06-27
+1973,RS,2024-09-22,Básico 100MB,Anual,Débito automático,79.9,
+1974,PR,2024-04-26,Básico 100MB,Anual,Cartão de crédito,79.9,
+1975,RS,2019-11-30,Básico 100MB,Mensal,Cartão de crédito,79.9,
+1976,SP,2021-02-18,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-08-31
+1977,RS,2024-02-26,Básico 100MB,Anual,Cartão de crédito,79.9,
+1978,MG,2020-11-27,Intermediário 300MB,Bienal,Pix,109.9,
+1979,PR,2023-10-05,Básico 100MB,Mensal,Pix,79.9,
+1980,PR,2021-02-13,Básico 100MB,Mensal,Débito automático,79.9,
+1981,PR,2021-01-14,Intermediário 300MB,Bienal,Pix,109.9,
+1982,PR,2021-06-13,Básico 100MB,Bienal,Débito automático,79.9,
+1983,SC,2024-04-03,Intermediário 300MB,Mensal,Pix ,109.9,2025-05-02
+1984,RS,2023-05-30,Intermediário 300MB,Mensal,Débito automático,109.9,
+1985,PR,2024-09-30,Intermediário 300MB,Anual,Boleto,109.9,2025-04-06
+1986,RS,2025-01-28,Intermediário 300MB,Anual,Boleto,109.9,
+1987,SP,2019-09-13,Básico 100MB,Anual,Débito automático,79.9,
+1988,PR,2025-07-18,Intermediário 300MB,Anual,Boleto,109.9,
+1989,,2019-06-17,Intermediário 300MB,Mensal,Débito automático,109.9,
+1990,MG,2020-06-27,Premium 600MB,Mensal,Débito automático,149.9,
+1991,PR,2020-07-29,Intermediário 300MB,Anual,Débito automático,109.9,
+1992,SP,2025-05-16,Intermediário 300MB,Mensal,Pix,109.9,2025-06-01
+1993,PR,2020-12-23,Premium 600MB,Mensal,Cartão de crédito,149.9,
+1994,RS,2025-02-05,Premium 600MB,Bienal,Cartão de crédito,149.9,
+1995,RS,2022-06-25,Básico 100MB,Mensal,Boleto,79.9,
+1996,SP,2020-01-28,Intermediário 300MB,Bienal,Cartão de crédito,109.9,
+1997,SC,2025-08-27,Básico 100MB,Mensal,Pix,79.9,2025-11-29
+1998,SC,2021-07-28,Intermediário 300MB,Mensal,Pix,109.9,
+1999,SP,2021-05-15,Premium 600MB,Mensal,Boleto,149.9,
+2000,SP,2021-06-28,Básico 100MB,Anual,Pix,79.9,
+2001,PR,2021-07-15,Básico 100MB,Mensal,Débito automático,79.9,
+2002,SC,2025-07-26,Intermediário 300MB,Bienal,Cartão de crédito,109.9,
+2003,PR,2019-08-18,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+2004,SP,2021-10-03,Intermediário 300MB,Anual,Débito automático,109.9,
+2005,PR,2023-05-10,Intermediário 300MB,Anual,Pix,109.9,
+2006,RJ,2025-04-04,Básico 100MB,Bienal,Débito automático,79.9,
+2007,MG,2025-04-18,Intermediário 300MB,Mensal,Débito automático,109.9,
+2008,MG,2022-03-28,Intermediário 300MB,Mensal,Pix,109.9,2025-08-22
+2009,SC,2021-09-22,Premium 600MB,Mensal,Boleto,149.9,
+2010,SP,2019-08-26,Básico 100MB,Mensal,Boleto,79.9,
+2011,SP,2025-02-19,Básico 100MB,Mensal,Boleto,79.9,
+2012,RJ,2020-07-12,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+2013,RJ,2023-12-25,Básico 100MB,Mensal,Cartão de crédito,79.9,
+2014,SC,2019-10-26,Premium 600MB,Anual,Pix,149.9,
+2015,RS,2020-01-18,Intermediário 300MB,Mensal,Cartão de crédito,109.9,2025-07-12
+2016,SP,2024-10-02,Premium 600MB,Mensal,Boleto,149.9,2025-07-08
+2017,SP,2020-05-31,Básico 100MB,Anual,Cartão de crédito,79.9,
+2018,PR,2023-12-31,Básico 100MB,Mensal,Débito automático,79.9,2025-09-30
+2019,SP,2020-08-09,Intermediário 300MB,Anual,Boleto,109.9,
+2020,RS,2020-07-03,Intermediário 300MB,Bienal,Débito automático,109.9,
+2021,,2022-10-17,Básico 100MB,Mensal,Cartão de crédito,79.9,
+2022,MG,2023-04-15,Básico 100MB,Anual,Boleto,79.9,
+2023,SP,2020-12-14,Básico 100MB,Mensal,Pix,79.9,2025-07-12
+2024,RS,2022-12-06,Intermediário 300MB,Anual,Débito automático,109.9,
+2025,RS,2021-07-12,Básico 100MB,Bienal,Cartão de crédito,79.9,
+2026,MG,2024-12-28,Intermediário 300MB,Anual,Boleto,109.9,
+2027,SC,2023-02-03,Básico 100MB,Bienal,Pix,79.9,
+2028,,2025-05-25,Básico 100MB,Mensal,Boleto,79.9,2025-11-05
+2029,SC,2023-09-21,Intermediário 300MB,Mensal,Débito automático,109.9,2025-04-24
+2030,PR,2022-02-16,Básico 100MB,Mensal,Débito automático,79.9,
+2031,PR,2022-10-29,Intermediário 300MB,Mensal,Boleto,109.9,
+2032,PR,2020-05-25,Intermediário 300MB,Bienal,Cartão de crédito,109.9,
+2033,SC,2021-12-07,Básico 100MB,Bienal,Pix,79.9,
+2034,RJ,2022-01-18,Básico 100MB,Bienal,Cartão de crédito,79.9,
+2035,MG,2024-06-01,Básico 100MB,Bienal,Cartão de crédito,79.9,
+2036,PR,2023-10-31,Básico 100MB,Anual,Cartão de crédito,79.9,
+2037,RS,2023-11-27,Intermediário 300MB,Mensal,Débito automático,109.9,
+2038,PR,2025-06-25,Premium 600MB,Mensal,Cartão de crédito,149.9,
+2039,,2020-01-03,Intermediário 300MB,Mensal,Débito automático,109.9,
+2040,SC,2020-06-12,Intermediário 300MB,Mensal,Cartão de crédito,,2025-05-06
+2041,SC,2019-09-27,Intermediário 300MB,Mensal,Boleto,109.9,
+2042,MG,2019-12-07,Intermediário 300MB,Mensal,Pix,109.9,2025-12-29
+2043,PR,2020-06-04,Premium 600MB,Anual,Pix,149.9,2025-10-01
+2044,RS,2024-05-06,Intermediário 300MB,Anual,Débito automático,109.9,
+2045,RS,2025-06-05,Básico 100MB,Bienal,Cartão de crédito,79.9,
+2046,SC,2021-03-13,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+2047,SP,2024-07-26,Básico 100MB,Anual,Cartão de crédito,79.9,
+2048,MG,2023-07-21,Intermediário 300MB,Bienal,Cartão de crédito,109.9,
+2049,,2021-07-09,Premium 600MB,Mensal,Cartão de crédito,149.9,2025-10-05
+2050,RJ,2021-07-20,Básico 100MB,Anual,CARTÃO DE CRÉDITO,79.9,
+2051,PR,2024-02-11,Intermediário 300MB,Bienal,Débito automático,109.9,
+2052,RJ,2025-06-16,Básico 100MB,Mensal,Débito automático,79.9,2025-06-22
+2053,RJ,2023-01-02,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+2054,PR,2022-11-01,Básico 100MB,Anual,Cartão de crédito,79.9,
+2055,RJ,2020-11-04,Intermediário 300MB,Mensal,Pix,109.9,
+2056,SP,2020-11-03,Intermediário 300MB,Mensal,Boleto,109.9,
+2057,PR,2021-07-22,Premium 600MB,Mensal,Cartão de crédito,149.9,
+2058,SC,2021-12-22,Básico 100MB,Bienal,Débito automático,79.9,
+2059,PR,2025-07-09,Premium 600MB,Bienal,Pix,149.9,
+2060,MG,2024-01-14,Básico 100MB,Bienal,Boleto,79.9,
+2061,SC,2020-09-30,Básico 100MB,Mensal,Débito automático,79.9,
+2062,RS,2024-06-24,Premium 600MB,Mensal,Pix,149.9,2025-07-21
+2063,SP,2021-09-23,Intermediário 300MB,Mensal,Cartão de crédito,109.9,2025-12-05
+2064,SP,2025-05-11,Premium 600MB,Bienal,Boleto,149.9,
+2065,SP,2024-11-24,Intermediário 300MB,Mensal,Boleto,109.9,2025-09-30
+2066,PR,2024-03-14,Básico 100MB,Mensal,Boleto,79.9,2025-11-25
+2067,SP,2021-04-16,Intermediário 300MB,Anual,Cartão de crédito,109.9,2025-02-20
+2068,SP,2025-04-30,Premium 600MB,Mensal,Cartão de crédito,149.9,
+2069,PR,2025-05-09,Intermediário 300MB,Anual,Débito automático,109.9,
+2070,RJ,2023-09-15,Intermediário 300MB,Mensal,Pix,109.9,
+2071,SP,2022-10-28,Básico 100MB,Mensal,Boleto,79.9,2025-07-17
+2072,MG,2019-07-09,Básico 100MB,Bienal,Cartão de crédito,79.9,
+2073,MG,2021-07-19,Básico 100MB,Bienal,Boleto,79.9,2025-02-21
+2074,SP,2022-11-08,Intermediário 300MB,Bienal,Débito automático,109.9,
+2075,SP,2025-06-05,Básico 100MB,Bienal,Cartão de crédito,79.9,
+2076,SC,2024-09-09,Intermediário 300MB,Bienal,Boleto,109.9,
+2077,PR,2020-03-28,Premium 600MB,Anual,Cartão de crédito,149.9,
+2078,PR,2025-09-02,Básico 100MB,Mensal,Boleto,79.9,
+2079,PR,2021-03-08,Básico 100MB,Mensal,Cartão de crédito,79.9,
+2080,RJ,2021-03-24,Básico 100MB,Mensal,Pix,79.9,
+2081,SC,2025-08-31,Intermediário 300MB,Anual,Pix,109.9,
+2082,SP,2024-03-25,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+2083,PR,2025-07-29,Premium 600MB,Bienal,Boleto,149.9,2025-08-23
+2084,SP,2020-02-11,Básico 100MB,Anual,Pix,79.9,2025-09-25
+2085,SP,2021-01-18,Básico 100MB,Mensal,Boleto,79.9,
+2086,MG,2021-03-23,Intermediário 300MB,Anual,Boleto,109.9,
+2087,SP,2020-01-21,Intermediário 300MB,Mensal,Boleto,109.9,2025-08-07
+2088,,2023-02-28,Básico 100MB,Anual,PIX,79.9,
+2089,SC,2021-07-09,Premium 600MB,Anual,Pix,149.9,2025-09-27
+2090,PR,2019-12-30,Intermediário 300MB,Bienal,Cartão de crédito,109.9,
+2091,MG,2020-09-05,Intermediário 300MB,Mensal,Boleto,109.9,
+2092,RJ,2020-03-09,Intermediário 300MB,Mensal,Débito automático,109.9,
+2093,SC,2023-06-26,Básico 100MB,Mensal,Pix,79.9,
+2094,SP,2023-05-01,Premium 600MB,Anual,Boleto,149.9,
+2095,PR,2019-08-27,Premium 600MB,Mensal,Débito automático,149.9,
+2096,RS,2022-05-03,Premium 600MB,Mensal,Débito automático,149.9,
+2097,PR,2020-09-03,Intermediário 300MB,Anual,Pix,109.9,
+2098,RS,2024-02-19,Básico 100MB,Anual,Cartão de crédito,79.9,2025-04-06
+2099,SP,2023-03-08,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+2100,MG,2020-10-27,Intermediário 300MB,Mensal,Boleto,109.9,
+2101,SP,2021-05-03,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+2102,SC,2023-12-10,Intermediário 300MB,Mensal,Boleto,109.9,
+2103,PR,2025-01-26,Básico 100MB,Bienal,Débito automático,79.9,
+2104,PR,2019-06-23,Premium 600MB,Bienal,Pix,149.9,
+2105,MG,2022-04-19,Intermediário 300MB,Anual,Débito automático,109.9,
+2106,RJ,2024-06-04,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+2107,SC,2025-04-25,Básico 100MB,Mensal,Débito automático,79.9,
+2108,RS,2022-12-26,Intermediário 300MB,Mensal,Boleto,109.9,
+2109,SP,2022-07-09,Básico 100MB,Bienal,Débito automático,79.9,
+2110,MG,2025-05-23,Intermediário 300MB,Mensal,Pix,109.9,
+2111,PR,2020-05-27,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+2112,RS,2025-05-16,Básico 100MB,Anual,Boleto,79.9,2025-09-08
+2113,PR,2024-08-12,Intermediário 300MB,Anual,Débito automático,109.9,
+2114,SP,2022-12-06,Básico 100MB,Mensal,Boleto,79.9,2025-04-01
+2115,SP,2020-10-27,Premium 600MB,Anual,Pix,149.9,
+2116,SC,2020-08-22,Básico 100MB,Bienal,Débito automático,79.9,
+2117,SC,2024-09-05,Básico 100MB,Bienal,Débito automático,79.9,
+2118,SC,2023-07-16,Básico 100MB,Anual,Cartão de crédito,79.9,2025-05-05
+2119,SP,2022-10-30,Básico 100MB,Anual,Boleto,79.9,
+2120,SP,2024-06-29,Básico 100MB,Anual,Boleto,79.9,2025-11-23
+2121,PR,2021-10-21,Básico 100MB,Mensal,Boleto,79.9,2025-07-08
+2122,SC,2023-04-29,Básico 100MB,Anual,Cartão de crédito,79.9,2025-06-15
+2123,PR,2025-08-26,Básico 100MB,Anual,Cartão de crédito,79.9,2025-08-29
+2124,SP,2024-03-20,Básico 100MB,Mensal,Débito automático,79.9,
+2125,PR,2021-12-09,Intermediário 300MB,Anual,Boleto,109.9,
+2126,RJ,2025-04-29,Intermediário 300MB,Anual,Débito automático,109.9,
+2127,PR,2022-04-02,Básico 100MB,Bienal,Cartão de crédito,79.9,
+2128,RS,2023-04-17,Básico 100MB,Bienal,Cartão de crédito,79.9,
+2129,SC,2025-08-29,Básico 100MB,Mensal,Débito automático,,
+2130,RS,2020-04-09,Básico 100MB,Mensal,Cartão de crédito,79.9,
+2131,MG,2025-08-04,Intermediário 300MB,Mensal,Pix,109.9,2025-10-29
+2132,PR,2024-11-18,Básico 100MB,Mensal,Débito automático,79.9,2025-07-19
+2133,PR,2022-04-03,Básico 100MB,Anual,Boleto,79.9,
+2134,PR,2023-12-13,Básico 100MB,Bienal,Pix,79.9,2025-06-06
+2135,PR,2024-04-13,Intermediário 300MB,Anual,Pix,109.9,
+2136,SP,2022-03-11,Básico 100MB,Mensal,Débito automático,79.9,2025-09-22
+2137,RS,2022-05-29,Básico 100MB,Mensal,Pix,79.9,
+2138,PR,2022-06-29,Básico 100MB,Bienal,Boleto,79.9,
+2139,SP,2021-04-28,Intermediário 300MB,Bienal,Cartão de crédito,109.9,
+2140,SP,2025-05-19,Intermediário 300MB,Anual,Boleto,109.9,2025-07-10
+2141,SP,2023-04-05,Básico 100MB,Mensal,Cartão de crédito,79.9,
+2142,SC,2022-07-30,Básico 100MB,Mensal,Boleto,79.9,2025-01-14
+2143,RJ,2022-04-09,Básico 100MB,Anual,Boleto,79.9,2025-02-14
+2144,PR,2024-09-11,Básico 100MB,Bienal,Pix,79.9,
+2145,SC,2022-03-10,Intermediário 300MB,Bienal,Débito automático,109.9,
+2146,MG,2020-01-13,Intermediário 300MB,Mensal,Cartão de crédito,,
+2147,SC,2024-06-02,Premium 600MB,Mensal,Boleto,149.9,
+2148,MG,2023-07-02,Intermediário 300MB,Anual,Boleto,109.9,2025-09-19
+2149,RS,2021-08-30,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+2150,PR,2024-12-14,Básico 100MB,Anual,Boleto,79.9,2025-04-04
+2151,SP,2021-10-18,Premium 600MB,Anual,Boleto,149.9,
+2152,SC,2025-07-28,Intermediário 300MB,Mensal,Pix,109.9,2025-08-31
+2153,PR,2025-02-14,Intermediário 300MB,Mensal,Débito automático,109.9,
+2154,PR,2024-04-30,Intermediário 300MB,Anual,PIX,109.9,2025-02-07
+2155,PR,2019-12-05,Premium 600MB,Mensal,Pix,149.9,
+2156,SP,2022-05-16,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+2157,,2021-12-27,Intermediário 300MB,Bienal,Cartão de crédito,109.9,
+2158,RS,2020-11-07,Básico 100MB,Bienal,Débito automático,79.9,
+2159,SC,2020-05-01,Premium 600MB,Mensal,Boleto,149.9,
+2160,MG,2022-05-14,Premium 600MB,Mensal,Cartão de crédito ,149.9,
+2161,PR,2019-11-09,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+2162,SP,2021-01-14,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+2163,PR,2024-09-20,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+2164,PR,2025-06-15,Intermediário 300MB,Bienal,Pix,109.9,
+2165,MG,2019-07-30,Intermediário 300MB,Anual,Boleto,109.9,
+2166,MG,2024-08-14,Básico 100MB,Anual,Pix,79.9,
+2167,SP,2025-08-06,Básico 100MB,Mensal,Pix,79.9,2025-12-09
+2168,PR,2020-07-10,Premium 600MB,Bienal,Boleto,149.9,
+2169,PR,2021-03-25,Intermediário 300MB,Mensal,Boleto,109.9,2025-05-03
+2170,RJ,2022-07-07,Premium 600MB,Bienal,Débito automático,149.9,
+2171,MG,2022-06-04,Básico 100MB,Anual,Débito automático,79.9,
+2172,SC,2020-11-23,Intermediário 300MB,Mensal,PIX,109.9,
+2173,PR,2023-01-28,Intermediário 300MB,Bienal,Pix,109.9,
+2174,RJ,2022-02-22,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+2175,SP,2022-07-15,Premium 600MB,Anual,Boleto,149.9,
+2176,RJ,2021-10-15,Intermediário 300MB,Mensal,Débito automático,109.9,
+2177,SC,2025-01-26,Básico 100MB,Bienal,Cartão de crédito,79.9,2025-06-29
+2178,,2020-08-05,Intermediário 300MB,Mensal,Boleto,109.9,
+2179,RS,2021-06-09,Básico 100MB,Bienal,Cartão de crédito,79.9,
+2180,SP,2023-03-05,Intermediário 300MB,Mensal,Pix,109.9,2025-05-20
+2181,PR,2019-11-30,Básico 100MB,Anual,Boleto,79.9,
+2182,PR,2025-04-30,Intermediário 300MB,Bienal,Pix,109.9,
+2183,PR,2022-09-19,Intermediário 300MB,Anual,Boleto,109.9,
+2184,MG,2022-08-13,Básico 100MB,Mensal,Cartão de crédito,79.9,
+2185,SP,2021-09-08,Básico 100MB,Bienal,Cartão de crédito,79.9,2025-06-19
+2186,MG,2023-12-08,Premium 600MB,Mensal,Débito automático,149.9,2025-10-26
+2187,SP,2022-07-11,Intermediário 300MB,Mensal,Boleto,109.9,
+2188,RS,2020-09-18,Básico 100MB,Mensal,Débito automático,79.9,
+2189,PR,2023-01-17,Intermediário 300MB,Bienal,Pix,109.9,
+2190,RJ,2022-01-26,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+2191,RS,2022-03-16,Intermediário 300MB,Bienal,Boleto,109.9,
+2192,SP,2022-07-16,Básico 100MB,Bienal,Débito automático,79.9,
+2193,RJ,2024-06-10,Básico 100MB,Anual,Boleto,79.9,
+2194,PR,2019-11-08,Intermediário 300MB,Mensal,Pix,109.9,
+2195,SP,2019-12-15,Intermediário 300MB,Anual,Débito automático,109.9,
+2196,MG,2022-12-05,Premium 600MB,Bienal,Boleto,149.9,
+2197,SP,2021-03-21,Básico 100MB,Anual,Boleto,79.9,
+2198,RS,2024-04-10,Básico 100MB,Mensal,Débito automático,79.9,2025-05-30
+2199,RJ,2022-05-06,Premium 600MB,Anual,Pix,149.9,
+2200,SP,2024-12-01,Intermediário 300MB,Mensal,Boleto,109.9,
+2201,RS,2020-07-03,Intermediário 300MB,Anual,Boleto,109.9,
+2202,PR,2024-02-28,Básico 100MB,Mensal,Débito automático,79.9,
+2203,PR,2023-09-30,Intermediário 300MB,Bienal,Pix,109.9,
+2204,RJ,2025-03-26,Intermediário 300MB,Mensal,Cartão de crédito,109.9,2025-03-28
+2205,SP,2025-05-11,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-10-04
+2206,SP,2019-08-14,Intermediário 300MB,Anual,Débito automático,109.9,
+2207,RJ,2025-05-24,Básico 100MB,Anual,Cartão de crédito,79.9,
+2208,SP,2021-01-22,Premium 600MB,Bienal,Pix,149.9,
+2209,SC,2021-09-14,Intermediário 300MB,Bienal,Cartão de crédito,109.9,
+2210,SC,2023-08-07,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+2211,PR,2020-10-12,Intermediário 300MB,Mensal,Boleto,109.9,
+2212,SC,2023-10-14,Intermediário 300MB,Mensal,Débito automático,109.9,
+2213,RS,2019-10-16,Intermediário 300MB,Mensal,Débito automático,109.9,2025-01-12
+2214,RS,2025-02-26,Premium 600MB,Anual,Débito automático,149.9,2025-12-12
+2215,PR,2024-04-29,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-11-21
+2216,PR,2022-01-28,Premium 600MB,Mensal,Cartão de crédito,149.9,
+2217,RS,2023-11-29,Básico 100MB,Mensal,Cartão de crédito,79.9,
+2218,SC,2024-07-29,Básico 100MB,Anual,Débito automático,79.9,
+2219,RS,2025-09-18,Premium 600MB,Anual,Cartão de crédito,149.9,
+2220,SP,2024-12-19,Intermediário 300MB,Mensal,Cartão de crédito,109.9,2025-08-24
+2221,PR,2024-08-13,Básico 100MB,Anual,Débito automático,79.9,
+2222,PR,2023-05-20,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+2223,SP,2020-11-28,Intermediário 300MB,Anual,Débito automático,109.9,
+2224,SP,2021-12-08,Básico 100MB,Bienal,Boleto,79.9,
+2225,PR,2021-01-01,Premium 600MB,Mensal,Boleto,149.9,2025-11-20
+2226,PR,2023-03-04,Premium 600MB,Bienal,Cartão de crédito,149.9,
+2227,,2024-10-08,Premium 600MB,Mensal,Cartão de crédito,149.9,
+2228,SP,2024-11-24,Intermediário 300MB,Bienal,Cartão de crédito,109.9,
+2229,SC,2025-02-25,Básico 100MB,Bienal,Boleto,79.9,
+2230,SP,2021-05-04,Básico 100MB,Mensal,Débito automático,79.9,2025-04-26
+2231,PR,2025-09-25,Básico 100MB,Bienal,Cartão de crédito ,79.9,
+2232,SP,2023-11-12,Intermediário 300MB,Mensal,Pix,109.9,
+2233,PR,2021-02-27,Básico 100MB,Mensal,Débito automático,79.9,2025-07-03
+2234,SC,2022-03-06,Intermediário 300MB,Bienal,Cartão de crédito,109.9,
+2235,SP,2021-03-02,Básico 100MB,Anual,Pix,79.9,
+2236,SP,2024-07-05,Intermediário 300MB,Anual,Pix,109.9,
+2237,PR,2022-09-18,Básico 100MB,Bienal,Boleto,79.9,2025-11-05
+2238,SP,2021-04-16,Intermediário 300MB,Anual,Pix,109.9,
+2239,PR,2024-06-25,Premium 600MB,Mensal,Débito automático,149.9,2025-06-28
+2240,MG,2019-12-05,Básico 100MB,Mensal,Pix,79.9,2025-04-04
+2241,MG,2023-11-06,Premium 600MB,Mensal,Pix,149.9,
+2242,RJ,2024-01-13,Básico 100MB,Mensal,Débito automático,79.9,2025-07-30
+2243,SC,2022-02-09,Premium 600MB,Anual,Cartão de crédito,149.9,
+2244,PR,2020-11-29,Básico 100MB,Bienal,Boleto,79.9,2025-04-08
+2245,SP,2023-05-02,Básico 100MB,Anual,Pix,79.9,
+2246,,2021-10-23,Básico 100MB,Mensal,Cartão de crédito,79.9,
+2247,SP,2021-02-07,Premium 600MB,Anual,Boleto,149.9,
+2248,SP,2023-02-25,Básico 100MB,Anual,Cartão de crédito,79.9,
+2249,PR,2022-10-26,Básico 100MB,Anual,Pix,79.9,
+2250,SP,2021-11-19,Básico 100MB,Anual,Débito automático,79.9,
+2251,SP,2019-11-10,Básico 100MB,Bienal,Pix,79.9,
+2252,SP,2024-10-26,Intermediário 300MB,Anual,Pix,109.9,
+2253,PR,2020-02-25,Básico 100MB,Mensal,Débito automático,79.9,
+2254,PR,2021-02-21,Intermediário 300MB,Anual,Débito automático,109.9,
+2255,PR,2021-11-22,Premium 600MB,Mensal,Boleto,149.9,2025-01-18
+2256,SC,2024-12-05,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-01-01
+2257,SC,2023-11-28,Premium 600MB,Mensal,Débito automático,149.9,
+2258,PR,2019-12-22,Premium 600MB,Mensal,Boleto,149.9,
+2259,PR,2021-01-02,Básico 100MB,Anual,Débito automático,79.9,
+2260,,2023-09-27,Intermediário 300MB,Anual,Débito automático,109.9,
+2261,RJ,2021-09-18,Básico 100MB,Mensal,Cartão de crédito,79.9,
+2262,SP,2024-06-10,Básico 100MB,Anual,Boleto,79.9,
+2263,SC,2022-11-03,Básico 100MB,Anual,Débito automático,79.9,
+2264,RS,2024-02-14,Básico 100MB,Mensal,Boleto,79.9,
+2265,SP,2023-11-29,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+2266,SP,2025-09-14,Intermediário 300MB,Anual,Boleto,109.9,2025-12-24
+2267,RS,2021-10-22,Intermediário 300MB,Mensal,Pix,109.9,
+2268,MG,2023-06-04,Básico 100MB,Mensal,Débito automático,79.9,
+2269,RJ,2025-07-22,Básico 100MB,Anual,Débito automático,79.9,2025-12-08
+2270,PR,2021-04-20,Premium 600MB,Mensal,Débito automático,149.9,
+2271,SP,2024-12-01,Premium 600MB,Anual,Cartão de crédito,149.9,
+2272,RJ,2023-04-23,Básico 100MB,Mensal,Boleto,79.9,
+2273,PR,2024-11-22,Premium 600MB,Mensal,Pix,149.9,2025-10-08
+2274,SP,2021-04-02,Intermediário 300MB,Bienal,Cartão de crédito,109.9,
+2275,RJ,2022-08-15,Básico 100MB,Anual,Débito automático,79.9,
+2276,RJ,2023-07-05,Básico 100MB,Mensal,Boleto,79.9,
+2277,PR,2021-12-30,Básico 100MB,Bienal,Cartão de crédito,79.9,
+2278,SC,2025-07-25,Intermediário 300MB,Mensal,Débito automático,109.9,
+2279,SP,2023-05-20,Intermediário 300MB,Anual,Boleto,109.9,
+2280,SC,2021-11-12,Básico 100MB,Anual,Boleto,79.9,
+2281,PR,2025-05-29,Premium 600MB,Bienal,Pix,149.9,
+2282,SP,2023-01-27,Básico 100MB,Mensal,Débito automático,79.9,
+2283,RS,2019-11-12,Intermediário 300MB,Anual,Débito automático,109.9,
+2284,SP,2025-01-28,Básico 100MB,Anual,Débito automático,79.9,
+2285,PR,2022-06-10,Intermediário 300MB,Anual,Boleto,109.9,
+2286,SC,2024-03-19,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+2287,SC,2024-09-20,Intermediário 300MB,Mensal,BOLETO,109.9,
+2288,SP,2020-06-05,Básico 100MB,Anual,Pix,79.9,
+2289,SC,2024-07-24,Básico 100MB,Bienal,Boleto,79.9,
+2290,SC,2021-09-30,Intermediário 300MB,Bienal,Débito automático,109.9,
+2291,RJ,2020-06-18,Intermediário 300MB,Mensal,Pix,109.9,
+2292,SP,2024-09-13,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+2293,RS,2020-07-29,Básico 100MB,Mensal,Boleto,79.9,2025-01-24
+2294,SP,2025-06-17,Básico 100MB,Anual,Cartão de crédito,79.9,
+2295,PR,2021-02-18,Intermediário 300MB,Bienal,Pix,109.9,
+2296,SC,2021-11-11,Intermediário 300MB,Mensal,Boleto,109.9,
+2297,RS,2021-01-18,Premium 600MB,Mensal,Cartão de crédito,149.9,
+2298,RS,2021-01-13,Básico 100MB,Mensal,Débito automático,79.9,
+2299,SP,2024-01-13,Intermediário 300MB,Mensal,Débito automático,109.9,
+2300,SP,2020-12-24,Básico 100MB,Anual,Cartão de crédito,79.9,
+2301,,2025-02-04,Intermediário 300MB,Bienal,Pix,109.9,
+2302,PR,2025-02-19,Básico 100MB,Mensal,Cartão de crédito,79.9,
+2303,SC,2024-01-30,Premium 600MB,Bienal,Pix,149.9,
+2304,RS,2019-11-24,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+2305,RS,2020-11-10,Intermediário 300MB,Mensal,Boleto,109.9,
+2306,PR,2023-11-20,Básico 100MB,Anual,Boleto,79.9,
+2307,RJ,2022-01-21,Intermediário 300MB,Mensal,Boleto,109.9,2025-01-12
+2308,SP,2023-07-27,Intermediário 300MB,Bienal,Débito automático,109.9,
+2309,SP,2019-12-15,Básico 100MB,Mensal,Débito automático,79.9,
+2310,SP,2021-09-30,Intermediário 300MB,Mensal,Boleto,109.9,
+2311,RJ,2023-08-16,Premium 600MB,Bienal,Boleto,149.9,
+2312,SC,2025-01-29,Premium 600MB,Anual,Cartão de crédito,149.9,
+2313,SP,2022-05-16,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+2314,RS,2019-09-06,Intermediário 300MB,Anual,Débito automático,109.9,
+2315,SP,2024-08-16,Básico 100MB,Mensal,Débito automático,79.9,
+2316,MG,2020-08-08,Premium 600MB,Anual,Boleto,149.9,
+2317,SP,2021-02-26,Básico 100MB,Anual,Boleto,79.9,
+2318,SC,2021-01-08,Intermediário 300MB,Anual,Pix,109.9,
+2319,PR,2020-05-09,Intermediário 300MB,Bienal,Boleto ,109.9,
+2320,RS,2023-01-08,Premium 600MB,Mensal,Débito automático,,2025-09-24
+2321,SC,2024-10-31,Básico 100MB,Anual,Cartão de crédito,79.9,2025-09-16
+2322,SP,2020-12-22,Intermediário 300MB,Mensal,Boleto,109.9,
+2323,SC,2021-01-31,Intermediário 300MB,Mensal,Boleto,109.9,2025-03-18
+2324,PR,2024-02-22,Básico 100MB,Bienal,Boleto,79.9,
+2325,RJ,2025-09-07,Básico 100MB,Mensal,Cartão de crédito,79.9,
+2326,SC,2024-06-28,Básico 100MB,Mensal,Débito automático,79.9,
+2327,SP,2022-01-15,Intermediário 300MB,Mensal,Pix,109.9,2025-10-12
+2328,RS,2025-02-08,Intermediário 300MB,Bienal,Pix,109.9,
+2329,,2020-11-13,Intermediário 300MB,Bienal,Pix,109.9,
+2330,SP,2022-08-21,Intermediário 300MB,Anual,Débito automático,109.9,
+2331,PR,2022-05-27,Intermediário 300MB,Mensal,Boleto,109.9,
+2332,PR,2024-08-14,Básico 100MB,Mensal,Boleto,79.9,
+2333,SP,2021-10-31,Premium 600MB,Mensal,Boleto,149.9,
+2334,SP,2025-08-09,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+2335,SC,2024-01-04,Básico 100MB,Mensal,Cartão de crédito,79.9,
+2336,SC,2025-08-08,Básico 100MB,Mensal,Boleto,79.9,2025-08-24
+2337,SP,2025-03-27,Premium 600MB,Mensal,Débito automático,149.9,
+2338,SP,2024-03-15,Intermediário 300MB,Bienal,Boleto,109.9,2025-03-18
+2339,RS,2021-07-21,Intermediário 300MB,Mensal,Pix,109.9,
+2340,SC,2025-03-06,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+2341,SP,2021-10-28,Básico 100MB,Mensal,Cartão de crédito,79.9,
+2342,SP,2020-08-20,Intermediário 300MB,Mensal,Boleto,109.9,
+2343,PR,2025-03-14,Básico 100MB,Anual,Pix,79.9,
+2344,PR,2024-04-18,Básico 100MB,Anual,Pix,79.9,
+2345,SP,2022-11-29,Premium 600MB,Mensal,Boleto,149.9,
+2346,RJ,2024-11-12,Premium 600MB,Anual,Boleto,149.9,
+2347,PR,2022-05-03,Intermediário 300MB,Bienal,Cartão de crédito,109.9,
+2348,RJ,2023-09-25,Básico 100MB,Anual,Pix,79.9,
+2349,PR,2022-03-08,Básico 100MB,Mensal,Boleto,79.9,
+2350,SP,2025-08-22,Intermediário 300MB,Mensal,Boleto,109.9,2025-11-20
+2351,SP,2021-07-13,Premium 600MB,Anual,Cartão de crédito,149.9,
+2352,PR,2024-05-19,Básico 100MB,Bienal,Pix,79.9,2025-11-02
+2353,SP,2022-09-14,Básico 100MB,Anual,Boleto,79.9,
+2354,,2023-05-21,Básico 100MB,Mensal,Pix,79.9,
+2355,SP,2020-04-02,Premium 600MB,Mensal,Pix,149.9,
+2356,SC,2021-07-18,Básico 100MB,Bienal,Débito automático,79.9,
+2357,SP,2019-06-08,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-10-09
+2358,SP,2020-09-18,Básico 100MB,Mensal,Pix,79.9,2025-06-22
+2359,RS,2023-01-11,Intermediário 300MB,Anual,Boleto,109.9,
+2360,PR,2025-06-20,Básico 100MB,Mensal,Cartão de crédito,79.9,
+2361,,2020-09-27,Básico 100MB,Mensal,BOLETO,79.9,
+2362,SC,2021-11-21,Premium 600MB,Mensal,Débito automático,149.9,
+2363,SC,2020-12-10,Básico 100MB,Anual,Cartão de crédito,79.9,
+2364,PR,2024-10-19,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+2365,RJ,2025-09-02,Intermediário 300MB,Anual,Débito automático,109.9,
+2366,PR,2022-07-02,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+2367,PR,2022-10-16,Premium 600MB,Mensal,Boleto,149.9,
+2368,PR,2020-09-10,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-10-28
+2369,SC,2021-09-25,Básico 100MB,Bienal,Boleto,79.9,2025-03-24
+2370,RJ,2020-02-14,Básico 100MB,Mensal,Débito automático ,79.9,
+2371,PR,2020-03-09,Premium 600MB,Mensal,Boleto,149.9,2025-10-21
+2372,SP,2023-12-06,Básico 100MB,Mensal,Débito automático,79.9,2025-05-09
+2373,PR,2024-08-11,Intermediário 300MB,Bienal,Cartão de crédito,109.9,
+2374,SC,2019-07-10,Premium 600MB,Mensal,Cartão de crédito,149.9,
+2375,SP,2025-08-15,Intermediário 300MB,Mensal,Boleto,109.9,
+2376,PR,2022-03-11,Básico 100MB,Bienal,Boleto,79.9,
+2377,SC,2021-02-02,Básico 100MB,Mensal,Débito automático,79.9,
+2378,PR,2024-08-28,Intermediário 300MB,Anual,Débito automático,109.9,
+2379,SC,2021-04-18,Básico 100MB,Mensal,Pix,79.9,
+2380,SP,2021-02-02,Intermediário 300MB,Bienal,Cartão de crédito,109.9,
+2381,RS,2025-09-24,Básico 100MB,Mensal,Cartão de crédito,79.9,
+2382,PR,2024-04-16,Intermediário 300MB,Anual,Débito automático,109.9,
+2383,RS,2024-05-15,Intermediário 300MB,Anual,Débito automático,,
+2384,RS,2023-08-26,Básico 100MB,Bienal,Débito automático,79.9,
+2385,PR,2024-09-12,Básico 100MB,Anual,Débito automático,79.9,
+2386,PR,2022-07-27,Básico 100MB,Anual,Débito automático,79.9,
+2387,MG,2020-12-26,Básico 100MB,Bienal,Cartão de crédito,79.9,
+2388,PR,2024-08-23,Intermediário 300MB,Mensal,Boleto,109.9,
+2389,,2022-03-09,Intermediário 300MB,Bienal,Boleto,109.9,
+2390,SP,2021-03-31,Intermediário 300MB,Mensal,Pix,109.9,
+2391,PR,2020-02-24,Básico 100MB,Mensal,Cartão de crédito,79.9,
+2392,MG,2022-12-05,Intermediário 300MB,Anual,Boleto,109.9,
+2393,SP,2021-12-10,Intermediário 300MB,Bienal,Cartão de crédito,109.9,
+2394,SC,2022-06-30,Básico 100MB,Anual,Boleto,79.9,2025-12-16
+2395,SC,2023-08-08,Premium 600MB,Anual,Pix,149.9,
+2396,SC,2024-03-24,Básico 100MB,Bienal,Cartão de crédito,79.9,
+2397,SC,2023-10-12,Premium 600MB,Mensal,Pix,149.9,
+2398,SP,2020-02-02,Básico 100MB,Mensal,Débito automático ,79.9,
+2399,MG,2023-09-08,Intermediário 300MB,Mensal,Débito automático,,
+2400,SC,2025-05-18,Premium 600MB,Anual,Boleto,149.9,
+2401,RS,2025-07-22,Intermediário 300MB,Mensal,Pix,109.9,2025-10-19
+2402,RS,2024-09-21,Básico 100MB,Mensal,Boleto,79.9,
+2403,PR,2021-12-16,Premium 600MB,Mensal,Boleto,,
+2404,SC,2020-01-13,Intermediário 300MB,Anual,Pix,109.9,
+2405,PR,2020-02-20,Premium 600MB,Mensal,Pix,149.9,
+2406,PR,2023-03-27,Básico 100MB,Anual,PIX,79.9,
+2407,PR,2023-05-28,Premium 600MB,Bienal,Boleto,149.9,2025-01-06
+2408,SP,2021-03-07,Premium 600MB,Anual,Pix,149.9,
+2409,PR,2025-08-06,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-09-24
+2410,SC,2023-04-19,Básico 100MB,Anual,Boleto,79.9,
+2411,SP,2023-06-13,Básico 100MB,Anual,Pix,79.9,2025-07-27
+2412,SP,2023-03-19,Intermediário 300MB,Mensal,Pix,109.9,
+2413,PR,2024-08-12,Básico 100MB,Bienal,Boleto,79.9,
+2414,SP,2022-11-01,Intermediário 300MB,Anual,Boleto,109.9,
+2415,PR,2022-02-06,Intermediário 300MB,Anual,Débito automático,109.9,
+2416,SC,2022-07-29,Intermediário 300MB,Mensal,Boleto,109.9,
+2417,SC,2021-01-08,Intermediário 300MB,Mensal,Débito automático,109.9,
+2418,SC,2020-09-18,Básico 100MB,Bienal,Cartão de crédito,79.9,
+2419,RJ,2024-05-26,Básico 100MB,Bienal,Boleto,79.9,2025-08-02
+2420,SC,2022-02-10,Intermediário 300MB,Bienal,Boleto,109.9,
+2421,SP,2025-06-12,Básico 100MB,Mensal,Pix,79.9,2025-09-18
+2422,PR,2022-10-24,Intermediário 300MB,Bienal,Pix,109.9,
+2423,SP,2019-12-07,Intermediário 300MB,Bienal,Cartão de crédito,109.9,
+2424,SP,2023-05-11,Premium 600MB,Mensal,Cartão de crédito,149.9,
+2425,PR,2022-02-05,Básico 100MB,Mensal,Débito automático,79.9,2025-02-08
+2426,SP,2024-01-24,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-09-06
+2427,PR,2024-02-10,Básico 100MB,Mensal,Pix,79.9,
+2428,PR,2019-07-11,Básico 100MB,Anual,Boleto,79.9,
+2429,RS,2021-12-29,Básico 100MB,Bienal,Boleto,79.9,2025-09-23
+2430,RJ,2020-05-03,Básico 100MB,Mensal,Boleto,79.9,
+2431,SP,2023-01-28,Básico 100MB,Mensal,Boleto ,79.9,2025-11-18
+2432,SP,2022-06-03,Básico 100MB,Anual,Cartão de crédito,79.9,2025-11-11
+2433,SC,2021-11-12,Básico 100MB,Anual,Boleto,79.9,2025-06-11
+2434,SP,2023-12-31,Premium 600MB,Mensal,Cartão de crédito,149.9,
+2435,MG,2021-12-17,Intermediário 300MB,Bienal,Pix,109.9,
+2436,SP,2020-03-15,Premium 600MB,Bienal,Pix,149.9,
+2437,PR,2021-05-24,Premium 600MB,Mensal,Débito automático,149.9,
+2438,PR,2024-10-05,Intermediário 300MB,Anual,Boleto,109.9,
+2439,RS,2022-05-25,Intermediário 300MB,Anual,Débito automático ,109.9,
+2440,PR,2020-09-25,Básico 100MB,Mensal,Débito automático,79.9,
+2441,PR,2021-12-22,Premium 600MB,Anual,Boleto,149.9,2025-08-01
+2442,SP,2025-09-12,Básico 100MB,Bienal,Débito automático,79.9,
+2443,PR,2019-11-03,Intermediário 300MB,Bienal,Pix,109.9,
+2444,SP,2022-05-06,Premium 600MB,Anual,Cartão de crédito,149.9,
+2445,RS,2024-10-10,Intermediário 300MB,Mensal,Boleto,109.9,2025-01-18
+2446,RS,2025-07-27,Premium 600MB,Anual,Débito automático,149.9,
+2447,SP,2024-01-09,Premium 600MB,Bienal,Pix,149.9,2025-08-08
+2448,PR,2019-10-02,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+2449,PR,2025-01-08,Básico 100MB,Anual,Boleto,79.9,2025-07-03
+2450,RS,2022-01-23,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+2451,MG,2021-10-02,Premium 600MB,Anual,Cartão de crédito,149.9,
+2452,SP,2021-03-01,Intermediário 300MB,Mensal,Débito automático,109.9,
+2453,MG,2025-07-17,Premium 600MB,Anual,Boleto,149.9,
+2454,PR,2023-10-20,Básico 100MB,Bienal,Débito automático,79.9,
+2455,RS,2020-08-15,Básico 100MB,Bienal,Boleto,79.9,
+2456,SP,2024-09-26,Premium 600MB,Bienal,Boleto,149.9,
+2457,RJ,2024-06-12,Intermediário 300MB,Anual,Pix,109.9,
+2458,PR,2024-06-03,Básico 100MB,Anual,Cartão de crédito,79.9,
+2459,MG,2025-05-30,Básico 100MB,Anual,Cartão de crédito,79.9,
+2460,RS,2020-11-14,Básico 100MB,Bienal,Débito automático,,
+2461,PR,2025-08-22,Intermediário 300MB,Anual,Débito automático,109.9,
+2462,RJ,2023-01-27,Básico 100MB,Bienal,Cartão de crédito,79.9,
+2463,SP,2022-01-04,Básico 100MB,Anual,Cartão de crédito,79.9,
+2464,SP,2024-12-10,Básico 100MB,Mensal,Débito automático,79.9,2025-02-12
+2465,RS,2020-09-02,Premium 600MB,Mensal,Cartão de crédito,149.9,
+2466,SP,2020-12-02,Básico 100MB,Bienal,Boleto,79.9,
+2467,RJ,2020-06-27,Básico 100MB,Anual,Boleto,79.9,
+2468,RS,2024-04-22,Intermediário 300MB,Bienal,Cartão de crédito,109.9,
+2469,PR,2021-09-22,Premium 600MB,Mensal,Cartão de crédito,149.9,2025-12-06
+2470,RS,2025-08-05,Intermediário 300MB,Mensal,Débito automático,109.9,2025-12-11
+2471,SC,2022-07-13,Básico 100MB,Mensal,Cartão de crédito,79.9,
+2472,SP,2021-03-07,Intermediário 300MB,Mensal,Pix,109.9,
+2473,RS,2025-08-14,Básico 100MB,Bienal,Cartão de crédito,79.9,
+2474,SC,2023-06-06,Intermediário 300MB,Mensal,Boleto,109.9,2025-12-20
+2475,PR,2023-03-09,Básico 100MB,Anual,Débito automático,79.9,2025-05-16
+2476,PR,2019-10-20,Intermediário 300MB,Anual,Débito automático,109.9,
+2477,PR,2020-10-13,Premium 600MB,Mensal,Boleto,149.9,
+2478,PR,2021-09-17,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+2479,PR,2024-01-08,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-12-17
+2480,SP,2023-09-13,Básico 100MB,Mensal,Cartão de crédito,79.9,
+2481,PR,2025-01-06,Intermediário 300MB,Anual,Boleto,109.9,
+2482,SP,2023-08-09,Básico 100MB,Anual,Cartão de crédito,79.9,
+2483,SP,2021-01-16,Básico 100MB,Mensal,Pix,79.9,2025-09-14
+2484,RS,2024-08-17,Premium 600MB,Mensal,Pix,149.9,
+2485,PR,2020-03-07,Básico 100MB,Bienal,Boleto,79.9,
+2486,PR,2020-07-28,Intermediário 300MB,Anual,Boleto,109.9,
+2487,MG,2020-02-25,Premium 600MB,Bienal,Débito automático,149.9,
+2488,RJ,2019-11-01,Intermediário 300MB,Mensal,Débito automático,109.9,
+2489,SC,2024-03-16,Básico 100MB,Mensal,Débito automático,79.9,
+2490,PR,2021-03-23,Intermediário 300MB,Anual,Pix,109.9,
+2491,RJ,2024-10-19,Premium 600MB,Mensal,Boleto,149.9,2025-04-02
+2492,RS,2019-08-22,Intermediário 300MB,Mensal,Débito automático,,
+2493,MG,2023-05-20,Intermediário 300MB,Anual,Débito automático,109.9,
+2494,RJ,2022-12-20,Premium 600MB,Mensal,Pix,149.9,
+2495,MG,2022-02-04,Intermediário 300MB,Mensal,Débito automático,109.9,
+2496,PR,2025-06-29,Básico 100MB,Mensal,Débito automático,79.9,
+2497,MG,2023-12-16,Premium 600MB,Bienal,Boleto,149.9,
+2498,PR,2023-03-30,Intermediário 300MB,Mensal,Débito automático,109.9,2025-09-17
+2499,RS,2021-02-22,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+2500,MG,2023-08-10,Intermediário 300MB,Mensal,Débito automático,,
+2501,RS,2021-07-26,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-10-13
+2502,SC,2020-07-02,Premium 600MB,Mensal,Boleto,149.9,
+2503,SP,2022-07-18,Premium 600MB,Anual,Cartão de crédito,149.9,2025-02-16
+2504,SC,2021-12-20,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+2505,PR,2023-05-31,Intermediário 300MB,Mensal,Pix,109.9,
+2506,SP,2024-06-26,Premium 600MB,Mensal,Cartão de crédito ,149.9,2025-05-17
+2507,SP,2020-03-12,Básico 100MB,Mensal,Cartão de crédito,79.9,
+2508,SC,2020-02-20,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+2509,MG,2025-04-06,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-10-07
+2510,PR,2024-01-03,Intermediário 300MB,Mensal,Débito automático,109.9,2025-06-08
+2511,SP,2022-10-09,Premium 600MB,Mensal,Cartão de crédito,149.9,
+2512,PR,2021-08-29,Básico 100MB,Mensal,Débito automático,79.9,
+2513,RJ,2024-03-28,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+2514,SP,2025-08-17,Premium 600MB,Bienal,Débito automático,149.9,2025-10-22
+2515,RJ,2019-07-11,Básico 100MB,Mensal,Débito automático,79.9,2019-06-11
+2516,SP,2024-02-26,Intermediário 300MB,Mensal,Débito automático,109.9,
+2517,PR,2019-08-07,Intermediário 300MB,Bienal,Boleto,,
+2518,RS,2022-02-12,Intermediário 300MB,Mensal,Pix,109.9,
+2519,RS,2024-05-04,Básico 100MB,Mensal,Boleto,79.9,2025-09-23
+2520,RS,2023-11-08,Básico 100MB,Mensal,Pix,79.9,
+2521,SP,2023-12-12,Básico 100MB,Mensal,Boleto,79.9,
+2522,SC,2022-11-30,Básico 100MB,Bienal,Cartão de crédito,79.9,
+2523,SP,2021-04-25,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+2524,PR,2022-05-21,Premium 600MB,Mensal,Débito automático,149.9,2025-01-26
+2525,SP,2024-01-19,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+2526,PR,2022-04-24,Básico 100MB,Mensal,Pix,79.9,
+2527,SP,2021-07-18,Básico 100MB,Anual,Boleto,79.9,
+2528,PR,2020-10-06,Intermediário 300MB,Bienal,Boleto,109.9,
+2529,PR,2023-10-03,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+2530,MG,2023-07-02,Básico 100MB,Mensal,Débito automático,79.9,
+2531,SP,2024-04-25,Básico 100MB,Mensal,Boleto,79.9,2025-05-13
+2532,SC,2021-03-22,Intermediário 300MB,Anual,Boleto,109.9,
+2533,SC,2023-02-08,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+2534,SP,2023-01-18,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+2535,SP,2022-12-21,Básico 100MB,Anual,Pix,79.9,
+2536,SC,2024-11-07,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+2537,PR,2025-01-04,Básico 100MB,Anual,Débito automático,79.9,
+2538,PR,2024-09-10,Intermediário 300MB,Mensal,Boleto,109.9,
+2539,RS,2023-02-07,Premium 600MB,Anual,Pix,149.9,2025-04-16
+2540,SP,2022-04-24,Básico 100MB,Bienal,Pix,79.9,
+2541,PR,2022-02-01,Premium 600MB,Anual,Débito automático,149.9,
+2542,MG,2020-09-24,Básico 100MB,Bienal,Cartão de crédito,79.9,
+2543,SP,2021-05-28,Básico 100MB,Bienal,Boleto,79.9,
+2544,PR,2022-03-28,Intermediário 300MB,Mensal,Pix,109.9,
+2545,RJ,2020-05-08,Básico 100MB,Mensal,Cartão de crédito,79.9,
+2546,PR,2023-05-18,Básico 100MB,Mensal,Boleto,79.9,
+2547,SC,2025-06-30,Premium 600MB,Mensal,Pix,149.9,
+2548,PR,2020-11-08,Intermediário 300MB,Mensal,Boleto,109.9,
+2549,SC,2024-08-09,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+2550,PR,2021-03-20,Intermediário 300MB,Anual,Débito automático,109.9,
+2551,RJ,2025-02-02,Premium 600MB,Mensal,Boleto,149.9,2025-03-26
+2552,PR,2021-08-28,Básico 100MB,Anual,Boleto,79.9,
+2553,SC,2020-07-10,Intermediário 300MB,Mensal,Pix,109.9,2025-10-04
+2554,PR,2025-08-27,Premium 600MB,Bienal,Cartão de crédito,149.9,
+2555,SP,2023-09-21,Básico 100MB,Anual,Débito automático,79.9,
+2556,MG,2024-05-16,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-05-19
+2557,PR,2020-10-17,Intermediário 300MB,Mensal,Boleto,109.9,
+2558,SP,2019-11-26,Intermediário 300MB,Mensal,Boleto,109.9,
+2559,SP,2019-10-10,Premium 600MB,Anual,Boleto,149.9,
+2560,SC,2024-06-20,Básico 100MB,Mensal,Boleto,79.9,2025-04-18
+2561,PR,2023-06-18,Intermediário 300MB,Mensal,Boleto,109.9,2025-09-24
+2562,SC,2021-07-11,Básico 100MB,Anual,Boleto,79.9,
+2563,RS,2023-04-30,Básico 100MB,Mensal,Pix,79.9,
+2564,PR,2025-03-24,Básico 100MB,Anual,Débito automático,79.9,2025-04-20
+2565,SP,2020-12-30,Básico 100MB,Bienal,Boleto,79.9,
+2566,PR,2023-07-25,Intermediário 300MB,Bienal,Cartão de crédito,109.9,
+2567,PR,2019-12-11,Intermediário 300MB,Mensal,Boleto,109.9,2025-07-20
+2568,SC,2024-11-28,Básico 100MB,Bienal,Boleto,79.9,
+2569,PR,2022-08-29,Intermediário 300MB,Mensal,Débito automático,109.9,
+2570,SC,2023-03-16,Premium 600MB,Anual,Boleto,149.9,
+2571,RS,2024-04-27,Básico 100MB,Bienal,Débito automático,79.9,
+2572,RJ,2022-06-15,Intermediário 300MB,Anual,Pix,109.9,
+2573,SP,2025-08-09,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+2574,PR,2024-09-18,Básico 100MB,Mensal,Débito automático,79.9,
+2575,PR,2021-07-19,Premium 600MB,Bienal,Débito automático,149.9,
+2576,SP,2020-02-17,Básico 100MB,Anual,Cartão de crédito,79.9,
+2577,RS,2021-05-30,Premium 600MB,Anual,Débito automático,149.9,2025-07-19
+2578,PR,2020-03-09,Premium 600MB,Mensal,Boleto,149.9,
+2579,SP,2023-06-30,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+2580,MG,2020-05-27,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-08-17
+2581,PR,2020-08-14,Premium 600MB,Bienal,Cartão de crédito,149.9,
+2582,RS,2025-04-10,Intermediário 300MB,Bienal,Pix,109.9,
+2583,RS,2023-12-01,Básico 100MB,Mensal,Pix,79.9,
+2584,PR,2021-10-14,Premium 600MB,Anual,Boleto,149.9,
+2585,RJ,2023-05-18,Intermediário 300MB,Mensal,Pix,109.9,
+2586,PR,2019-10-20,Intermediário 300MB,Mensal,Boleto,109.9,
+2587,SP,2023-01-05,Intermediário 300MB,Mensal,Boleto,109.9,
+2588,PR,2023-05-26,Básico 100MB,Mensal,Cartão de crédito,79.9,
+2589,SC,2024-07-19,Básico 100MB,Anual,Cartão de crédito,79.9,
+2590,SP,2024-06-21,Básico 100MB,Mensal,Cartão de crédito,79.9,
+2591,RS,2024-02-07,Básico 100MB,Mensal,Boleto,79.9,2025-10-18
+2592,SC,2021-05-01,Intermediário 300MB,Mensal,Cartão de crédito,,
+2593,PR,2022-02-22,Intermediário 300MB,Anual,Débito automático,109.9,
+2594,SP,2025-02-25,Básico 100MB,Anual,Cartão de crédito,79.9,
+2595,SC,2023-01-16,Premium 600MB,Mensal,Boleto,149.9,2025-08-15
+2596,MG,2021-10-28,Básico 100MB,Mensal,Cartão de crédito,79.9,
+2597,PR,2022-09-26,Básico 100MB,Mensal,Boleto,79.9,
+2598,PR,2022-08-03,Premium 600MB,Mensal,Cartão de crédito,149.9,2025-04-02
+2599,RS,2020-12-06,Intermediário 300MB,Mensal,Débito automático,109.9,
+2600,SC,2020-07-08,Intermediário 300MB,Mensal,Débito automático,109.9,
+2601,SP,2021-11-08,Básico 100MB,Mensal,Cartão de crédito,79.9,
+2602,RJ,2021-01-22,Intermediário 300MB,Mensal,Pix,109.9,2025-02-01
+2603,SP,2024-06-04,Básico 100MB,Mensal,Pix,79.9,
+2604,PR,2020-05-06,Básico 100MB,Anual,Pix,79.9,
+2605,PR,2024-10-20,Básico 100MB,Mensal,Pix,79.9,2025-01-09
+2606,PR,2021-05-04,Intermediário 300MB,Mensal,Débito automático,109.9,
+2607,SC,2020-04-13,Premium 600MB,Bienal,Débito automático,149.9,
+2608,SC,2023-03-18,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-08-28
+2609,SC,2025-08-28,Premium 600MB,Mensal,Débito automático,149.9,
+2610,RS,2024-05-05,Intermediário 300MB,Bienal,Débito automático,109.9,
+2611,SC,2023-02-27,Intermediário 300MB,Mensal,Boleto,109.9,
+2612,MG,2023-09-20,Básico 100MB,Mensal,Débito automático,79.9,2025-05-05
+2613,,2021-08-25,Intermediário 300MB,Mensal,Pix,109.9,2025-02-09
+2614,SP,2020-12-04,Intermediário 300MB,Mensal,Débito automático,109.9,
+2615,SP,2021-10-03,Básico 100MB,Anual,Débito automático,79.9,
+2616,SP,2024-05-17,Premium 600MB,Bienal,Débito automático,149.9,
+2617,RS,2019-11-30,Intermediário 300MB,Mensal,CARTÃO DE CRÉDITO,109.9,2025-09-28
+2618,PR,2023-09-22,Básico 100MB,Anual,Boleto,79.9,2025-07-05
+2619,PR,2020-07-01,Básico 100MB,Mensal,Cartão de crédito,79.9,
+2620,MG,2024-02-22,Intermediário 300MB,Anual,Débito automático,109.9,
+2621,,2023-07-27,Premium 600MB,Anual,Pix,149.9,
+2622,SP,2021-11-23,Intermediário 300MB,Mensal,Pix,109.9,
+2623,PR,2023-02-16,Intermediário 300MB,Anual,Boleto,109.9,
+2624,SP,2025-05-14,Básico 100MB,Mensal,Pix,79.9,2025-12-01
+2625,SC,2019-06-01,Básico 100MB,Mensal,Cartão de crédito ,79.9,
+2626,SP,2019-06-19,Básico 100MB,Bienal,Cartão de crédito,79.9,
+2627,RJ,2021-01-04,Básico 100MB,Mensal,Pix,79.9,
+2628,RJ,2020-08-29,Intermediário 300MB,Anual,Débito automático,109.9,
+2629,RJ,2024-12-27,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-01-07
+2630,PR,2022-07-07,Básico 100MB,Anual,Boleto,79.9,2025-01-28
+2631,,2024-10-04,Intermediário 300MB,Bienal,Pix,109.9,
+2632,SC,2025-04-20,Intermediário 300MB,Anual,Boleto,109.9,
+2633,SP,2022-02-12,Básico 100MB,Mensal,Débito automático,79.9,2025-09-10
+2634,SC,2020-11-01,Intermediário 300MB,Anual,Boleto,109.9,2025-01-26
+2635,RS,2021-10-06,Intermediário 300MB,Bienal,Boleto,109.9,2025-03-10
+2636,RJ,2019-11-21,Básico 100MB,Mensal,Cartão de crédito,79.9,
+2637,RS,2023-02-26,Básico 100MB,Anual,Boleto,79.9,2025-11-03
+2638,PR,2021-05-27,Intermediário 300MB,Mensal,Boleto,109.9,
+2639,PR,2024-02-05,Intermediário 300MB,Anual,Pix,109.9,
+2640,PR,2024-07-19,Premium 600MB,Bienal,Cartão de crédito,149.9,
+2641,PR,2024-01-07,Intermediário 300MB,Mensal,Cartão de crédito,109.9,2025-10-29
+2642,PR,2023-02-07,Básico 100MB,Anual,Pix,79.9,
+2643,RS,2022-02-14,Intermediário 300MB,Mensal,Débito automático,109.9,2025-04-05
+2644,SP,2020-07-24,Básico 100MB,Mensal,Pix,79.9,
+2645,SC,2021-01-14,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+2646,SP,2024-04-09,Básico 100MB,Mensal,Débito automático,79.9,
+2647,SP,2021-12-22,Básico 100MB,Bienal,Débito automático,79.9,
+2648,RS,2022-06-12,Básico 100MB,Bienal,Boleto,79.9,
+2649,,2022-07-11,Premium 600MB,Bienal,Débito automático,149.9,
+2650,SP,2020-04-27,Intermediário 300MB,Bienal,Boleto,109.9,
+2651,SC,2025-02-17,Básico 100MB,Bienal,Boleto,79.9,
+2652,PR,2024-04-28,Intermediário 300MB,Mensal,Boleto,109.9,2025-06-23
+2653,SP,2022-01-14,Premium 600MB,Anual,Pix,149.9,
+2654,SP,2019-09-13,Básico 100MB,Bienal,Débito automático,79.9,
+2655,PR,2019-12-19,Intermediário 300MB,Mensal,Débito automático,109.9,
+2656,RS,2024-06-16,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+2657,SP,2024-07-10,Básico 100MB,Bienal,Débito automático,79.9,
+2658,SP,2024-11-17,Premium 600MB,Anual,Cartão de crédito,149.9,
+2659,SC,2022-12-11,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+2660,MG,2021-11-26,Intermediário 300MB,Anual,Boleto,109.9,
+2661,SC,2019-12-27,Básico 100MB,Anual,Boleto,79.9,
+2662,PR,2020-12-14,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-02-17
+2663,SC,2023-09-11,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+2664,RS,2021-07-10,Básico 100MB,Anual,BOLETO,79.9,
+2665,MG,2021-02-18,Intermediário 300MB,Anual,Débito automático,109.9,
+2666,PR,2023-11-15,Básico 100MB,Anual,Boleto,79.9,2025-01-24
+2667,PR,2024-01-27,Básico 100MB,Anual,Cartão de crédito,79.9,
+2668,SP,2020-06-21,Intermediário 300MB,Mensal,Boleto,109.9,2025-02-15
+2669,SP,2024-09-17,Premium 600MB,Anual,Débito automático,149.9,2025-11-25
+2670,SC,2025-09-22,Básico 100MB,Bienal,Cartão de crédito,79.9,
+2671,SP,2022-06-09,Básico 100MB,Bienal,Débito automático,79.9,
+2672,RS,2020-02-23,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+2673,RS,2025-08-30,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+2674,PR,2024-06-30,Premium 600MB,Mensal,Pix,149.9,2025-10-20
+2675,RS,2024-11-19,Básico 100MB,Anual,Pix,79.9,
+2676,RS,2023-03-12,Premium 600MB,Mensal,Cartão de crédito,149.9,
+2677,PR,2022-10-19,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+2678,RJ,2020-12-25,Básico 100MB,Mensal,Cartão de crédito,79.9,
+2679,SP,2019-07-19,Básico 100MB,Mensal,Boleto,79.9,
+2680,RS,2022-07-25,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+2681,RS,2020-01-09,Intermediário 300MB,Anual,Débito automático,109.9,2025-10-13
+2682,PR,2023-05-02,Premium 600MB,Bienal,Boleto,149.9,
+2683,PR,2023-08-07,Básico 100MB,Anual,Boleto,79.9,
+2684,RS,2024-05-24,Básico 100MB,Mensal,Débito automático,79.9,2025-03-07
+2685,PR,2023-06-01,Intermediário 300MB,Anual,Pix,109.9,
+2686,MG,2022-07-05,Básico 100MB,Anual,Boleto,79.9,
+2687,RS,2024-01-07,Básico 100MB,Mensal,Débito automático,79.9,
+2688,PR,2020-06-09,Premium 600MB,Mensal,Boleto,149.9,2025-10-23
+2689,RS,2025-03-21,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+2690,PR,2024-12-12,Básico 100MB,Anual,Pix,79.9,
+2691,PR,2022-04-19,Básico 100MB,Mensal,Pix,79.9,
+2692,RS,2024-08-02,Premium 600MB,Mensal,Cartão de crédito,149.9,
+2693,SC,2024-05-28,Intermediário 300MB,Mensal,Boleto,109.9,
+2694,PR,2023-06-14,Intermediário 300MB,Mensal,Débito automático,109.9,
+2695,SP,2025-07-21,Intermediário 300MB,Mensal,Débito automático,109.9,
+2696,SP,2022-08-23,Intermediário 300MB,Bienal,Cartão de crédito,109.9,
+2697,SP,2022-04-30,Básico 100MB,Bienal,Boleto,79.9,
+2698,SC,2025-01-30,Premium 600MB,Mensal,Boleto,,2024-12-31
+2699,SP,2020-05-25,Premium 600MB,Anual,Cartão de crédito ,149.9,
+2700,PR,2025-01-01,Básico 100MB,Anual,Boleto,79.9,
+2701,PR,2022-07-16,Premium 600MB,Mensal,Débito automático,149.9,
+2702,SC,2023-11-22,Intermediário 300MB,Bienal,CARTÃO DE CRÉDITO,109.9,
+2703,RS,2023-04-04,Premium 600MB,Anual,Débito automático,149.9,
+2704,PR,2024-09-25,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+2705,SP,2021-04-09,Premium 600MB,Mensal,Débito automático,149.9,
+2706,PR,2019-06-07,Básico 100MB,Anual,Débito automático,79.9,
+2707,MG,2023-10-09,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+2708,PR,2021-09-10,Intermediário 300MB,Mensal,Débito automático,109.9,
+2709,SP,2024-05-15,Básico 100MB,Anual,Cartão de crédito,79.9,
+2710,SP,2021-11-30,Básico 100MB,Anual,Débito automático,79.9,
+2711,PR,2024-12-02,Intermediário 300MB,Anual,Boleto,,2025-02-11
+2712,RJ,2023-05-13,Premium 600MB,Mensal,Pix,149.9,
+2713,MG,2023-05-21,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+2714,SC,2023-07-12,Básico 100MB,Mensal,Cartão de crédito,79.9,
+2715,MG,2019-10-04,Intermediário 300MB,Mensal,Débito automático,109.9,
+2716,RS,2021-08-25,Básico 100MB,Bienal,Boleto,79.9,
+2717,SP,2024-06-03,Premium 600MB,Bienal,Pix,149.9,
+2718,SP,2020-12-27,Básico 100MB,Mensal,Cartão de crédito,79.9,
+2719,SP,2023-04-16,Intermediário 300MB,Bienal,Boleto,109.9,
+2720,RS,2021-12-16,Intermediário 300MB,Mensal,Boleto,109.9,
+2721,PR,2023-06-03,Básico 100MB,Bienal,Pix,79.9,
+2722,PR,2021-09-10,Intermediário 300MB,Anual,Boleto,109.9,
+2723,SP,2022-04-20,Intermediário 300MB,Bienal,Boleto,109.9,
+2724,SP,2023-12-05,Intermediário 300MB,Anual,Pix,109.9,
+2725,MG,2024-08-13,Premium 600MB,Anual,Débito automático,149.9,2025-11-07
+2726,PR,2023-05-28,Intermediário 300MB,Mensal,Boleto,109.9,
+2727,RS,2023-03-31,Básico 100MB,Anual,Débito automático,79.9,
+2728,RJ,2020-08-16,Intermediário 300MB,Mensal,Débito automático,109.9,
+2729,RJ,2025-03-23,Básico 100MB,Anual,Pix,79.9,
+2730,PR,2020-12-08,Intermediário 300MB,Bienal,Cartão de crédito,109.9,
+2731,SP,2022-08-22,Premium 600MB,Anual,Cartão de crédito,149.9,
+2732,PR,2024-12-28,Básico 100MB,Anual,Boleto,,2025-08-09
+2733,MG,2020-05-28,Básico 100MB,Bienal,Boleto,79.9,
+2734,SP,2022-11-09,Intermediário 300MB,Mensal,Débito automático,109.9,
+2735,SC,2024-06-15,Básico 100MB,Mensal,Débito automático,79.9,
+2736,PR,2025-09-26,Intermediário 300MB,Anual,Pix,109.9,
+2737,PR,2024-06-24,Básico 100MB,Bienal,Débito automático,79.9,
+2738,SC,2025-05-12,Intermediário 300MB,Anual,Boleto,109.9,2025-09-26
+2739,SP,2021-11-27,Premium 600MB,Mensal,Débito automático,149.9,
+2740,SC,2020-01-31,Intermediário 300MB,Mensal,Boleto,109.9,
+2741,SP,2020-11-23,Básico 100MB,Anual,Boleto,79.9,
+2742,SC,2025-05-09,Intermediário 300MB,Mensal,Cartão de crédito,109.9,2025-09-03
+2743,SP,2025-05-12,Intermediário 300MB,Bienal,Cartão de crédito,109.9,
+2744,RS,2023-09-20,Premium 600MB,Mensal,Pix,149.9,
+2745,PR,2025-06-26,Básico 100MB,Mensal,Débito automático,79.9,2025-10-05
+2746,MG,2019-10-02,Intermediário 300MB,Mensal,Boleto,109.9,
+2747,RS,2024-02-26,Básico 100MB,Bienal,Cartão de crédito,79.9,
+2748,,2021-07-25,Intermediário 300MB,Mensal,Débito automático,109.9,
+2749,PR,2025-01-03,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+2750,SP,2025-07-27,Premium 600MB,Anual,Débito automático,149.9,
+2751,PR,2021-08-05,Básico 100MB,Anual,Boleto,79.9,
+2752,SP,2019-08-16,Premium 600MB,Mensal,Débito automático,149.9,
+2753,MG,2019-07-29,Básico 100MB,Mensal,Débito automático,79.9,2025-12-23
+2754,MG,2023-08-02,Básico 100MB,Mensal,Boleto,79.9,
+2755,RJ,2024-09-18,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-06-14
+2756,PR,2025-04-26,Básico 100MB,Anual,Pix,79.9,2025-05-29
+2757,SC,2022-12-23,Premium 600MB,Mensal,Cartão de crédito,149.9,
+2758,,2019-08-07,Intermediário 300MB,Mensal,Boleto,109.9,
+2759,RS,2024-09-14,Intermediário 300MB,Mensal,Boleto,109.9,2025-07-27
+2760,PR,2020-05-30,Intermediário 300MB,Bienal,Débito automático,109.9,
+2761,SP,2021-08-29,Básico 100MB,Bienal,Boleto,79.9,
+2762,PR,2023-04-03,Premium 600MB,Mensal,Débito automático,149.9,2025-07-28
+2763,SP,2022-01-02,Intermediário 300MB,Anual,Boleto,109.9,
+2764,PR,2023-09-25,Básico 100MB,Anual,Cartão de crédito,79.9,
+2765,RJ,2023-03-09,Premium 600MB,Bienal,Débito automático,149.9,
+2766,,2023-05-10,Intermediário 300MB,Anual,Débito automático,109.9,
+2767,PR,2021-07-01,Premium 600MB,Mensal,Cartão de crédito,149.9,
+2768,RJ,2020-05-06,Básico 100MB,Mensal,Boleto,79.9,
+2769,MG,2020-06-17,Básico 100MB,Bienal,Pix,79.9,
+2770,SP,2022-02-28,Intermediário 300MB,Anual,Pix,109.9,
+2771,RS,2023-09-04,Básico 100MB,Anual,Cartão de crédito,79.9,
+2772,SP,2020-03-26,Básico 100MB,Mensal,Cartão de crédito,79.9,
+2773,RJ,2019-10-17,Intermediário 300MB,Mensal,Débito automático,109.9,2025-08-02
+2774,PR,2020-05-24,Básico 100MB,Mensal,Boleto,79.9,
+2775,PR,2021-09-13,Intermediário 300MB,Mensal,Pix,109.9,2025-11-10
+2776,PR,2023-08-01,Básico 100MB,Anual,Cartão de crédito,79.9,
+2777,RS,2023-11-14,Premium 600MB,Mensal,Pix,149.9,
+2778,PR,2024-11-03,Básico 100MB,Bienal,Pix,79.9,
+2779,SC,2022-12-25,Básico 100MB,Bienal,Cartão de crédito,79.9,
+2780,SP,2021-11-25,Intermediário 300MB,Mensal,Pix,109.9,2025-08-22
+2781,RJ,2022-07-09,Premium 600MB,Anual,Débito automático,149.9,
+2782,PR,2025-05-26,Intermediário 300MB,Mensal,Boleto,109.9,
+2783,PR,2022-02-20,Premium 600MB,Anual,Boleto,149.9,
+2784,SP,2025-04-21,Básico 100MB,Mensal,Boleto,79.9,2025-10-04
+2785,RS,2022-10-20,Intermediário 300MB,Mensal,Débito automático,109.9,
+2786,RS,2024-04-19,Básico 100MB,Anual,Boleto,79.9,2025-03-07
+2787,RS,2019-11-12,Básico 100MB,Mensal,BOLETO,79.9,2025-09-08
+2788,SP,2022-02-23,Básico 100MB,Mensal,Boleto,79.9,2025-07-25
+2789,PR,2022-12-29,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+2790,PR,2021-03-18,Básico 100MB,Mensal,Débito automático,79.9,
+2791,PR,2025-06-20,Básico 100MB,Mensal,Boleto,79.9,2025-11-19
+2792,RS,2024-08-22,Básico 100MB,Anual,Boleto,79.9,2025-09-03
+2793,SC,2025-01-06,Intermediário 300MB,Anual,Boleto,109.9,2025-02-16
+2794,PR,2025-03-12,Intermediário 300MB,Mensal,Pix,109.9,2025-10-02
+2795,PR,2022-07-15,Básico 100MB,Bienal,Cartão de crédito,79.9,
+2796,SP,2024-08-02,Intermediário 300MB,Mensal,Débito automático,109.9,
+2797,SP,2020-02-22,Intermediário 300MB,Mensal,Pix,109.9,2025-02-21
+2798,SP,2024-06-19,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+2799,RJ,2024-02-03,Básico 100MB,Bienal,Pix,79.9,
+2800,PR,2025-09-10,Intermediário 300MB,Mensal,DÉBITO AUTOMÁTICO,109.9,
+2801,SP,2023-07-20,Intermediário 300MB,Bienal,Débito automático,109.9,
+2802,PR,2020-09-18,Premium 600MB,Mensal,Boleto,149.9,
+2803,PR,2022-02-01,Premium 600MB,Mensal,Cartão de crédito,149.9,2025-11-25
+2804,PR,2022-09-20,Premium 600MB,Mensal,Pix,149.9,2025-04-09
+2805,SC,2022-04-09,Básico 100MB,Anual,Pix,79.9,
+2806,MG,2024-10-12,Premium 600MB,Mensal,Débito automático,149.9,2025-12-29
+2807,SC,2020-12-09,Intermediário 300MB,Bienal,Boleto,109.9,
+2808,PR,2022-03-14,Básico 100MB,Mensal,Débito automático,79.9,
+2809,MG,2023-10-23,Premium 600MB,Bienal,Cartão de crédito,149.9,
+2810,SP,2021-10-30,Básico 100MB,Bienal,Boleto,79.9,
+2811,PR,2025-06-03,Premium 600MB,Mensal,Boleto,149.9,2025-06-06
+2812,PR,2021-03-27,Básico 100MB,Mensal,Boleto,79.9,
+2813,SP,2024-04-06,Básico 100MB,Mensal,Boleto,79.9,2025-04-13
+2814,SP,2021-10-11,Intermediário 300MB,Mensal,Boleto,109.9,2025-06-11
+2815,SC,2021-01-02,Intermediário 300MB,Bienal,Débito automático,109.9,
+2816,PR,2021-04-25,Premium 600MB,Mensal,Boleto,149.9,2025-11-14
+2817,RJ,2022-11-03,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+2818,PR,2023-10-28,Intermediário 300MB,Mensal,Pix,109.9,
+2819,SP,2022-10-22,Básico 100MB,Bienal,Cartão de crédito,79.9,
+2820,SP,2020-07-03,Premium 600MB,Bienal,Cartão de crédito,149.9,
+2821,RS,2024-09-28,Intermediário 300MB,Bienal,Pix,109.9,
+2822,PR,2021-05-15,Básico 100MB,Anual,Débito automático,79.9,
+2823,SP,2021-05-04,Básico 100MB,Mensal,Pix,79.9,2025-04-01
+2824,RS,2024-02-09,Básico 100MB,Anual,Cartão de crédito,79.9,
+2825,PR,2024-10-24,Intermediário 300MB,Anual,Boleto,,
+2826,PR,2019-08-21,Básico 100MB,Anual,Pix,79.9,
+2827,MG,2021-01-24,Básico 100MB,Mensal,Cartão de crédito,79.9,
+2828,RJ,2024-10-22,Premium 600MB,Anual,Boleto,149.9,2025-02-03
+2829,PR,2024-02-05,Básico 100MB,Mensal,Boleto,79.9,
+2830,MG,2025-01-06,Premium 600MB,Bienal,Débito automático,149.9,
+2831,SP,2021-11-19,Intermediário 300MB,Mensal,Débito automático,109.9,
+2832,SC,2020-05-30,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-10-22
+2833,SC,2019-11-10,Básico 100MB,Bienal,Débito automático,79.9,
+2834,SC,2024-07-07,Intermediário 300MB,Anual,Boleto,109.9,
+2835,PR,2019-09-24,Básico 100MB,Bienal,Débito automático,79.9,
+2836,RS,2021-10-28,Intermediário 300MB,Bienal,Cartão de crédito,109.9,
+2837,PR,2021-09-17,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+2838,PR,2025-06-03,Premium 600MB,Mensal,Pix,149.9,
+2839,MG,2023-02-06,Básico 100MB,Mensal,Pix,79.9,
+2840,SP,2022-04-02,Básico 100MB,Bienal,Cartão de crédito,79.9,
+2841,PR,2021-12-29,Básico 100MB,Mensal,Cartão de crédito,79.9,
+2842,MG,2024-02-19,Intermediário 300MB,Anual,Boleto,109.9,
+2843,MG,2022-07-12,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-04-23
+2844,SP,2019-06-22,Básico 100MB,Mensal,Pix,79.9,2025-04-13
+2845,PR,2024-03-15,Intermediário 300MB,Anual,Débito automático,109.9,
+2846,SP,2021-04-13,Premium 600MB,Anual,Boleto,149.9,
+2847,PR,2024-06-07,Intermediário 300MB,Mensal,Boleto,109.9,2025-09-24
+2848,SC,2019-10-04,Básico 100MB,Mensal,Cartão de crédito,79.9,
+2849,MG,2020-03-03,Básico 100MB,Anual,Boleto,79.9,
+2850,SP,2024-11-20,Intermediário 300MB,Bienal,Pix,109.9,
+2851,PR,2022-10-10,Básico 100MB,Mensal,Boleto,79.9,
+2852,SC,2025-07-20,Premium 600MB,Mensal,Débito automático,149.9,2025-08-19
+2853,PR,2021-04-26,Intermediário 300MB,Bienal,Cartão de crédito,109.9,
+2854,PR,2022-12-31,Básico 100MB,Mensal,Cartão de crédito,79.9,
+2855,PR,2019-07-27,Premium 600MB,Mensal,Débito automático,,
+2856,,2019-06-19,Premium 600MB,Mensal,Boleto,149.9,2025-04-27
+2857,MG,2025-09-28,Intermediário 300MB,Mensal,Débito automático,109.9,
+2858,PR,2019-09-21,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+2859,SC,2020-11-23,Básico 100MB,Mensal,Cartão de crédito,79.9,
+2860,PR,2020-12-30,Básico 100MB,Anual,Débito automático,79.9,2025-06-16
+2861,PR,2022-05-24,Básico 100MB,Mensal,Débito automático,79.9,
+2862,SP,2019-06-25,Básico 100MB,Bienal,Boleto,79.9,
+2863,SC,2023-09-20,Básico 100MB,Anual,Débito automático,79.9,
+2864,PR,2025-01-08,Básico 100MB,Mensal,Boleto,79.9,
+2865,PR,2023-09-20,Básico 100MB,Mensal,Boleto,79.9,
+2866,PR,2019-10-19,Intermediário 300MB,Mensal,Pix,109.9,
+2867,PR,2024-04-02,Básico 100MB,Anual,Cartão de crédito,79.9,2025-01-09
+2868,MG,2021-03-09,Básico 100MB,Anual,Pix,79.9,
+2869,SP,2025-07-14,Básico 100MB,Bienal,Boleto,79.9,2025-11-23
+2870,SC,2019-12-18,Básico 100MB,Mensal,Débito automático,79.9,
+2871,RS,2020-02-12,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+2872,RS,2020-11-28,Básico 100MB,Mensal,Débito automático,79.9,
+2873,RJ,2025-07-20,Básico 100MB,Anual,Cartão de crédito,79.9,2025-07-22
+2874,RS,2021-08-10,Premium 600MB,Anual,Boleto,149.9,
+2875,SP,2021-12-28,Básico 100MB,Anual,Débito automático,79.9,
+2876,SP,2020-07-18,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+2877,SP,2024-12-05,Básico 100MB,Mensal,Cartão de crédito,79.9,2025-04-28
+2878,MG,2023-03-13,Intermediário 300MB,Mensal,Boleto,109.9,2025-02-19
+2879,SP,2022-06-03,Básico 100MB,Bienal,Boleto,79.9,
+2880,SP,2021-11-26,Básico 100MB,Mensal,Pix,79.9,
+2881,PR,2019-12-05,Intermediário 300MB,Anual,Pix,109.9,
+2882,SP,2024-12-06,Premium 600MB,Bienal,Débito automático,149.9,2025-08-02
+2883,PR,2023-01-04,Básico 100MB,Bienal,Débito automático,79.9,
+2884,MG,2025-02-21,Intermediário 300MB,Mensal,Boleto,109.9,
+2885,RS,2025-03-31,Intermediário 300MB,Mensal,Débito automático,109.9,
+2886,PR,2022-07-21,Básico 100MB,Bienal,Pix,79.9,
+2887,RJ,2020-05-23,Premium 600MB,Bienal,Débito automático,149.9,
+2888,SP,2023-08-30,Premium 600MB,Bienal,Boleto,,
+2889,RS,2022-05-25,Intermediário 300MB,Mensal,Débito automático,109.9,2025-05-17
+2890,RJ,2024-01-06,Básico 100MB,Mensal,Débito automático,79.9,2025-05-22
+2891,RJ,2019-11-09,Intermediário 300MB,Bienal,Boleto,109.9,
+2892,PR,2020-08-23,Premium 600MB,Bienal,Débito automático,149.9,
+2893,SC,2023-07-07,Básico 100MB,Bienal,Débito automático,79.9,
+2894,PR,2022-04-02,Intermediário 300MB,Mensal,Débito automático,,
+2895,RS,2025-07-10,Intermediário 300MB,Bienal,Cartão de crédito,109.9,
+2896,MG,2025-04-28,Premium 600MB,Mensal,Boleto,149.9,
+2897,PR,2024-10-02,Básico 100MB,Mensal,Débito automático,79.9,
+2898,RJ,2023-01-04,Intermediário 300MB,Bienal,Boleto,109.9,
+2899,PR,2022-10-21,Básico 100MB,Anual,Boleto,79.9,
+2900,MG,2022-01-29,Básico 100MB,Mensal,Pix,79.9,2025-10-09
+2901,RS,2021-02-21,Premium 600MB,Mensal,Cartão de crédito,149.9,
+2902,SP,2023-10-08,Básico 100MB,Bienal,Débito automático,,
+2903,MG,2022-04-16,Básico 100MB,Mensal,Pix,79.9,
+2904,MG,2023-10-06,Básico 100MB,Anual,Débito automático,79.9,
+2905,PR,2024-01-19,Intermediário 300MB,Anual,Boleto,109.9,
+2906,SC,2020-08-10,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+2907,RS,2023-09-04,Básico 100MB,Bienal,Boleto,79.9,2025-07-17
+2908,SC,2022-05-12,Premium 600MB,Bienal,Débito automático,149.9,
+2909,MG,2022-12-26,Básico 100MB,Mensal,Débito automático,79.9,
+2910,PR,2025-02-07,Básico 100MB,Mensal,Débito automático,79.9,
+2911,RS,2019-11-30,Intermediário 300MB,Mensal,Débito automático,109.9,
+2912,RJ,2023-06-09,Básico 100MB,Mensal,Boleto,79.9,
+2913,SC,2023-06-19,Intermediário 300MB,Anual,Débito automático,109.9,2025-05-22
+2914,SC,2023-10-07,Básico 100MB,Bienal,Pix,79.9,
+2915,PR,2023-10-05,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+2916,RJ,2021-03-21,Básico 100MB,Mensal,Boleto,79.9,
+2917,MG,2019-11-07,Básico 100MB,Anual,Débito automático,79.9,2025-01-26
+2918,SP,2022-03-08,Intermediário 300MB,Anual,Boleto,109.9,
+2919,SP,2019-07-23,Premium 600MB,Anual,Débito automático,149.9,
+2920,SP,2022-04-11,Premium 600MB,Mensal,Boleto,149.9,
+2921,PR,2022-04-19,Básico 100MB,Mensal,Débito automático,79.9,
+2922,PR,2025-09-24,Básico 100MB,Mensal,Boleto,79.9,2025-10-20
+2923,PR,2022-10-11,Premium 600MB,Anual,Pix,149.9,
+2924,,2023-07-04,Básico 100MB,Anual,Débito automático,79.9,
+2925,PR,2023-06-29,Básico 100MB,Mensal,Boleto ,79.9,
+2926,MG,2022-04-01,Básico 100MB,Mensal,Cartão de crédito,79.9,
+2927,PR,2024-10-02,Básico 100MB,Bienal,Pix,79.9,2025-06-21
+2928,PR,2021-09-27,Premium 600MB,Mensal,Débito automático,149.9,
+2929,RS,2020-05-19,Premium 600MB,Anual,Boleto,149.9,
+2930,MG,2022-06-03,Básico 100MB,Anual,BOLETO,79.9,
+2931,MG,2024-03-05,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+2932,SP,2023-06-04,Básico 100MB,Bienal,Boleto,79.9,
+2933,PR,2022-02-15,Premium 600MB,Anual,Pix,149.9,
+2934,SC,2022-11-16,Premium 600MB,Bienal,Cartão de crédito,149.9,
+2935,MG,2024-07-28,Básico 100MB,Anual,Pix,79.9,
+2936,RS,2024-05-14,Premium 600MB,Bienal,Boleto,149.9,
+2937,MG,2025-08-04,Premium 600MB,Bienal,Boleto,149.9,
+2938,MG,2022-06-16,Básico 100MB,Anual,Pix,,
+2939,RJ,2021-08-26,Premium 600MB,Anual,Cartão de crédito,149.9,
+2940,SP,2024-05-04,Básico 100MB,Mensal,Boleto,79.9,
+2941,RJ,2024-10-12,Intermediário 300MB,Mensal,Débito automático,109.9,
+2942,SP,2021-11-05,Básico 100MB,Bienal,Débito automático,79.9,
+2943,PR,2024-06-29,Básico 100MB,Anual,Cartão de crédito,79.9,
+2944,SP,2022-08-24,Intermediário 300MB,Bienal,Boleto,109.9,
+2945,PR,2021-03-29,Premium 600MB,Mensal,Débito automático,,
+2946,PR,2021-02-22,Premium 600MB,Mensal,Cartão de crédito,149.9,2025-06-14
+2947,RJ,2023-11-29,Básico 100MB,Anual,Débito automático,79.9,
+2948,RS,2019-10-15,Premium 600MB,Mensal,Boleto,149.9,
+2949,RJ,2024-09-28,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+2950,SC,2024-01-23,Básico 100MB,Anual,Pix,79.9,
+2951,PR,2020-08-01,Básico 100MB,Anual,Débito automático,79.9,
+2952,RJ,2023-06-15,Premium 600MB,Bienal,Pix,149.9,
+2953,SC,2021-08-27,Básico 100MB,Bienal,Débito automático,79.9,
+2954,RJ,2025-05-28,Intermediário 300MB,Mensal,Débito automático,109.9,
+2955,RS,2022-06-11,Intermediário 300MB,Mensal,Boleto,109.9,2025-02-08
+2956,PR,2025-07-03,Intermediário 300MB,Anual,Boleto,109.9,
+2957,SC,2019-12-15,Básico 100MB,Bienal,Débito automático,79.9,
+2958,PR,2024-11-16,Básico 100MB,Mensal,Pix,79.9,
+2959,SP,2020-09-13,Básico 100MB,Bienal,Pix,79.9,
+2960,SC,2025-08-13,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+2961,PR,2024-09-30,Básico 100MB,Mensal,Débito automático,79.9,2025-02-28
+2962,RS,2021-12-15,Premium 600MB,Mensal,Pix,149.9,2025-12-29
+2963,RJ,2024-12-01,Premium 600MB,Mensal,Débito automático,149.9,
+2964,RJ,2021-11-22,Básico 100MB,Anual,Débito automático,79.9,
+2965,SP,2025-07-01,Intermediário 300MB,Bienal,Cartão de crédito,109.9,
+2966,RJ,2019-06-23,Intermediário 300MB,Mensal,Pix,109.9,2025-01-08
+2967,RJ,2020-01-21,Básico 100MB,Mensal,Débito automático,79.9,
+2968,PR,2022-06-29,Básico 100MB,Anual,Boleto,79.9,
+2969,SC,2021-12-15,Básico 100MB,Mensal,Pix,79.9,
+2970,RJ,2020-11-04,Premium 600MB,Anual,Boleto,149.9,
+2971,RJ,2024-05-13,Premium 600MB,Anual,Boleto,149.9,2025-09-07
+2972,PR,2020-08-04,Intermediário 300MB,Mensal,Cartão de crédito,109.9,
+2973,SC,2021-08-01,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+2974,RJ,2023-11-16,Premium 600MB,Anual,Débito automático,149.9,
+2975,PR,2024-03-02,Básico 100MB,Mensal,Débito automático,79.9,2025-05-29
+2976,RS,2020-11-14,Intermediário 300MB,Mensal,Boleto,109.9,2025-04-16
+2977,PR,2024-03-12,Intermediário 300MB,Bienal,Boleto,109.9,2025-10-22
+2978,RJ,2024-01-01,Básico 100MB,Anual,Débito automático,79.9,
+2979,PR,2023-01-07,Básico 100MB,Anual,Boleto,79.9,
+2980,MG,2021-11-29,Básico 100MB,Anual,Cartão de crédito,79.9,2025-08-09
+2981,PR,2022-06-29,Premium 600MB,Mensal,Pix,149.9,2025-08-08
+2982,RS,2023-08-04,Básico 100MB,Mensal,Pix,79.9,
+2983,SC,2023-01-18,Intermediário 300MB,Bienal,Boleto,109.9,
+2984,MG,2022-03-20,Intermediário 300MB,Mensal,Débito automático,109.9,
+2985,SP,2023-09-24,Intermediário 300MB,Mensal,Pix,109.9,
+2986,PR,2023-03-10,Premium 600MB,Mensal,Pix,149.9,
+2987,PR,2023-07-29,Intermediário 300MB,Mensal,Débito automático,109.9,
+2988,PR,2024-01-07,Intermediário 300MB,Mensal,Cartão de crédito,109.9,2025-06-10
+2989,PR,2024-11-18,Intermediário 300MB,Anual,Cartão de crédito,109.9,
+2990,PR,2020-01-13,Básico 100MB,Anual,Débito automático,79.9,
+2991,PR,2022-11-11,Intermediário 300MB,Bienal,Cartão de crédito,109.9,
+2992,SP,2021-10-20,Intermediário 300MB,Anual,Pix,109.9,
+2993,RS,2021-11-08,Premium 600MB,Mensal,Pix,149.9,
+2994,RJ,2023-06-18,Básico 100MB,Mensal,Débito automático,79.9,2025-03-24
+2995,MG,2022-04-02,Básico 100MB,Anual,Débito automático,79.9,
+2996,SP,2025-08-05,Básico 100MB,Mensal,Pix,79.9,2025-09-28
+2997,,2020-07-01,Premium 600MB,Bienal,Boleto,149.9,
+2998,SP,2022-06-28,Básico 100MB,Mensal,Débito automático,79.9,
+2999,PR,2025-02-07,Básico 100MB,Anual,Cartão de crédito,79.9,
+3000,SP,2021-03-10,Básico 100MB,Mensal,Pix,79.9,
+2900,MG,2022-01-29,Básico 100MB,Mensal,Pix,79.9,2025-10-09
+2671,SP,2022-06-09,Básico 100MB,Bienal,Débito automático,79.9,
+2775,PR,2021-09-13,Intermediário 300MB,Mensal,Pix,109.9,2025-11-10
+1700,SP,2019-07-13,Premium 600MB,Anual,Pix,149.9,
+1934,SP,2023-09-23,Básico 100MB,Anual,Pix,79.9,
+1369,SP,2021-11-03,Básico 100MB,Mensal,Boleto,79.9,2025-12-25
+1318,MG,2023-08-27,Premium 600MB,Bienal,Pix,149.9,
+2428,PR,2019-07-11,Básico 100MB,Anual,Boleto,79.9,
+1560,,2023-12-03,Básico 100MB,Bienal,Débito automático,79.9,
+1267,SP,2023-04-19,Intermediário 300MB,Anual,Cartão de crédito,109.9,2025-01-15
+2258,PR,2019-12-22,Premium 600MB,Mensal,Boleto,149.9,
+603,SP,2023-06-09,Intermediário 300MB,Mensal,Boleto,109.9,
+2262,SP,2024-06-10,Básico 100MB,Anual,Boleto,79.9,
+1833,RJ,2021-02-19,Premium 600MB,Anual,Boleto,149.9,
+348,PR,2024-10-26,Básico 100MB,Mensal,Boleto,79.9,
+1407,MG,2023-09-07,Intermediário 300MB,Bienal,Débito automático,109.9,
+2432,SP,2022-06-03,Básico 100MB,Anual,Cartão de crédito,79.9,2025-11-11
+195,SP,2024-10-11,Básico 100MB,Mensal,Cartão de crédito,79.9,
+792,SP,2020-04-15,Básico 100MB,Anual,Pix,79.9,
+1859,MG,2020-02-17,Intermediário 300MB,Bienal,Débito automático,109.9,
